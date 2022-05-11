@@ -43,9 +43,10 @@ public class MainWindow extends JFrame
         button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                //world.MakeTurn();
-                world.rysujSwiat();
+
                 world.MakeTurn();
+                world.rysujSwiat();
+
             }
         });
         add(button);

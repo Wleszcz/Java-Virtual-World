@@ -1,41 +1,77 @@
 package wiktor;
 
+import wiktor.Organisms.Animals.Fox;
+import wiktor.Organisms.Animals.Sheep;
+import wiktor.Organisms.Animals.Wolf;
 import wiktor.Organisms.Organism;
 import wiktor.Organisms.Plant;
-import wiktor.Organisms.Plants.Grass;
+import wiktor.Organisms.Plants.*;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Random;
 
 
 public class World extends JPanel {
 
     public static int SCALE = 20;
 
-    public boolean END = false;
     private Dimension tilesDimension;
 
     private int turn=0;
-    private Organism board[][];
+    private Organism board[][]=null;
     private ArrayList<Organism> organisms;
+
     public World(Dimension worldBorders) {
         setSize(worldBorders);
 
+         ArrayList<Organism> allOrganisms;
+
+
+
         organisms = new ArrayList<Organism>();
+        allOrganisms = new ArrayList<Organism>();
 
-
+        Random random= new Random();
 
 
         tilesDimension = new Dimension(worldBorders.width / SCALE, worldBorders.height / SCALE);
         board=new Organism[tilesDimension.width][tilesDimension.height];
-        UpdateBoard();
-        organisms.add(new Grass(new Point(1,1),this));
-        organisms.add(new Grass(new Point(1,0),this));
+
+
+
+        allOrganisms.add(new Grass(this));
+        allOrganisms.add(new Belladonna(this));
+        allOrganisms.add(new Dandelion(this));
+        allOrganisms.add(new Guarana(this));
+        allOrganisms.add(new SosnowskysHogweed(this));
+        allOrganisms.add(new Wolf(this));
+        allOrganisms.add(new Sheep(this));
+        allOrganisms.add(new Fox(this));
+
+
+
+        for (int i = 0; i < allOrganisms.size(); i++) {
+
+            for (int j = 0; j < 2+random.nextInt(10); j++) {
+                Point point=new Point(random.nextInt(tilesDimension.width),random.nextInt(tilesDimension.height));
+                organisms.add(allOrganisms.get(i).Constructor(point));
+            }
+
+        }
+//        organisms.add(new Sheep(new Point(0,0),this));
+//        organisms.add(new Sheep(new Point(1,1),this));
+//        organisms.add(new Sheep(new Point(1,2),this));
+
+        updateBoard();
+        sortOrganisms(organisms);
     }
 
-    public boolean IsEmpty(Point point) {
+    public boolean isEmpty(Point point) {
             if (board[point.x][point.y] == null) {
                 return true;
             } else {
@@ -43,11 +79,16 @@ public class World extends JPanel {
             }
     }
 
+    public Organism getOrganism(Point point){
+        return board[point.x][point.y];
+    }
 
-    public int MakeTurn(){
-        UpdateBoard();
+
+    public void MakeTurn(){
+        updateBoard();
         for (int i=0;i<organisms.size();i++){
             if(organisms.get(i).isAlive()){
+
                 if(organisms.get(i).getAge()!=0 || organisms.get(i)  instanceof Plant){
                     organisms.get(i).action();
                 }
@@ -58,16 +99,23 @@ public class World extends JPanel {
 
                 turn++;
 
-                if(END){
-                    return 1;
-                }
             }
 
         }
-        return 0;
+        delateKilled();
     }
 
-    private void UpdateBoard() {
+    private void delateKilled() {
+        for (int i = organisms.size()-1; i >= 0; i--) {
+            if(!organisms.get(i).isAlive()){
+                organisms.remove(i);
+            }
+        }
+    }
+
+
+
+    public void updateBoard() {
         for (int i=0 ; i<tilesDimension.width;i++){
             for (int j=0 ; j<tilesDimension.height;j++){
                 board[i][j]=null;
@@ -86,40 +134,62 @@ public class World extends JPanel {
 
     public void rysujSwiat() {
         Graphics graphics = getGraphics();
-        graphics.setColor(Color.GRAY);
+        graphics.setColor(Color.decode("#DEDEDE"));
         graphics.fillRect(0, 0, getWidth(), getHeight());
-        int i=0;
-        for(Organism organism : organisms) {
-            organism.print(graphics);
-            System.out.println(i+"  "+organism.GetType()+"  "+ organism.getPosition().getX()+"  "+organism.getPosition().getY());
-            i++;
+
+//        for (int i = organisms.size()-1; i >=0; i--) {
+//            organisms.get(i).print(graphics);
+//        }
+        for (int i = 0; i < organisms.size(); i++) {
+            if(organisms.get(i).isAlive()) {
+                organisms.get(i).print(graphics);
+            }
         }
-        System.out.println();
+
+
+
     }
 
     public void handleMousePress(MouseEvent event) {
         Point point= new Point(event.getPoint().x/SCALE,event.getPoint().y/SCALE);
 
-        System.out.println(point.x + "   "+point.y);
+        Organism organism=board[point.x][point.y];
+        System.out.println(organism.getType()+"   "+ organism.getStrength());
 
-        if(!IsEmpty(point)) {
-            board[point.x][point.y].Die();
+
+
+        System.out.println(point.x + "   "+point.y);
+ /*
+        if(!isEmpty(point)) {
+            board[point.x][point.y].die();
         }
         addOrganism(new Grass(point,this));
         board[point.x][point.y].print(getGraphics());
-
+*/
     }
     public void handleKeyPress(KeyEvent event) {
 
     }
 
     public void addOrganism(Organism organism) {
-        organisms.add(organism);
-        sortOrganisms(organisms);
-        UpdateBoard();
+
+        if(isEmpty(organism.getPosition())){
+            organisms.add(organism);
+            sortOrganisms(organisms);
+            updateBoard();
+        }
     }
 
-    private void sortOrganisms(ArrayList<Organism> organisms) {}
+    private void sortOrganisms(ArrayList<Organism> organisms) {
+
+        Collections.sort(organisms, new Comparator<Organism>() {
+            @Override
+            public int compare(Organism o1, Organism o2) {
+                return  o2.getInitiative() - o1.getInitiative() ;
+            }
+        });
+
+    }
 
 
 }

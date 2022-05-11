@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143ce88c-2de1-4c1d-b2a9-0c62f2a5e2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Grass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/World.java" afterDir="false" />
+    <list default="true" id="143ce88c-2de1-4c1d-b2a9-0c62f2a5e2be" name="Changes" comment="Działa jest dobrze">
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/IDeflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Belladonna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Dandelion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Guarana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/SosnowskysHogweed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Grass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Grass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/World.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +77,17 @@
       <option name="presentableId" value="Default" />
       <updated>1651837314486</updated>
       <workItem from="1651837316486" duration="16156000" />
-      <workItem from="1652210040319" duration="5523000" />
+      <workItem from="1652210040319" duration="6620000" />
+      <workItem from="1652274403324" duration="23506000" />
     </task>
+    <task id="LOCAL-00001" summary="Działa jest dobrze">
+      <created>1652215690659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652215690659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Działa jest dobrze" />
+    <option name="LAST_COMMIT_MESSAGE" value="Działa jest dobrze" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

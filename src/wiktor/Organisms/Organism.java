@@ -9,7 +9,6 @@ public abstract class Organism {
     protected Point position;
     protected int strength=0,initiative=0,age=0;
     protected boolean alive = true, ready=true;
-    protected String type;
     protected World world;
 
 
@@ -17,16 +16,23 @@ public abstract class Organism {
     public Organism(Point position, World world) {
         this.position = position;
         this.world = world;
+
     }
+
+    public Organism(World world) {
+        this.world=world;
+    }
+
+    abstract public  void colision(Organism attacker);
 
     public abstract void action();
 
     public abstract Organism Constructor(Point  point);
-    public abstract void colision();
 
-    public abstract void setSolor(Graphics g);
+
+    public abstract void setColor(Graphics g);
     public void print(Graphics g) {
-        setSolor(g);
+        setColor(g);
         g.fillRect(position.x * World.SCALE, position.y * World.SCALE, World.SCALE, World.SCALE);
     }
 
@@ -35,21 +41,36 @@ public abstract class Organism {
         ready=state;
     }
 
-    public Point NearRandomPoint() {
+    public Point NearRandomEmptyPoint() {
         Point point;
+
         Random random = new Random();
 
         int i=0;
         while (true) {
+            point= nearRandomPoint();
+            if (world.isEmpty(point)) {
+                return point;
+            }
+            i++;
+        }
+    }
+
+    public Point nearRandomPoint(){
+        Point point;
+        Random random = new Random();
+
+
+
+        while (true){
             int xRand = random.nextInt(3);
             int yRand = random.nextInt(3);
 
             point = new Point(position.x - 1 + xRand, position.y - 1 + yRand);
 
-            if (world.InBounds(point) && !(xRand == 0 && yRand == 0) && world.IsEmpty(point)) {
+            if (world.InBounds(point) && !(xRand == 0 && yRand == 0)){
                 return point;
             }
-            i++;
         }
     }
 
@@ -57,7 +78,11 @@ public abstract class Organism {
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 Point point =new Point(this.getPosition().x-1+i,this.getPosition().y-1+j);
-                if(world.InBounds(point) && world.IsEmpty(point)){
+                if(i==0 && j==0){
+                    continue;
+                }
+
+                if(world.InBounds(point) && world.isEmpty(point)){
                     return false;
                 }
             }
@@ -93,17 +118,19 @@ public abstract class Organism {
         return ready;
     }
 
-    public void BonusStrength(){
+    public void bonusStrength(){
         strength=strength*3;
+        System.out.println(getType()+"  got bonus to strength");
     }
 
-    public String GetType(){
-        return type;
+    public String getType(){
+        return this.getClass().getSimpleName();
     }
 
 
-    public void Die(){
+    public void die(){
         alive=false;
+        world.updateBoard();
     }
 
 
