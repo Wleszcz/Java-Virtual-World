@@ -23,37 +23,38 @@ public abstract class Animal extends Organism{
     }
 
     protected void move(Point point) {
-        if(!world.isEmpty(point)){
-            Organism attacked = world.getOrganism(point);
+        if (world.InBounds(point)) {
+            if (!world.isEmpty(point)) {
+                Organism attacked = world.getOrganism(point);
 
-            if(attacked.getClass().isInstance(this)){
-                if(attacked!=this){
-                    mulitply(attacked);
-                    ready=false;
-                    attacked.setReady(false);
-                }
-                return;
-            }
-            else {
+                if (attacked.getClass().isInstance(this)) {
+                    if (attacked != this) {
+                        mulitply(attacked);
+                        ready = false;
+                        attacked.setReady(false);
+                    }
+                    return;
+                } else {
 
 
-                if(attacked instanceof IDeflect) {
-                    IDeflect d = (IDeflect) attacked;
-                    if(!d.deflectedAttack(this)) {
-                        //attacked.colision(this);
-                        //position.setLocation(point);
+                    if (attacked instanceof IDeflect) {
+                        IDeflect d = (IDeflect) attacked;
+                        if (!d.deflectedAttack(this)) {
+                            attacked.colision(this);
+                            position.setLocation(point);
+                        }
+                    }
+                    attacked.colision(this);
+                    if (this.alive) {
+                        position.setLocation(point);
+                        world.updateBoard();
                     }
                 }
-                attacked.colision(this);
-                if(this.alive){
-                    position.setLocation(point);
-                    world.updateBoard();
-                }
             }
-        }
-        position.setLocation(point);
-        world.updateBoard();
+            position.setLocation(point);
+            world.updateBoard();
 
+        }
     }
 
     @Override
@@ -75,7 +76,7 @@ public abstract class Animal extends Organism{
     }
 
     private void mulitply(Organism attacked) {
-        if(!isSurrounded()){
+        if(!isSurroundedbyAnimals()){
             Point point=nearPointWithoutAnimal();
 
             Organism organism= this.Constructor(point);
@@ -90,7 +91,7 @@ public abstract class Animal extends Organism{
     }
 
     private boolean isSurroundedbyAnimals() {
-        int range = 1;
+
 
         for (int i = -range; i <= range; i++) {
             for (int j = -range; j <= range; j++) {

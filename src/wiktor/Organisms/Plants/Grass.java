@@ -9,6 +9,7 @@ import java.awt.*;
 public class Grass extends Plant {
 
     public Grass(World world) {
+
         super(world);
     }
 

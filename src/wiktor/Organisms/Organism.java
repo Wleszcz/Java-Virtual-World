@@ -10,6 +10,7 @@ public abstract class Organism {
     protected int strength=0,initiative=0,age=0;
     protected boolean alive = true, ready=true;
     protected World world;
+    protected int  range=1;
 
 
 
@@ -56,6 +57,22 @@ public abstract class Organism {
         }
     }
 
+    @Override
+    public String toString() {
+
+        String organism="\n";
+        organism+=getType();
+        organism+="\n Strength: ";
+        organism+=strength;
+        organism+="\n AGE:      ";
+        organism+=age;
+        organism+="\n Position: ";
+        organism+=position.x;
+        organism+="   ";
+        organism+=position.x;
+        return organism;
+    }
+
     public Point nearRandomPoint(){
         Point point;
         Random random = new Random();
@@ -63,20 +80,24 @@ public abstract class Organism {
 
 
         while (true){
-            int xRand = random.nextInt(3);
-            int yRand = random.nextInt(3);
 
-            point = new Point(position.x - 1 + xRand, position.y - 1 + yRand);
+            int xRand = random.nextInt(2*range+1);
+            int yRand = random.nextInt(2*range+1);
 
-            if (world.InBounds(point) && !(xRand == 0 && yRand == 0)){
+            point = new Point(position.x - range + xRand, position.y - range + yRand);
+
+            if(point.x==position.x && point.y==position.y){
+                continue;
+            }
+            if (world.InBounds(point) ){
                 return point;
             }
         }
     }
 
     public boolean isSurrounded(){
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
+        for (int i = -range; i <= range; i++) {
+            for (int j = -range; j <= range; j++) {
                 Point point =new Point(this.getPosition().x-1+i,this.getPosition().y-1+j);
                 if(i==0 && j==0){
                     continue;
@@ -119,7 +140,7 @@ public abstract class Organism {
     }
 
     public void bonusStrength(){
-        strength=strength*3;
+        strength=strength+3;
         System.out.println(getType()+"  got bonus to strength");
     }
 

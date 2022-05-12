@@ -26,7 +26,7 @@ public class Fox extends Animal {
     public void action() {
         Point point= nearRandomPoint();
 
-        if(world.getOrganism(point).getStrength()<strength){
+        if(world.isEmpty(point) || world.getOrganism(point).getStrength()<strength){
             move(point);
             world.updateBoard();
         }

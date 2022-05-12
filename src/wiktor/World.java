@@ -1,8 +1,6 @@
 package wiktor;
 
-import wiktor.Organisms.Animals.Fox;
-import wiktor.Organisms.Animals.Sheep;
-import wiktor.Organisms.Animals.Wolf;
+import wiktor.Organisms.Animals.*;
 import wiktor.Organisms.Organism;
 import wiktor.Organisms.Plant;
 import wiktor.Organisms.Plants.*;
@@ -10,6 +8,7 @@ import wiktor.Organisms.Plants.*;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -18,6 +17,14 @@ import java.util.Random;
 
 public class World extends JPanel {
 
+    private static final int SPACE = 32;
+    private static final int UP = 38;
+    private static final int DOWN = 40;
+    private static final int LEFT = 37;
+    private static final int RIGHT = 39;
+    private static final int SAVE = 83;
+    private static final int SUPER = 155;
+
     public static int SCALE = 20;
 
     private Dimension tilesDimension;
@@ -25,47 +32,42 @@ public class World extends JPanel {
     private int turn=0;
     private Organism board[][]=null;
     private ArrayList<Organism> organisms;
+    private Human human=null;
+
+    private Organism selected=getAllOrganisms().get(0);
+
 
     public World(Dimension worldBorders) {
         setSize(worldBorders);
-
-         ArrayList<Organism> allOrganisms;
-
-
-
-        organisms = new ArrayList<Organism>();
-        allOrganisms = new ArrayList<Organism>();
-
-        Random random= new Random();
 
 
         tilesDimension = new Dimension(worldBorders.width / SCALE, worldBorders.height / SCALE);
         board=new Organism[tilesDimension.width][tilesDimension.height];
 
 
+        ArrayList<Organism> allOrganisms;
+        organisms = new ArrayList<Organism>();
+        allOrganisms = getAllOrganisms();
 
-        allOrganisms.add(new Grass(this));
-        allOrganisms.add(new Belladonna(this));
-        allOrganisms.add(new Dandelion(this));
-        allOrganisms.add(new Guarana(this));
-        allOrganisms.add(new SosnowskysHogweed(this));
-        allOrganisms.add(new Wolf(this));
-        allOrganisms.add(new Sheep(this));
-        allOrganisms.add(new Fox(this));
 
+        Random random= new Random();
 
 
         for (int i = 0; i < allOrganisms.size(); i++) {
 
             for (int j = 0; j < 2+random.nextInt(10); j++) {
                 Point point=new Point(random.nextInt(tilesDimension.width),random.nextInt(tilesDimension.height));
-                organisms.add(allOrganisms.get(i).Constructor(point));
+
+                if(!(allOrganisms.get(i)instanceof Human)) {
+                    organisms.add(allOrganisms.get(i).Constructor(point));
+                }
             }
 
         }
-//        organisms.add(new Sheep(new Point(0,0),this));
-//        organisms.add(new Sheep(new Point(1,1),this));
-//        organisms.add(new Sheep(new Point(1,2),this));
+
+
+        Point point=new Point(random.nextInt(tilesDimension.width),random.nextInt(tilesDimension.height));
+        organisms.add(new Human(point,this));
 
         updateBoard();
         sortOrganisms(organisms);
@@ -83,9 +85,28 @@ public class World extends JPanel {
         return board[point.x][point.y];
     }
 
+    public ArrayList<Organism> getAllOrganisms() {
+        ArrayList<Organism> baseOrganisms = new ArrayList<Organism>();
+
+        baseOrganisms.add(new Grass(this));
+        baseOrganisms.add(new Belladonna(this));
+        baseOrganisms.add(new Dandelion(this));
+        baseOrganisms.add(new Guarana(this));
+        baseOrganisms.add(new SosnowskysHogweed(this));
+        baseOrganisms.add(new Wolf(this));
+        baseOrganisms.add(new Sheep(this));
+        baseOrganisms.add(new Fox(this));
+        baseOrganisms.add(new Turtle(this));
+        baseOrganisms.add(new Antilope(this));
+
+        baseOrganisms.add(new Human(this));
+
+        return baseOrganisms;
+    }
 
     public void MakeTurn(){
         updateBoard();
+        //System.out.println(human.getStrength());
         for (int i=0;i<organisms.size();i++){
             if(organisms.get(i).isAlive()){
 
@@ -103,12 +124,14 @@ public class World extends JPanel {
 
         }
         delateKilled();
+        drawWorld();
     }
 
     private void delateKilled() {
         for (int i = organisms.size()-1; i >= 0; i--) {
             if(!organisms.get(i).isAlive()){
                 organisms.remove(i);
+
             }
         }
     }
@@ -126,20 +149,15 @@ public class World extends JPanel {
     }
 
     public boolean InBounds(Point point){
-        if(point.x >= 0 && point.x < tilesDimension.width && point.y >= 0 && point.y < tilesDimension.height){
-            return true;
-        }
-        return false;
+        return point.x >= 0 && point.x < tilesDimension.width && point.y >= 0 && point.y < tilesDimension.height;
     }
 
-    public void rysujSwiat() {
+    public void drawWorld() {
         Graphics graphics = getGraphics();
         graphics.setColor(Color.decode("#DEDEDE"));
         graphics.fillRect(0, 0, getWidth(), getHeight());
 
-//        for (int i = organisms.size()-1; i >=0; i--) {
-//            organisms.get(i).print(graphics);
-//        }
+
         for (int i = 0; i < organisms.size(); i++) {
             if(organisms.get(i).isAlive()) {
                 organisms.get(i).print(graphics);
@@ -153,23 +171,45 @@ public class World extends JPanel {
     public void handleMousePress(MouseEvent event) {
         Point point= new Point(event.getPoint().x/SCALE,event.getPoint().y/SCALE);
 
-        Organism organism=board[point.x][point.y];
-        System.out.println(organism.getType()+"   "+ organism.getStrength());
-
-
-
-        System.out.println(point.x + "   "+point.y);
- /*
-        if(!isEmpty(point)) {
-            board[point.x][point.y].die();
+        if(isEmpty(point)){
+            if(selected!=null) {
+                addOrganism(selected.Constructor(point));
+                getOrganism(point).print(getGraphics());
+            }
         }
-        addOrganism(new Grass(point,this));
-        board[point.x][point.y].print(getGraphics());
-*/
+        else{
+
+            Organism  organism=getOrganism(point);
+
+            System.out.println(organism.toString());
+        }
+
+
     }
     public void handleKeyPress(KeyEvent event) {
+        int code = event.getKeyCode();
+        //System.out.println(code);
+            if(code == SPACE){
+                MakeTurn();
+
+            }
+            else if((code == UP || code == DOWN || code == LEFT || code == RIGHT || code== SAVE ||code == SUPER)&& human!=null){
+                human.handleKeys(code);
+            }
 
     }
+    public void setHuman(Human human){
+        this.human=human;
+    }
+
+    public void humanIsDead(){
+        human=null;
+    }
+
+    public Human getHuman(){
+        return human;
+    }
+
 
     public void addOrganism(Organism organism) {
 
@@ -192,4 +232,7 @@ public class World extends JPanel {
     }
 
 
+    public void selectedOrganism(Organism selected) {
+        this.selected=selected;
+    }
 }

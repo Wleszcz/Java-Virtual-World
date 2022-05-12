@@ -6,6 +6,8 @@ import java.awt.*;
 import java.util.Random;
 
 public abstract class Plant extends Organism{
+    private static final double GROWING_CHANCE = 0.125;
+
     public Plant(Point position, World world) {
         super(position,world);
         initiative=0;
@@ -34,7 +36,7 @@ public abstract class Plant extends Organism{
     public void action() {
         Random random= new Random();
 
-        if(random.nextInt(9)==0 && !isSurrounded() ){
+        if(random.nextInt((int) (1/GROWING_CHANCE))==0 && !isSurrounded() ){
             if(isSurrounded()){
                 return;
             }

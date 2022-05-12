@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143ce88c-2de1-4c1d-b2a9-0c62f2a5e2be" name="Changes" comment="Działa jest dobrze">
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/IDeflect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Belladonna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Dandelion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Guarana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/SosnowskysHogweed.java" afterDir="false" />
+    <list default="true" id="143ce88c-2de1-4c1d-b2a9-0c62f2a5e2be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/MainWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Grass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Grass.java" afterDir="false" />
@@ -40,33 +33,27 @@
   </component>
   <component name="ProjectId" id="28n10WcSOXMOi3G3tTkX74JgAe1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
-    <configuration name="wiktor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="wiktor.Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wiktor.Main" />
       <module name="POO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.wiktor.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,17 +64,15 @@
       <option name="presentableId" value="Default" />
       <updated>1651837314486</updated>
       <workItem from="1651837316486" duration="16156000" />
-      <workItem from="1652210040319" duration="6620000" />
-      <workItem from="1652274403324" duration="23506000" />
+      <workItem from="1652210040319" duration="5523000" />
+      <workItem from="1652216628938" duration="142000" />
+      <workItem from="1652299267107" duration="326000" />
+      <workItem from="1652299616222" duration="149000" />
+      <workItem from="1652299895084" duration="149000" />
+      <workItem from="1652300062189" duration="795000" />
+      <workItem from="1652359384919" duration="12553000" />
+      <workItem from="1652372866153" duration="4854000" />
     </task>
-    <task id="LOCAL-00001" summary="Działa jest dobrze">
-      <created>1652215690659</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1652215690659</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,11 +89,26 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Działa jest dobrze" />
-    <option name="LAST_COMMIT_MESSAGE" value="Działa jest dobrze" />
-  </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/wiktor/MainWindow.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="turn" language="JAVA" />
