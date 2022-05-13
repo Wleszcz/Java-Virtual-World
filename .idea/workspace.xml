@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143ce88c-2de1-4c1d-b2a9-0c62f2a5e2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Human.java" afterDir="false" />
+    <list default="true" id="143ce88c-2de1-4c1d-b2a9-0c62f2a5e2be" name="Changes" comment="Jeszcze Działa">
+      <change afterPath="$PROJECT_DIR$/save.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/MainWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Grass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Grass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/World.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +25,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,6 +46,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,8 +77,18 @@
       <workItem from="1652299895084" duration="149000" />
       <workItem from="1652300062189" duration="795000" />
       <workItem from="1652359384919" duration="12553000" />
-      <workItem from="1652372866153" duration="4854000" />
+      <workItem from="1652372866153" duration="12443000" />
+      <workItem from="1652385528388" duration="98000" />
+      <workItem from="1652442756727" duration="3144000" />
     </task>
+    <task id="LOCAL-00001" summary="Jeszcze Działa">
+      <created>1652377810584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652377810584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,26 +105,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Jeszcze Działa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jeszcze Działa" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/wiktor/MainWindow.java</url>
-          <line>79</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="turn" language="JAVA" />

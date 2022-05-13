@@ -5,8 +5,7 @@ import wiktor.Organisms.Organism;
 import wiktor.World;
 
 import java.awt.*;
-
-
+import java.io.PrintWriter;
 
 
 public class Human extends Animal {
@@ -40,8 +39,16 @@ public class Human extends Animal {
         strength= BASE_STRENGTH;
         initiative=4;
         world.setHuman(this);
-
     }
+    public Human(Point position, World world, int strenght,boolean abilityActive,int cooldown){
+        super(position, world);
+        strength= strenght;
+        initiative=4;
+        world.setHuman(this);
+        this.abilityActive=abilityActive;
+        this.abilityCooldown=cooldown;
+    }
+
 
     public Human(World world) {
         super(world);
@@ -126,6 +133,14 @@ public class Human extends Animal {
         }
     }
 
+    public void setAbilityActive(boolean abilityActive) {
+        this.abilityActive = abilityActive;
+    }
+
+    public void setAbilityCooldown(int abilityCooldown) {
+        this.abilityCooldown = abilityCooldown;
+    }
+
     @Override
     public String toString() {
         String organism=super.toString();
@@ -139,6 +154,15 @@ public class Human extends Animal {
         organism+="\n Ability cooldown:  ";
         organism+=abilityCooldown;
         return organism;
+    }
+
+    @Override
+    public void save(PrintWriter save) {
+        super.save(save);
+        save.println("Ability active:");
+        save.println(abilityActive);
+        save.println("Ability cooldown:");
+        save.println(abilityCooldown);
     }
 
     @Override

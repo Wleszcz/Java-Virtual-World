@@ -30,6 +30,7 @@ public class Antilope extends Animal implements IDeflect {
         return new Antilope(point,world);
     }
 
+
     @Override
     public void setColor(Graphics g) {
         g.setColor(Color.decode("#F0C711"));

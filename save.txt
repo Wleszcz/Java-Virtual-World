@@ -1,0 +1,458 @@
+Turn:
+6
+Amount of organisms:
+45
+
+Fox
+Age:
+6
+Strength:
+3
+Position X:
+0
+Position Y:
+13
+
+Fox
+Age:
+6
+Strength:
+3
+Position X:
+16
+Position Y:
+4
+
+Fox
+Age:
+6
+Strength:
+3
+Position X:
+32
+Position Y:
+12
+
+Fox
+Age:
+6
+Strength:
+3
+Position X:
+29
+Position Y:
+6
+
+Fox
+Age:
+6
+Strength:
+6
+Position X:
+36
+Position Y:
+14
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+2
+Position Y:
+6
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+29
+Position Y:
+8
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+25
+Position Y:
+21
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+37
+Position Y:
+11
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+22
+Position Y:
+14
+
+Sheep
+Age:
+6
+Strength:
+4
+Position X:
+10
+Position Y:
+2
+
+Sheep
+Age:
+6
+Strength:
+4
+Position X:
+17
+Position Y:
+21
+
+Sheep
+Age:
+6
+Strength:
+4
+Position X:
+1
+Position Y:
+15
+
+Antilope
+Age:
+6
+Strength:
+4
+Position X:
+33
+Position Y:
+19
+
+Antilope
+Age:
+6
+Strength:
+4
+Position X:
+8
+Position Y:
+7
+
+Antilope
+Age:
+6
+Strength:
+4
+Position X:
+20
+Position Y:
+20
+
+Antilope
+Age:
+6
+Strength:
+4
+Position X:
+5
+Position Y:
+20
+
+Human
+Age:
+6
+Strength:
+5
+Position X:
+5
+Position Y:
+21
+Ability active:
+false
+Ability cooldown:
+0
+
+Turtle
+Age:
+6
+Strength:
+2
+Position X:
+6
+Position Y:
+14
+
+Turtle
+Age:
+6
+Strength:
+2
+Position X:
+34
+Position Y:
+5
+
+Turtle
+Age:
+6
+Strength:
+2
+Position X:
+13
+Position Y:
+9
+
+Turtle
+Age:
+6
+Strength:
+2
+Position X:
+3
+Position Y:
+8
+
+Grass
+Age:
+6
+Strength:
+0
+Position X:
+9
+Position Y:
+1
+
+Grass
+Age:
+6
+Strength:
+0
+Position X:
+12
+Position Y:
+19
+
+Belladonna
+Age:
+6
+Strength:
+99
+Position X:
+17
+Position Y:
+13
+
+Belladonna
+Age:
+6
+Strength:
+99
+Position X:
+11
+Position Y:
+23
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+7
+Position Y:
+3
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+5
+Position Y:
+17
+
+Guarana
+Age:
+6
+Strength:
+0
+Position X:
+32
+Position Y:
+8
+
+Guarana
+Age:
+6
+Strength:
+0
+Position X:
+32
+Position Y:
+11
+
+Guarana
+Age:
+6
+Strength:
+0
+Position X:
+16
+Position Y:
+8
+
+SosnowskysHogweed
+Age:
+6
+Strength:
+10
+Position X:
+26
+Position Y:
+6
+
+SosnowskysHogweed
+Age:
+6
+Strength:
+10
+Position X:
+19
+Position Y:
+1
+
+SosnowskysHogweed
+Age:
+6
+Strength:
+10
+Position X:
+31
+Position Y:
+0
+
+SosnowskysHogweed
+Age:
+6
+Strength:
+10
+Position X:
+29
+Position Y:
+20
+
+SosnowskysHogweed
+Age:
+6
+Strength:
+10
+Position X:
+3
+Position Y:
+22
+
+Grass
+Age:
+6
+Strength:
+0
+Position X:
+8
+Position Y:
+2
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+7
+Position Y:
+4
+
+Dandelion
+Age:
+5
+Strength:
+0
+Position X:
+8
+Position Y:
+3
+
+Dandelion
+Age:
+5
+Strength:
+0
+Position X:
+6
+Position Y:
+17
+
+Guarana
+Age:
+4
+Strength:
+0
+Position X:
+37
+Position Y:
+15
+
+Dandelion
+Age:
+3
+Strength:
+0
+Position X:
+6
+Position Y:
+3
+
+Grass
+Age:
+2
+Strength:
+0
+Position X:
+12
+Position Y:
+20
+
+Dandelion
+Age:
+2
+Strength:
+0
+Position X:
+5
+Position Y:
+16
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+6
+Position Y:
+2

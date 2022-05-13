@@ -3,6 +3,7 @@ package wiktor.Organisms;
 import wiktor.World;
 
 import java.awt.*;
+import java.io.PrintWriter;
 import java.util.Random;
 
 public abstract class Organism {
@@ -17,8 +18,8 @@ public abstract class Organism {
     public Organism(Point position, World world) {
         this.position = position;
         this.world = world;
-
     }
+
 
     public Organism(World world) {
         this.world=world;
@@ -30,6 +31,14 @@ public abstract class Organism {
 
     public abstract Organism Constructor(Point  point);
 
+
+    public void setStrength(int strength) {
+        this.strength = strength;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 
     public abstract void setColor(Graphics g);
     public void print(Graphics g) {
@@ -155,5 +164,15 @@ public abstract class Organism {
     }
 
 
-
+    public void save(PrintWriter save) {
+        save.println("\n"+getType());
+        save.println("Age:");
+        save.println(age);
+        save.println("Strength:");
+        save.println(strength);
+        save.println("Position X:");
+        save.println(position.x);
+        save.println("Position Y:");
+        save.println(position.y);
+    }
 }

@@ -12,14 +12,14 @@ public class MainWindow extends JFrame
 
     public static final String MAIN_WINDOW_TITLE = "Projekt PO";
     public static int MARGIN = 50;
-    public static int MIN_MARGIN= 5;
+    public static int MIN_MARGIN= 10;
 
     public static int BOX_WIDTH = 175;
     public static int BOX_HEIGHT = 40;
 
     public static int BOTTOM_MARGIN=120;
 
-    public static Dimension WORLD_BORDERS = new Dimension((int) (Main.MAIN_WINDOW_DIMENSIONS.width-(4.5*MIN_MARGIN)),Main.MAIN_WINDOW_DIMENSIONS.height-BOTTOM_MARGIN);
+    public static Dimension WORLD_BORDERS = new Dimension((int) (Main.MAIN_WINDOW_DIMENSIONS.width-40),Main.MAIN_WINDOW_DIMENSIONS.height-BOTTOM_MARGIN);
     private World world;
 
     public MainWindow(Dimension dimension) {
@@ -59,7 +59,7 @@ public class MainWindow extends JFrame
         }
         
 
-        box.setBounds(200,WORLD_BORDERS.height+4*MIN_MARGIN,BOX_WIDTH,BOX_HEIGHT);
+        box.setBounds(200,WORLD_BORDERS.height+3*MIN_MARGIN,BOX_WIDTH,BOX_HEIGHT);
         box.setFocusable(false);
 
         box.addActionListener(new ActionListener() {
@@ -77,7 +77,7 @@ public class MainWindow extends JFrame
 
         JButton button = new JButton();
         button.setFocusable(false);
-        button.setBounds(480, WORLD_BORDERS.height+4*MIN_MARGIN, BOX_WIDTH, BOX_HEIGHT);
+        button.setBounds(480, WORLD_BORDERS.height+3*MIN_MARGIN, BOX_WIDTH, BOX_HEIGHT);
         button.setText("NEXT TURN");
         button.addActionListener(new ActionListener() {
             @Override
@@ -91,7 +91,7 @@ public class MainWindow extends JFrame
 
         JButton abilityButton = new JButton();
         abilityButton.setFocusable(false);
-        abilityButton.setBounds(200+BOX_WIDTH+MIN_MARGIN, WORLD_BORDERS.height+4*MIN_MARGIN, BOX_WIDTH/2, BOX_HEIGHT);
+        abilityButton.setBounds(200+BOX_WIDTH+MIN_MARGIN, WORLD_BORDERS.height+3*MIN_MARGIN, BOX_WIDTH/2, BOX_HEIGHT);
         abilityButton.setText("ABILITY");
         abilityButton.addActionListener(new ActionListener() {
             @Override
@@ -110,13 +110,13 @@ public class MainWindow extends JFrame
 
         JButton saveButton = new JButton();
         saveButton.setFocusable(false);
-        saveButton.setBounds(105, WORLD_BORDERS.height+4*MIN_MARGIN, BOX_WIDTH/2, BOX_HEIGHT);
+        saveButton.setBounds(105, WORLD_BORDERS.height+3*MIN_MARGIN, BOX_WIDTH/2, BOX_HEIGHT);
         saveButton.setText("SAVE");
         saveButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                //world.saveGame();
+                world.saveGame();
 
             }
         });
@@ -125,13 +125,13 @@ public class MainWindow extends JFrame
 
         JButton loadButton = new JButton();
         loadButton.setFocusable(false);
-        loadButton.setBounds(10, WORLD_BORDERS.height+4*MIN_MARGIN, BOX_WIDTH/2, BOX_HEIGHT);
+        loadButton.setBounds(10, WORLD_BORDERS.height+3*MIN_MARGIN, BOX_WIDTH/2, BOX_HEIGHT);
         loadButton.setText("LOAD");
         loadButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                //world.loadGame();
+                world.loadGame();
 
             }
         });
