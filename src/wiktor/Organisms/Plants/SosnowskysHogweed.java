@@ -12,14 +12,16 @@ import java.util.Random;
 
 public class SosnowskysHogweed extends Plant {
 
-    private static int  RANGE = 1;
+    private static final int BASE_STRENGTH = 10;
+    private static final int  RANGE = 1;
+    
     public SosnowskysHogweed(Point position, World world) {
         super(position, world);
-        strength=10;
+        strength= BASE_STRENGTH;
     }
 
     @Override
-    public void colision(Organism attacker) {
+    public void collision(Organism attacker) {
         attacker.die();
     }
 

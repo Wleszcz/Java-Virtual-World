@@ -19,7 +19,7 @@ public abstract class Plant extends Organism{
     }
 
     @Override
-    public void colision(Organism attacker) {
+    public void collision(Organism attacker) {
         if(strength>attacker.getStrength()){
             attacker.die();
         }

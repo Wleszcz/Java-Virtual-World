@@ -7,10 +7,14 @@ import wiktor.World;
 import java.awt.*;
 
 public class Sheep extends Animal {
+
+    private static final int BASE_STRENGTH = 4;
+    private static final int BASE_INITIATIVE = 4;
+
     public Sheep(Point position, World world) {
         super(position, world);
-        strength= 4;
-        initiative = 4;
+        strength= BASE_STRENGTH;
+        initiative = BASE_INITIATIVE;
     }
 
     public Sheep(World world) {

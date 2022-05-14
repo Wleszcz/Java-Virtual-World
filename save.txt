@@ -1,61 +1,1821 @@
 Turn:
-6
+73
 Amount of organisms:
-45
+882
 
 Fox
 Age:
-6
+73
 Strength:
-3
+6
 Position X:
-0
+22
+Position Y:
+19
+
+Fox
+Age:
+73
+Strength:
+33
+Position X:
+12
 Position Y:
 13
 
-Fox
+Wolf
 Age:
-6
+73
 Strength:
-3
+30
 Position X:
+3
+Position Y:
+17
+
+Wolf
+Age:
+73
+Strength:
+30
+Position X:
+1
+Position Y:
 16
-Position Y:
-4
 
-Fox
+Wolf
 Age:
-6
+73
 Strength:
-3
+21
 Position X:
-32
+0
 Position Y:
+22
+
+Wolf
+Age:
+41
+Strength:
 12
-
-Fox
-Age:
-6
-Strength:
-3
 Position X:
-29
+4
 Position Y:
-6
+18
 
-Fox
+Wolf
 Age:
-6
+35
 Strength:
-6
+9
 Position X:
-36
+5
+Position Y:
+19
+
+Wolf
+Age:
+34
+Strength:
+12
+Position X:
+14
+Position Y:
+18
+
+Wolf
+Age:
+28
+Strength:
+9
+Position X:
+3
+Position Y:
+9
+
+Wolf
+Age:
+27
+Strength:
+9
+Position X:
+4
+Position Y:
+13
+
+Wolf
+Age:
+26
+Strength:
+9
+Position X:
+4
+Position Y:
+15
+
+Wolf
+Age:
+24
+Strength:
+9
+Position X:
+6
 Position Y:
 14
 
 Wolf
 Age:
+23
+Strength:
+9
+Position X:
+5
+Position Y:
+11
+
+Wolf
+Age:
+22
+Strength:
+9
+Position X:
+0
+Position Y:
+10
+
+Wolf
+Age:
+21
+Strength:
+9
+Position X:
+1
+Position Y:
+17
+
+Wolf
+Age:
+21
+Strength:
+9
+Position X:
+4
+Position Y:
+16
+
+Wolf
+Age:
+21
+Strength:
+9
+Position X:
+2
+Position Y:
+10
+
+Wolf
+Age:
+20
+Strength:
+12
+Position X:
 6
+Position Y:
+17
+
+Wolf
+Age:
+20
+Strength:
+18
+Position X:
+0
+Position Y:
+19
+
+Wolf
+Age:
+20
+Strength:
+9
+Position X:
+2
+Position Y:
+15
+
+Wolf
+Age:
+20
+Strength:
+12
+Position X:
+1
+Position Y:
+15
+
+Wolf
+Age:
+19
+Strength:
+9
+Position X:
+2
+Position Y:
+17
+
+Wolf
+Age:
+19
+Strength:
+9
+Position X:
+3
+Position Y:
+14
+
+Wolf
+Age:
+19
+Strength:
+9
+Position X:
+6
+Position Y:
+15
+
+Wolf
+Age:
+19
+Strength:
+9
+Position X:
+0
+Position Y:
+17
+
+Wolf
+Age:
+19
+Strength:
+9
+Position X:
+2
+Position Y:
+14
+
+Wolf
+Age:
+18
+Strength:
+9
+Position X:
+3
+Position Y:
+15
+
+Wolf
+Age:
+18
+Strength:
+9
+Position X:
+1
+Position Y:
+18
+
+Wolf
+Age:
+18
+Strength:
+9
+Position X:
+2
+Position Y:
+16
+
+Wolf
+Age:
+18
+Strength:
+9
+Position X:
+1
+Position Y:
+14
+
+Wolf
+Age:
+18
+Strength:
+9
+Position X:
+2
+Position Y:
+11
+
+Wolf
+Age:
+18
+Strength:
+9
+Position X:
+0
+Position Y:
+16
+
+Wolf
+Age:
+18
+Strength:
+9
+Position X:
+0
+Position Y:
+13
+
+Wolf
+Age:
+17
+Strength:
+18
+Position X:
+2
+Position Y:
+20
+
+Wolf
+Age:
+17
+Strength:
+9
+Position X:
+3
+Position Y:
+19
+
+Wolf
+Age:
+17
+Strength:
+9
+Position X:
+3
+Position Y:
+16
+
+Wolf
+Age:
+17
+Strength:
+9
+Position X:
+7
+Position Y:
+16
+
+Wolf
+Age:
+17
+Strength:
+12
+Position X:
+0
+Position Y:
+15
+
+Wolf
+Age:
+17
+Strength:
+9
+Position X:
+4
+Position Y:
+14
+
+Wolf
+Age:
+17
+Strength:
+15
+Position X:
+2
+Position Y:
+18
+
+Wolf
+Age:
+17
+Strength:
+9
+Position X:
+3
+Position Y:
+13
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+4
+Position Y:
+19
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+8
+Position Y:
+17
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+4
+Position Y:
+12
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+6
+Position Y:
+16
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+1
+Position Y:
+11
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+5
+Position Y:
+18
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+1
+Position Y:
+10
+
+Wolf
+Age:
+16
+Strength:
+15
+Position X:
+3
+Position Y:
+21
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+2
+Position Y:
+13
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+1
+Position Y:
+13
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+6
+Position Y:
+12
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+0
+Position Y:
+20
+
+Wolf
+Age:
+16
+Strength:
+9
+Position X:
+3
+Position Y:
+12
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+5
+Position Y:
+17
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+5
+Position Y:
+12
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+5
+Position Y:
+14
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+7
+Position Y:
+15
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+5
+Position Y:
+16
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+4
+Position Y:
+11
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+0
+Position Y:
+14
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+6
+Position Y:
+5
+
+Wolf
+Age:
+15
+Strength:
+9
+Position X:
+1
+Position Y:
+8
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+3
+Position Y:
+18
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+4
+Position Y:
+17
+
+Wolf
+Age:
+14
+Strength:
+15
+Position X:
+7
+Position Y:
+21
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+5
+Position Y:
+13
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+5
+Position Y:
+15
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+7
+Position Y:
+14
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+0
+Position Y:
+18
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+3
+Position Y:
+20
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+8
+Position Y:
+15
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+1
+Position Y:
+20
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+7
+Position Y:
+17
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+6
+Position Y:
+19
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+5
+Position Y:
+21
+
+Wolf
+Age:
+14
+Strength:
+18
+Position X:
+2
+Position Y:
+23
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+6
+Position Y:
+18
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+6
+Position Y:
+11
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+7
+Position Y:
+12
+
+Wolf
+Age:
+14
+Strength:
+9
+Position X:
+8
+Position Y:
+16
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+7
+Position Y:
+18
+
+Wolf
+Age:
+13
+Strength:
+12
+Position X:
+0
+Position Y:
+23
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+2
+Position Y:
+12
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+10
+Position Y:
+16
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+1
+Position Y:
+19
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+8
+Position Y:
+14
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+2
+Position Y:
+19
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+12
+Position Y:
+12
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+8
+Position Y:
+13
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+9
+Position Y:
+16
+
+Wolf
+Age:
+13
+Strength:
+15
+Position X:
+3
+Position Y:
+23
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+8
+Position Y:
+18
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+7
+Position Y:
+19
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+5
+Position Y:
+8
+
+Wolf
+Age:
+13
+Strength:
+9
+Position X:
+9
+Position Y:
+15
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+4
+Position Y:
+20
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+6
+Position Y:
+13
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+1
+Position Y:
+12
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+9
+Position Y:
+17
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+3
+Position Y:
+11
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+0
+Position Y:
+12
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+0
+Position Y:
+21
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+9
+Position Y:
+14
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+7
+Position Y:
+20
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+9
+Position Y:
+6
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+8
+Position Y:
+19
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+9
+Position Y:
+13
+
+Wolf
+Age:
+12
+Strength:
+12
+Position X:
+14
+Position Y:
+10
+
+Wolf
+Age:
+12
+Strength:
+12
+Position X:
+14
+Position Y:
+14
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+11
+Position Y:
+18
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+9
+Position Y:
+19
+
+Wolf
+Age:
+12
+Strength:
+9
+Position X:
+5
+Position Y:
+10
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+6
+Position Y:
+20
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+4
+Position Y:
+10
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+0
+Position Y:
+8
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+3
+Position Y:
+10
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+10
+Position Y:
+19
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+2
+Position Y:
+7
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+0
+Position Y:
+5
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+3
+Position Y:
+22
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+10
+Position Y:
+15
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+10
+Position Y:
+17
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+1
+Position Y:
+21
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+9
+Position Y:
+20
+
+Wolf
+Age:
+11
+Strength:
+9
+Position X:
+10
+Position Y:
+12
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+5
+Position Y:
+20
+
+Wolf
+Age:
+10
+Strength:
+12
+Position X:
+7
+Position Y:
+23
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+8
+Position Y:
+7
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+10
+Position Y:
+5
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+8
+Position Y:
+20
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+8
+Position Y:
+21
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+10
+Position Y:
+20
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+6
+Position Y:
+21
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+11
+Position Y:
+16
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+11
+Position Y:
+17
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+2
+Position Y:
+21
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+12
+Position Y:
+14
+
+Wolf
+Age:
+10
+Strength:
+9
+Position X:
+9
+Position Y:
+21
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+6
+Position Y:
+10
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+3
+Position Y:
+8
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+9
+Position Y:
+18
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+4
+Position Y:
+22
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+7
+Position Y:
+10
+
+Wolf
+Age:
+9
+Strength:
+12
+Position X:
+6
+Position Y:
+22
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+8
+Position Y:
+12
+
+Wolf
+Age:
+9
+Strength:
+12
+Position X:
+1
+Position Y:
+23
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+10
+Position Y:
+14
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+10
+Position Y:
+18
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+13
+Position Y:
+18
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+5
+Position Y:
+9
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+15
+Position Y:
+19
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+10
+Position Y:
+21
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+8
+Position Y:
+23
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+13
+Position Y:
+16
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+11
+Position Y:
+19
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+14
+Position Y:
+18
+
+Wolf
+Age:
+9
+Strength:
+9
+Position X:
+13
+Position Y:
+22
+
+Wolf
+Age:
+8
+Strength:
+9
+Position X:
+2
+Position Y:
+9
+
+Wolf
+Age:
+8
+Strength:
+9
+Position X:
+8
+Position Y:
+22
+
+Wolf
+Age:
+8
+Strength:
+9
+Position X:
+6
+Position Y:
+8
+
+Wolf
+Age:
+8
+Strength:
+9
+Position X:
+4
+Position Y:
+21
+
+Wolf
+Age:
+8
+Strength:
+9
+Position X:
+13
+Position Y:
+21
+
+Wolf
+Age:
+8
+Strength:
+9
+Position X:
+4
+Position Y:
+23
+
+Wolf
+Age:
+8
+Strength:
+9
+Position X:
+7
+Position Y:
+10
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+1
+Position Y:
+9
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+0
+Position Y:
+11
+
+Wolf
+Age:
+7
+Strength:
+12
+Position X:
+2
+Position Y:
+23
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+0
+Position Y:
+9
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+7
+Position Y:
+22
+
+Wolf
+Age:
+7
+Strength:
+12
+Position X:
+12
+Position Y:
+9
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+8
+Position Y:
+2
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+0
+Position Y:
+4
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+11
+Position Y:
+15
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+9
+Position Y:
+22
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+15
+Position Y:
+15
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+11
+Position Y:
+14
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+11
+Position Y:
+23
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+7
+Position Y:
+11
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+11
+Position Y:
+20
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+9
+Position Y:
+23
+
+Wolf
+Age:
+7
 Strength:
 9
 Position X:
@@ -65,31 +1825,51 @@ Position Y:
 
 Wolf
 Age:
+7
+Strength:
+9
+Position X:
+5
+Position Y:
+6
+
+Wolf
+Age:
+7
+Strength:
+9
+Position X:
+9
+Position Y:
+9
+
+Wolf
+Age:
+7
+Strength:
+12
+Position X:
+5
+Position Y:
+23
+
+Wolf
+Age:
 6
 Strength:
 9
 Position X:
-29
+0
 Position Y:
+7
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
 8
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-25
-Position Y:
-21
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-37
 Position Y:
 11
 
@@ -99,89 +1879,809 @@ Age:
 Strength:
 9
 Position X:
-22
-Position Y:
-14
-
-Sheep
-Age:
-6
-Strength:
-4
-Position X:
-10
-Position Y:
-2
-
-Sheep
-Age:
-6
-Strength:
-4
-Position X:
-17
-Position Y:
-21
-
-Sheep
-Age:
-6
-Strength:
-4
-Position X:
 1
+Position Y:
+22
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+12
 Position Y:
 15
 
-Antilope
+Wolf
 Age:
 6
 Strength:
-4
+9
 Position X:
-33
+11
+Position Y:
+8
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+10
+Position Y:
+23
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+11
+Position Y:
+21
+
+Wolf
+Age:
+6
+Strength:
+9
+Position X:
+10
+Position Y:
+22
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+2
+Position Y:
+8
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+2
+Position Y:
+22
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+1
+Position Y:
+7
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+5
+Position Y:
+22
+
+Wolf
+Age:
+5
+Strength:
+12
+Position X:
+14
+Position Y:
+6
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+4
+Position Y:
+4
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+10
+Position Y:
+11
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+8
+Position Y:
+10
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+13
+Position Y:
+17
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+11
+Position Y:
+22
+
+Wolf
+Age:
+5
+Strength:
+12
+Position X:
+16
+Position Y:
+11
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+12
 Position Y:
 19
 
-Antilope
+Wolf
 Age:
-6
+5
 Strength:
+9
+Position X:
+12
+Position Y:
+20
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
 4
+Position Y:
+8
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+1
+Position Y:
+6
+
+Wolf
+Age:
+5
+Strength:
+9
+Position X:
+9
+Position Y:
+10
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+4
+Position Y:
+9
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+11
+Position Y:
+10
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+12
+Position Y:
+17
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+9
+Position Y:
+11
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+7
+Position Y:
+9
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+13
+Position Y:
+22
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+10
+Position Y:
+6
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+0
+Position Y:
+6
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+10
+Position Y:
+10
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+15
+Position Y:
+17
+
+Wolf
+Age:
+4
+Strength:
+9
+Position X:
+14
+Position Y:
+20
+
+Wolf
+Age:
+4
+Strength:
+12
+Position X:
+1
+Position Y:
+3
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+7
+Position Y:
+13
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+6
+Position Y:
+9
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+2
+Position Y:
+4
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+6
+Position Y:
+23
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+4
+Position Y:
+6
+
+Wolf
+Age:
+3
+Strength:
+9
 Position X:
 8
+Position Y:
+9
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+12
+Position Y:
+18
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+12
+Position Y:
+11
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+12
+Position Y:
+21
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+4
+Position Y:
+3
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+7
+Position Y:
+7
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+7
+Position Y:
+6
+
+Wolf
+Age:
+3
+Strength:
+12
+Position X:
+14
+Position Y:
+9
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+13
+Position Y:
+15
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+14
+Position Y:
+21
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+10
+Position Y:
+9
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+13
+Position Y:
+9
+
+Wolf
+Age:
+3
+Strength:
+9
+Position X:
+8
+Position Y:
+8
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+13
+Position Y:
+12
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+9
+Position Y:
+12
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+10
+Position Y:
+8
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+13
+Position Y:
+14
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+12
+Position Y:
+8
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+12
+Position Y:
+23
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+12
+Position Y:
+6
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+13
+Position Y:
+19
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+12
+Position Y:
+16
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+13
+Position Y:
+10
+
+Wolf
+Age:
+2
+Strength:
+9
+Position X:
+14
+Position Y:
+16
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+13
+Position Y:
+13
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+6
+Position Y:
+7
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+10
+Position Y:
+13
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+3
+Position Y:
+7
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+1
+Position Y:
+5
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+14
+Position Y:
+17
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+15
+Position Y:
+18
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+7
+Position Y:
+8
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+11
+Position Y:
+9
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+2
+Position Y:
+5
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+9
+Position Y:
+8
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+10
+Position Y:
+7
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+5
+Position Y:
+7
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+15
+Position Y:
+16
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+14
+Position Y:
+12
+
+Wolf
+Age:
+1
+Strength:
+9
+Position X:
+11
 Position Y:
 7
 
 Antilope
 Age:
-6
+73
 Strength:
-4
+28
 Position X:
-20
+11
 Position Y:
-20
-
-Antilope
-Age:
-6
-Strength:
-4
-Position X:
-5
-Position Y:
-20
+11
 
 Human
 Age:
-6
+73
 Strength:
-5
+41
 Position X:
-5
+14
 Position Y:
-21
+3
 Ability active:
 false
 Ability cooldown:
@@ -189,47 +2689,1747 @@ Ability cooldown:
 
 Turtle
 Age:
-6
+73
 Strength:
 2
 Position X:
-6
+22
 Position Y:
-14
+16
 
 Turtle
 Age:
-6
+73
 Strength:
-2
+8
 Position X:
-34
-Position Y:
-5
-
-Turtle
-Age:
-6
-Strength:
-2
-Position X:
-13
-Position Y:
-9
-
-Turtle
-Age:
-6
-Strength:
-2
-Position X:
-3
+20
 Position Y:
 8
 
 Grass
 Age:
+73
+Strength:
+0
+Position X:
+30
+Position Y:
+20
+
+Grass
+Age:
+73
+Strength:
+0
+Position X:
+23
+Position Y:
+10
+
+Belladonna
+Age:
+73
+Strength:
+99
+Position X:
+35
+Position Y:
+12
+
+Belladonna
+Age:
+73
+Strength:
+99
+Position X:
+37
+Position Y:
+4
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+15
+Position Y:
+2
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+35
+Position Y:
+21
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+32
+Position Y:
+23
+
+Guarana
+Age:
+73
+Strength:
+0
+Position X:
+17
+Position Y:
+5
+
+Guarana
+Age:
+73
+Strength:
+0
+Position X:
+4
+Position Y:
+1
+
+SosnowskysHogweed
+Age:
+73
+Strength:
+10
+Position X:
+4
+Position Y:
+2
+
+SosnowskysHogweed
+Age:
+73
+Strength:
+10
+Position X:
+35
+Position Y:
+22
+
+SosnowskysHogweed
+Age:
+73
+Strength:
+10
+Position X:
+27
+Position Y:
+11
+
+SosnowskysHogweed
+Age:
+73
+Strength:
+10
+Position X:
+13
+Position Y:
+2
+
+SosnowskysHogweed
+Age:
+73
+Strength:
+10
+Position X:
+29
+Position Y:
+12
+
+SosnowskysHogweed
+Age:
+73
+Strength:
+10
+Position X:
+28
+Position Y:
+1
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+15
+Position Y:
+1
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+16
+Position Y:
+1
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+17
+Position Y:
+0
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+16
+Position Y:
+2
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+14
+Position Y:
+1
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+16
+Position Y:
+0
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+17
+Position Y:
+2
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+34
+Position Y:
+22
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+32
+Position Y:
+22
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+33
+Position Y:
+23
+
+Guarana
+Age:
+71
+Strength:
+0
+Position X:
+15
+Position Y:
+9
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+17
+Position Y:
+1
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+18
+Position Y:
+3
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+35
+Position Y:
+23
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+18
+Position Y:
+0
+
+Dandelion
+Age:
+70
+Strength:
+0
+Position X:
+14
+Position Y:
+2
+
+Dandelion
+Age:
+70
+Strength:
+0
+Position X:
+15
+Position Y:
+0
+
+Dandelion
+Age:
+69
+Strength:
+0
+Position X:
+23
+Position Y:
+7
+
+Dandelion
+Age:
+69
+Strength:
+0
+Position X:
+31
+Position Y:
+23
+
+Belladonna
+Age:
+68
+Strength:
+99
+Position X:
+36
+Position Y:
+3
+
+Guarana
+Age:
+68
+Strength:
+0
+Position X:
+16
+Position Y:
 6
+
+Dandelion
+Age:
+68
+Strength:
+0
+Position X:
+36
+Position Y:
+22
+
+Guarana
+Age:
+67
+Strength:
+0
+Position X:
+15
+Position Y:
+8
+
+Dandelion
+Age:
+67
+Strength:
+0
+Position X:
+24
+Position Y:
+8
+
+Dandelion
+Age:
+66
+Strength:
+0
+Position X:
+33
+Position Y:
+22
+
+Dandelion
+Age:
+66
+Strength:
+0
+Position X:
+19
+Position Y:
+3
+
+Grass
+Age:
+65
+Strength:
+0
+Position X:
+31
+Position Y:
+19
+
+Dandelion
+Age:
+65
+Strength:
+0
+Position X:
+32
+Position Y:
+21
+
+Dandelion
+Age:
+65
+Strength:
+0
+Position X:
+14
+Position Y:
+0
+
+Dandelion
+Age:
+65
+Strength:
+0
+Position X:
+30
+Position Y:
+22
+
+Dandelion
+Age:
+65
+Strength:
+0
+Position X:
+13
+Position Y:
+3
+
+Dandelion
+Age:
+65
+Strength:
+0
+Position X:
+37
+Position Y:
+22
+
+Grass
+Age:
+65
+Strength:
+0
+Position X:
+30
+Position Y:
+19
+
+Grass
+Age:
+65
+Strength:
+0
+Position X:
+29
+Position Y:
+19
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+36
+Position Y:
+21
+
+Guarana
+Age:
+64
+Strength:
+0
+Position X:
+5
+Position Y:
+0
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+36
+Position Y:
+23
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+22
+Position Y:
+7
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+13
+Position Y:
+0
+
+Grass
+Age:
+63
+Strength:
+0
+Position X:
+22
+Position Y:
+10
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+31
+Position Y:
+22
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+24
+Position Y:
+10
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+37
+Position Y:
+21
+
+Grass
+Age:
+63
+Strength:
+0
+Position X:
+31
+Position Y:
+18
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+37
+Position Y:
+23
+
+Dandelion
+Age:
+62
+Strength:
+0
+Position X:
+34
+Position Y:
+20
+
+Dandelion
+Age:
+62
+Strength:
+0
+Position X:
+24
+Position Y:
+6
+
+Dandelion
+Age:
+62
+Strength:
+0
+Position X:
+30
+Position Y:
+23
+
+Dandelion
+Age:
+62
+Strength:
+0
+Position X:
+32
+Position Y:
+20
+
+Dandelion
+Age:
+62
+Strength:
+0
+Position X:
+33
+Position Y:
+21
+
+Dandelion
+Age:
+62
+Strength:
+0
+Position X:
+25
+Position Y:
+5
+
+Dandelion
+Age:
+62
+Strength:
+0
+Position X:
+33
+Position Y:
+20
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+34
+Position Y:
+23
+
+Guarana
+Age:
+61
+Strength:
+0
+Position X:
+15
+Position Y:
+7
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+29
+Position Y:
+21
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+12
+Position Y:
+3
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+12
+Position Y:
+0
+
+Grass
+Age:
+61
+Strength:
+0
+Position X:
+23
+Position Y:
+11
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+31
+Position Y:
+21
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+29
+Position Y:
+23
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+24
+Position Y:
+4
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+29
+Position Y:
+20
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+13
+Position Y:
+1
+
+Grass
+Age:
+61
+Strength:
+0
+Position X:
+22
+Position Y:
+12
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+24
+Position Y:
+5
+
+Guarana
+Age:
+60
+Strength:
+0
+Position X:
+5
+Position Y:
+2
+
+Guarana
+Age:
+60
+Strength:
+0
+Position X:
+16
+Position Y:
+9
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+15
+Position Y:
+3
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+20
+Position Y:
+3
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+30
+Position Y:
+21
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+25
+Position Y:
+10
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+12
+Position Y:
+1
+
+Grass
+Age:
+60
+Strength:
+0
+Position X:
+24
+Position Y:
+11
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+28
+Position Y:
+23
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+23
+Position Y:
+6
+
+Guarana
+Age:
+60
+Strength:
+0
+Position X:
+17
+Position Y:
+8
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+36
+Position Y:
+20
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+25
+Position Y:
+11
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+32
+Position Y:
+19
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+21
+Position Y:
+6
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+29
+Position Y:
+22
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+28
+Position Y:
+19
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+28
+Position Y:
+22
+
+Dandelion
+Age:
+59
+Strength:
+0
+Position X:
+27
+Position Y:
+21
+
+Belladonna
+Age:
+58
+Strength:
+99
+Position X:
+36
+Position Y:
+4
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+37
+Position Y:
+20
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+15
+Position Y:
+4
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+25
+Position Y:
+8
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+11
+Position Y:
+4
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+11
+Position Y:
+1
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+21
+Position Y:
+2
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+26
+Position Y:
+9
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+24
+Position Y:
+12
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
+11
+Position Y:
+0
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+34
+Position Y:
+21
+
+Guarana
+Age:
+57
+Strength:
+0
+Position X:
+18
+Position Y:
+5
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+23
+Position Y:
+4
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+28
+Position Y:
+18
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+27
+Position Y:
+20
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+11
+Position Y:
+3
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+26
+Position Y:
+8
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+24
+Position Y:
+3
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+26
+Position Y:
+19
+
+Grass
+Age:
+56
+Strength:
+0
+Position X:
+32
+Position Y:
+18
+
+Dandelion
+Age:
+56
+Strength:
+0
+Position X:
+15
+Position Y:
+5
+
+Dandelion
+Age:
+56
+Strength:
+0
+Position X:
+34
+Position Y:
+19
+
+Dandelion
+Age:
+56
+Strength:
+0
+Position X:
+12
+Position Y:
+4
+
+Dandelion
+Age:
+56
+Strength:
+0
+Position X:
+27
+Position Y:
+23
+
+Dandelion
+Age:
+56
+Strength:
+0
+Position X:
+28
+Position Y:
+20
+
+Dandelion
+Age:
+56
+Strength:
+0
+Position X:
+11
+Position Y:
+2
+
+Guarana
+Age:
+55
+Strength:
+0
+Position X:
+5
+Position Y:
+1
+
+Guarana
+Age:
+55
+Strength:
+0
+Position X:
+15
+Position Y:
+10
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+25
+Position Y:
+7
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+33
+Position Y:
+18
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+10
+Position Y:
+1
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+22
+Position Y:
+3
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+10
+Position Y:
+3
+
+Guarana
+Age:
+55
+Strength:
+0
+Position X:
+15
+Position Y:
+6
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+33
+Position Y:
+19
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+9
+Position Y:
+2
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+12
+Position Y:
+2
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+25
+Position Y:
+6
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+25
+Position Y:
+12
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+28
+Position Y:
+21
+
+Belladonna
+Age:
+54
+Strength:
+99
+Position X:
+35
+Position Y:
+3
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+10
+Position Y:
+2
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+20
+Position Y:
+1
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+23
+Position Y:
+5
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+22
+Position Y:
+11
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+34
+Position Y:
+18
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+22
+Position Y:
+4
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+25
+Position Y:
+13
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+9
+Position Y:
+3
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+23
+Position Y:
+12
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+10
+Position Y:
+4
+
+Belladonna
+Age:
+53
+Strength:
+99
+Position X:
+34
+Position Y:
+11
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+26
+Position Y:
+4
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+20
+Position Y:
+5
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+28
+Position Y:
+17
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+25
+Position Y:
+2
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+35
+Position Y:
+18
+
+Guarana
+Age:
+53
+Strength:
+0
+Position X:
+16
+Position Y:
+10
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+35
+Position Y:
+19
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+9
+Position Y:
+4
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+36
+Position Y:
+19
+
+Grass
+Age:
+52
+Strength:
+0
+Position X:
+24
+Position Y:
+9
+
+Belladonna
+Age:
+52
+Strength:
+99
+Position X:
+37
+Position Y:
+3
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+22
+Position Y:
+5
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+26
+Position Y:
+20
+
+Grass
+Age:
+52
+Strength:
+0
+Position X:
+33
+Position Y:
+17
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+26
+Position Y:
+7
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+21
+Position Y:
+1
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+29
+Position Y:
+18
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+28
+Position Y:
+16
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+36
+Position Y:
+18
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+18
+Position Y:
+2
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+25
+Position Y:
+3
+
+Dandelion
+Age:
+51
 Strength:
 0
 Position X:
@@ -237,79 +4437,199 @@ Position X:
 Position Y:
 1
 
-Grass
+Dandelion
 Age:
-6
+51
 Strength:
 0
 Position X:
-12
+26
 Position Y:
-19
+12
 
-Belladonna
+Dandelion
 Age:
-6
+51
 Strength:
-99
+0
 Position X:
-17
+29
+Position Y:
+16
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+8
+Position Y:
+5
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+26
+Position Y:
+6
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+20
+Position Y:
+2
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+19
+Position Y:
+2
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+27
 Position Y:
 13
 
 Belladonna
 Age:
-6
+50
 Strength:
 99
 Position X:
-11
+37
 Position Y:
-23
-
-Dandelion
-Age:
-6
-Strength:
-0
-Position X:
-7
-Position Y:
-3
-
-Dandelion
-Age:
-6
-Strength:
-0
-Position X:
 5
-Position Y:
-17
 
-Guarana
+Dandelion
 Age:
-6
+50
 Strength:
 0
 Position X:
-32
+21
 Position Y:
-8
+9
 
-Guarana
+Dandelion
 Age:
-6
+50
 Strength:
 0
 Position X:
-32
+37
+Position Y:
+19
+
+Belladonna
+Age:
+50
+Strength:
+99
+Position X:
+35
 Position Y:
 11
 
+Dandelion
+Age:
+50
+Strength:
+0
+Position X:
+27
+Position Y:
+16
+
+Dandelion
+Age:
+50
+Strength:
+0
+Position X:
+28
+Position Y:
+15
+
+Dandelion
+Age:
+50
+Strength:
+0
+Position X:
+21
+Position Y:
+12
+
+Belladonna
+Age:
+49
+Strength:
+99
+Position X:
+37
+Position Y:
+2
+
+Dandelion
+Age:
+49
+Strength:
+0
+Position X:
+19
+Position Y:
+4
+
+Grass
+Age:
+49
+Strength:
+0
+Position X:
+30
+Position Y:
+18
+
+Dandelion
+Age:
+49
+Strength:
+0
+Position X:
+13
+Position Y:
+5
+
+Dandelion
+Age:
+49
+Strength:
+0
+Position X:
+31
+Position Y:
+20
+
 Guarana
 Age:
-6
+49
 Strength:
 0
 Position X:
@@ -317,85 +4637,3975 @@ Position X:
 Position Y:
 8
 
-SosnowskysHogweed
+Dandelion
 Age:
-6
+49
 Strength:
+0
+Position X:
+25
+Position Y:
+9
+
+Dandelion
+Age:
+49
+Strength:
+0
+Position X:
+34
+Position Y:
+17
+
+Belladonna
+Age:
+49
+Strength:
+99
+Position X:
+33
+Position Y:
 10
+
+Dandelion
+Age:
+49
+Strength:
+0
 Position X:
 26
 Position Y:
-6
+5
 
-SosnowskysHogweed
+Dandelion
 Age:
-6
-Strength:
-10
-Position X:
-19
-Position Y:
-1
-
-SosnowskysHogweed
-Age:
-6
-Strength:
-10
-Position X:
-31
-Position Y:
-0
-
-SosnowskysHogweed
-Age:
-6
-Strength:
-10
-Position X:
-29
-Position Y:
-20
-
-SosnowskysHogweed
-Age:
-6
-Strength:
-10
-Position X:
-3
-Position Y:
-22
-
-Grass
-Age:
-6
+49
 Strength:
 0
 Position X:
-8
+26
 Position Y:
 2
 
 Dandelion
 Age:
-6
+49
 Strength:
 0
 Position X:
-7
+35
+Position Y:
+17
+
+Dandelion
+Age:
+49
+Strength:
+0
+Position X:
+25
 Position Y:
 4
 
 Dandelion
 Age:
-5
+49
 Strength:
 0
 Position X:
 8
 Position Y:
+4
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+23
+Position Y:
 3
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+16
+Position Y:
+5
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+21
+Position Y:
+3
+
+Belladonna
+Age:
+48
+Strength:
+99
+Position X:
+36
+Position Y:
+1
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+34
+Position Y:
+16
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+36
+Position Y:
+16
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+20
+Position Y:
+11
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+22
+Position Y:
+2
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+37
+Position Y:
+16
+
+Belladonna
+Age:
+47
+Strength:
+99
+Position X:
+35
+Position Y:
+13
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+17
+Position Y:
+3
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+27
+Position Y:
+18
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+26
+Position Y:
+13
+
+Grass
+Age:
+47
+Strength:
+0
+Position X:
+33
+Position Y:
+16
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+8
+Position Y:
+1
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+22
+Position Y:
+13
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+29
+Position Y:
+17
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+7
+Position Y:
+3
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+9
+Position Y:
+5
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+7
+Position Y:
+5
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+35
+Position Y:
+15
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+22
+Position Y:
+1
+
+Grass
+Age:
+47
+Strength:
+0
+Position X:
+33
+Position Y:
+15
+
+Dandelion
+Age:
+47
+Strength:
+0
+Position X:
+7
+Position Y:
+2
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+10
+Position Y:
+0
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+26
+Position Y:
+18
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+19
+Position Y:
+11
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+8
+Position Y:
+0
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+26
+Position Y:
+16
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+27
+Position Y:
+1
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+37
+Position Y:
+17
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+9
+Position Y:
+0
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+36
+Position Y:
+15
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+22
+Position Y:
+9
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+27
+Position Y:
+19
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+16
+Position Y:
+4
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+27
+Position Y:
+22
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+26
+Position Y:
+23
+
+Guarana
+Age:
+45
+Strength:
+0
+Position X:
+6
+Position Y:
+2
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+25
+Position Y:
+19
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+24
+Position Y:
+15
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+30
+Position Y:
+17
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+37
+Position Y:
+18
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+24
+Position Y:
+2
+
+Grass
+Age:
+45
+Strength:
+0
+Position X:
+34
+Position Y:
+15
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+28
+Position Y:
+2
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+36
+Position Y:
+17
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+31
+Position Y:
+16
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+19
+Position Y:
+16
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+20
+Position Y:
+15
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+31
+Position Y:
+17
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+35
+Position Y:
+20
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+16
+Position Y:
+3
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+27
+Position Y:
+3
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+26
+Position Y:
+1
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+27
+Position Y:
+14
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+6
+Position Y:
+4
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+35
+Position Y:
+16
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+7
+Position Y:
+0
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+30
+Position Y:
+16
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+27
+Position Y:
+0
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+21
+Position Y:
+4
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+29
+Position Y:
+15
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+28
+Position Y:
+12
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+26
+Position Y:
+3
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+26
+Position Y:
+17
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+21
+Position Y:
+14
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+20
+Position Y:
+7
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+37
+Position Y:
+15
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+26
+Position Y:
+22
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+25
+Position Y:
+20
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+20
+Position Y:
+13
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+29
+Position Y:
+1
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+18
+Position Y:
+15
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+28
+Position Y:
+3
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+6
+Position Y:
+0
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+20
+Position Y:
+4
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+27
+Position Y:
+12
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+24
+Position Y:
+21
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+24
+Position Y:
+20
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+22
+Position Y:
+6
+
+Guarana
+Age:
+42
+Strength:
+0
+Position X:
+6
+Position Y:
+1
+
+Belladonna
+Age:
+42
+Strength:
+99
+Position X:
+34
+Position Y:
+2
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+18
+Position Y:
+1
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+28
+Position Y:
+14
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+27
+Position Y:
+2
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+36
+Position Y:
+14
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+22
+Position Y:
+8
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+26
+Position Y:
+0
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+25
+Position Y:
+1
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+17
+Position Y:
+10
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+19
+Position Y:
+14
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+23
+Position Y:
+21
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+25
+Position Y:
+0
+
+Dandelion
+Age:
+42
+Strength:
+0
+Position X:
+18
+Position Y:
+10
+
+Belladonna
+Age:
+41
+Strength:
+99
+Position X:
+34
+Position Y:
+3
+
+Belladonna
+Age:
+41
+Strength:
+99
+Position X:
+34
+Position Y:
+10
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+20
+Position Y:
+0
+
+Belladonna
+Age:
+41
+Strength:
+99
+Position X:
+37
+Position Y:
+6
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+25
+Position Y:
+17
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+27
+Position Y:
+17
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+25
+Position Y:
+23
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+23
+Position Y:
+1
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+30
+Position Y:
+15
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+24
+Position Y:
+19
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+24
+Position Y:
+17
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+24
+Position Y:
+0
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+19
+Position Y:
+15
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+24
+Position Y:
+1
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+19
+Position Y:
+0
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+23
+Position Y:
+0
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+23
+Position Y:
+2
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+31
+Position Y:
+15
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+5
+Position Y:
+3
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+18
+Position Y:
+8
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+30
+Position Y:
+1
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+29
+Position Y:
+14
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+18
+Position Y:
+14
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+17
+Position Y:
+14
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+16
+Position Y:
+15
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+17
+Position Y:
+16
+
+Guarana
+Age:
+39
+Strength:
+0
+Position X:
+3
+Position Y:
+2
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+27
+Position Y:
+8
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+26
+Position Y:
+15
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+27
+Position Y:
+15
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+13
+Position Y:
+4
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+25
+Position Y:
+18
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+20
+Position Y:
+10
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+21
+Position Y:
+15
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+29
+Position Y:
+13
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+26
+Position Y:
+21
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+25
+Position Y:
+21
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+20
+Position Y:
+14
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+19
+Position Y:
+5
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+24
+Position Y:
+22
+
+Guarana
+Age:
+39
+Strength:
+0
+Position X:
+2
+Position Y:
+3
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+22
+Position Y:
+14
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+18
+Position Y:
+4
+
+Guarana
+Age:
+38
+Strength:
+0
+Position X:
+17
+Position Y:
+4
+
+Grass
+Age:
+38
+Strength:
+0
+Position X:
+21
+Position Y:
+13
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+26
+Position Y:
+10
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+27
+Position Y:
+10
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+23
+Position Y:
+13
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+29
+Position Y:
+2
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+29
+Position Y:
+11
+
+Belladonna
+Age:
+38
+Strength:
+99
+Position X:
+33
+Position Y:
+2
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+23
+Position Y:
+8
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+17
+Position Y:
+7
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+18
+Position Y:
+13
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+18
+Position Y:
+16
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+27
+Position Y:
+9
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+21
+Position Y:
+0
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+27
+Position Y:
+7
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+29
+Position Y:
+3
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+19
+Position Y:
+13
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+29
+Position Y:
+0
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+23
+Position Y:
+20
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+25
+Position Y:
+22
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+23
+Position Y:
+23
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+32
+Position Y:
+14
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+28
+Position Y:
+10
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+17
+Position Y:
+6
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+18
+Position Y:
+17
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+28
+Position Y:
+0
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+32
+Position Y:
+15
+
+Dandelion
+Age:
+36
+Strength:
+0
+Position X:
+32
+Position Y:
+17
+
+Belladonna
+Age:
+36
+Strength:
+99
+Position X:
+34
+Position Y:
+12
+
+Dandelion
+Age:
+36
+Strength:
+0
+Position X:
+6
+Position Y:
+3
+
+Dandelion
+Age:
+36
+Strength:
+0
+Position X:
+19
+Position Y:
+10
+
+Dandelion
+Age:
+36
+Strength:
+0
+Position X:
+30
+Position Y:
+14
+
+Dandelion
+Age:
+36
+Strength:
+0
+Position X:
+30
+Position Y:
+13
+
+Dandelion
+Age:
+36
+Strength:
+0
+Position X:
+31
+Position Y:
+13
+
+Dandelion
+Age:
+35
+Strength:
+0
+Position X:
+25
+Position Y:
+14
+
+Belladonna
+Age:
+35
+Strength:
+99
+Position X:
+35
+Position Y:
+10
+
+Dandelion
+Age:
+35
+Strength:
+0
+Position X:
+31
+Position Y:
+0
+
+Dandelion
+Age:
+35
+Strength:
+0
+Position X:
+17
+Position Y:
+13
+
+Dandelion
+Age:
+35
+Strength:
+0
+Position X:
+33
+Position Y:
+14
+
+Dandelion
+Age:
+35
+Strength:
+0
+Position X:
+30
+Position Y:
+0
+
+Guarana
+Age:
+34
+Strength:
+0
+Position X:
+13
+Position Y:
+7
+
+Belladonna
+Age:
+34
+Strength:
+99
+Position X:
+33
+Position Y:
+9
+
+Guarana
+Age:
+34
+Strength:
+0
+Position X:
+7
+Position Y:
+1
+
+Dandelion
+Age:
+34
+Strength:
+0
+Position X:
+16
+Position Y:
+12
+
+Dandelion
+Age:
+34
+Strength:
+0
+Position X:
+20
+Position Y:
+18
+
+Dandelion
+Age:
+34
+Strength:
+0
+Position X:
+19
+Position Y:
+19
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+24
+Position Y:
+7
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+26
+Position Y:
+14
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+37
+Position Y:
+13
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+16
+Position Y:
+13
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+20
+Position Y:
+9
+
+Guarana
+Age:
+33
+Strength:
+0
+Position X:
+2
+Position Y:
+2
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+28
+Position Y:
+7
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+22
+Position Y:
+23
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+16
+Position Y:
+16
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+29
+Position Y:
+10
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+31
+Position Y:
+14
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+21
+Position Y:
+23
+
+Dandelion
+Age:
+33
+Strength:
+0
+Position X:
+29
+Position Y:
+9
+
+Belladonna
+Age:
+32
+Strength:
+99
+Position X:
+36
+Position Y:
+2
+
+Dandelion
+Age:
+32
+Strength:
+0
+Position X:
+18
+Position Y:
+11
+
+Dandelion
+Age:
+32
+Strength:
+0
+Position X:
+35
+Position Y:
+14
+
+Dandelion
+Age:
+32
+Strength:
+0
+Position X:
+25
+Position Y:
+16
+
+Dandelion
+Age:
+32
+Strength:
+0
+Position X:
+32
+Position Y:
+16
+
+Dandelion
+Age:
+32
+Strength:
+0
+Position X:
+19
+Position Y:
+9
+
+Dandelion
+Age:
+32
+Strength:
+0
+Position X:
+28
+Position Y:
+9
+
+Dandelion
+Age:
+32
+Strength:
+0
+Position X:
+20
+Position Y:
+21
+
+Belladonna
+Age:
+31
+Strength:
+99
+Position X:
+34
+Position Y:
+1
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+23
+Position Y:
+19
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+16
+Position Y:
+17
+
+Belladonna
+Age:
+31
+Strength:
+99
+Position X:
+32
+Position Y:
+2
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+28
+Position Y:
+6
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+28
+Position Y:
+11
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+31
+Position Y:
+12
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+34
+Position Y:
+13
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+18
+Position Y:
+19
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+36
+Position Y:
+13
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+29
+Position Y:
+8
+
+Belladonna
+Age:
+31
+Strength:
+99
+Position X:
+33
+Position Y:
+0
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+32
+Position Y:
+13
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+34
+Position Y:
+14
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+28
+Position Y:
+8
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+24
+Position Y:
+14
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+17
+Position Y:
+17
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+20
+Position Y:
+22
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+29
+Position Y:
+6
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+30
+Position Y:
+12
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+33
+Position Y:
+12
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+30
+Position Y:
+8
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+20
+Position Y:
+23
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+31
+Position Y:
+7
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+22
+Position Y:
+0
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+20
+Position Y:
+12
+
+Belladonna
+Age:
+29
+Strength:
+99
+Position X:
+37
+Position Y:
+1
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+25
+Position Y:
+15
+
+Belladonna
+Age:
+29
+Strength:
+99
+Position X:
+33
+Position Y:
+8
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+21
+Position Y:
+22
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+17
+Position Y:
+18
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+28
+Position Y:
+5
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+30
+Position Y:
+11
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
+16
+Position Y:
+19
+
+Belladonna
+Age:
+28
+Strength:
+99
+Position X:
+36
+Position Y:
+5
+
+Guarana
+Age:
+28
+Strength:
+0
+Position X:
+3
+Position Y:
+1
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+24
+Position Y:
+13
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+24
+Position Y:
+18
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+18
+Position Y:
+18
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+17
+Position Y:
+12
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+32
+Position Y:
+12
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+19
+Position Y:
+23
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+31
+Position Y:
+9
+
+Dandelion
+Age:
+28
+Strength:
+0
+Position X:
+19
+Position Y:
+12
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+13
+Position Y:
+6
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+12
+Position Y:
+5
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+28
+Position Y:
+13
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+24
+Position Y:
+23
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+23
+Position Y:
+9
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+20
+Position Y:
+17
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+30
+Position Y:
+9
+
+Belladonna
+Age:
+27
+Strength:
+99
+Position X:
+31
+Position Y:
+1
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+29
+Position Y:
+5
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+32
+Position Y:
+7
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+31
+Position Y:
+8
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+30
+Position Y:
+10
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+21
+Position Y:
+5
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+21
+Position Y:
+8
+
+Belladonna
+Age:
+26
+Strength:
+99
+Position X:
+34
+Position Y:
+9
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+37
+Position Y:
+14
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+15
+Position Y:
+14
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+18
+Position Y:
+20
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+37
+Position Y:
+12
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+30
+Position Y:
+6
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+32
+Position Y:
+9
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+36
+Position Y:
+11
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+30
+Position Y:
+5
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+37
+Position Y:
+11
+
+Guarana
+Age:
+25
+Strength:
+0
+Position X:
+4
+Position Y:
+0
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+23
+Position Y:
+14
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+8
+Position Y:
+6
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+23
+Position Y:
+15
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+33
+Position Y:
+13
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+9
+Position Y:
+7
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+30
+Position Y:
+7
+
+Belladonna
+Age:
+25
+Strength:
+99
+Position X:
+34
+Position Y:
+8
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+27
+Position Y:
+4
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+16
+Position Y:
+18
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+5
+Position Y:
+4
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+19
+Position Y:
+21
+
+Dandelion
+Age:
+25
+Strength:
+0
+Position X:
+29
+Position Y:
+7
+
+Dandelion
+Age:
+24
+Strength:
+0
+Position X:
+18
+Position Y:
+12
+
+Dandelion
+Age:
+24
+Strength:
+0
+Position X:
+21
+Position Y:
+7
+
+Belladonna
+Age:
+24
+Strength:
+99
+Position X:
+33
+Position Y:
+1
+
+Dandelion
+Age:
+24
+Strength:
+0
+Position X:
+18
+Position Y:
+21
+
+Belladonna
+Age:
+23
+Strength:
+99
+Position X:
+35
+Position Y:
+2
+
+Dandelion
+Age:
+23
+Strength:
+0
+Position X:
+18
+Position Y:
+22
+
+Dandelion
+Age:
+23
+Strength:
+0
+Position X:
+16
+Position Y:
+14
+
+Dandelion
+Age:
+23
+Strength:
+0
+Position X:
+17
+Position Y:
+19
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+17
+Position Y:
+15
+
+Belladonna
+Age:
+22
+Strength:
+99
+Position X:
+34
+Position Y:
+0
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+18
+Position Y:
+23
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+21
+Position Y:
+16
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+29
+Position Y:
+4
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+17
+Position Y:
+22
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+21
+Position Y:
+11
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+22
+Position Y:
+18
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+21
+Position Y:
+17
+
+Belladonna
+Age:
+21
+Strength:
+99
+Position X:
+31
+Position Y:
+2
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+32
+Position Y:
+11
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+19
+Position Y:
+22
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+17
+Position Y:
+23
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+16
+Position Y:
+21
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+15
+Position Y:
+22
+
+Belladonna
+Age:
+20
+Strength:
+99
+Position X:
+35
+Position Y:
+0
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+24
+Position Y:
+16
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+32
+Position Y:
+8
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+33
+Position Y:
+7
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+31
+Position Y:
+6
+
+Belladonna
+Age:
+20
+Strength:
+99
+Position X:
+35
+Position Y:
+1
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+21
+Position Y:
+10
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+20
+Position Y:
+16
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+31
+Position Y:
+10
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+34
+Position Y:
+6
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+21
+Position Y:
+18
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+15
+Position Y:
+13
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+32
+Position Y:
+6
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+19
+Position Y:
+18
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+36
+Position Y:
+12
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+15
+Position Y:
+20
+
+Guarana
+Age:
+19
+Strength:
+0
+Position X:
+1
+Position Y:
+2
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+14
+Position Y:
+22
+
+Dandelion
+Age:
+19
+Strength:
+0
+Position X:
+32
+Position Y:
+5
+
+Dandelion
+Age:
+18
+Strength:
+0
+Position X:
+30
+Position Y:
+4
+
+Dandelion
+Age:
+18
+Strength:
+0
+Position X:
+31
+Position Y:
+11
+
+Dandelion
+Age:
+18
+Strength:
+0
+Position X:
+16
+Position Y:
+22
+
+Dandelion
+Age:
+18
+Strength:
+0
+Position X:
+14
+Position Y:
+23
+
+Dandelion
+Age:
+18
+Strength:
+0
+Position X:
+3
+Position Y:
+3
+
+Guarana
+Age:
+17
+Strength:
+0
+Position X:
+3
+Position Y:
+0
+
+Guarana
+Age:
+17
+Strength:
+0
+Position X:
+17
+Position Y:
+11
+
+Belladonna
+Age:
+17
+Strength:
+99
+Position X:
+35
+Position Y:
+4
+
+Dandelion
+Age:
+17
+Strength:
+0
+Position X:
+18
+Position Y:
+7
+
+Dandelion
+Age:
+17
+Strength:
+0
+Position X:
+16
+Position Y:
+23
+
+Dandelion
+Age:
+17
+Strength:
+0
+Position X:
+35
+Position Y:
+5
+
+Guarana
+Age:
+17
+Strength:
+0
+Position X:
+1
+Position Y:
+1
+
+Dandelion
+Age:
+17
+Strength:
+0
+Position X:
+15
+Position Y:
+23
+
+Guarana
+Age:
+16
+Strength:
+0
+Position X:
+17
+Position Y:
+9
+
+Dandelion
+Age:
+16
+Strength:
+0
+Position X:
+19
+Position Y:
+1
+
+Dandelion
+Age:
+16
+Strength:
+0
+Position X:
+27
+Position Y:
+5
+
+Dandelion
+Age:
+16
+Strength:
+0
+Position X:
+16
+Position Y:
+20
+
+Dandelion
+Age:
+16
+Strength:
+0
+Position X:
+15
+Position Y:
+21
+
+Dandelion
+Age:
+16
+Strength:
+0
+Position X:
+22
+Position Y:
+15
+
+Dandelion
+Age:
+15
+Strength:
+0
+Position X:
+4
+Position Y:
+7
+
+Dandelion
+Age:
+15
+Strength:
+0
+Position X:
+33
+Position Y:
+6
+
+Belladonna
+Age:
+14
+Strength:
+99
+Position X:
+37
+Position Y:
+7
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+21
+Position Y:
+19
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+28
+Position Y:
+4
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+37
+Position Y:
+10
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+20
+Position Y:
+19
+
+Belladonna
+Age:
+14
+Strength:
+99
+Position X:
+30
+Position Y:
+2
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+32
+Position Y:
+10
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+32
+Position Y:
+4
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+33
+Position Y:
+5
+
+Belladonna
+Age:
+13
+Strength:
+99
+Position X:
+34
+Position Y:
+4
+
+Belladonna
+Age:
+13
+Strength:
+99
+Position X:
+33
+Position Y:
+3
+
+Dandelion
+Age:
+13
+Strength:
+0
+Position X:
+11
+Position Y:
+5
+
+Dandelion
+Age:
+13
+Strength:
+0
+Position X:
+31
+Position Y:
+5
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+31
+Position Y:
+4
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+36
+Position Y:
+10
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+36
+Position Y:
+9
+
+Guarana
+Age:
+11
+Strength:
+0
+Position X:
+16
+Position Y:
+7
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+18
+Position Y:
+9
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+17
+Position Y:
+20
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+23
+Position Y:
+17
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+35
+Position Y:
+6
+
+Guarana
+Age:
+11
+Strength:
+0
+Position X:
+0
+Position Y:
+0
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+34
+Position Y:
+7
+
+Belladonna
+Age:
+11
+Strength:
+99
+Position X:
+36
+Position Y:
+7
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+36
+Position Y:
+6
+
+Guarana
+Age:
+10
+Strength:
+0
+Position X:
+0
+Position Y:
+3
+
+Dandelion
+Age:
+10
+Strength:
+0
+Position X:
+33
+Position Y:
+4
+
+Belladonna
+Age:
+10
+Strength:
+99
+Position X:
+36
+Position Y:
+8
+
+Dandelion
+Age:
+10
+Strength:
+0
+Position X:
+1
+Position Y:
+4
+
+Dandelion
+Age:
+10
+Strength:
+0
+Position X:
+23
+Position Y:
+16
+
+Dandelion
+Age:
+10
+Strength:
+0
+Position X:
+35
+Position Y:
+7
+
+Guarana
+Age:
+9
+Strength:
+0
+Position X:
+1
+Position Y:
+0
+
+Dandelion
+Age:
+8
+Strength:
+0
+Position X:
+32
+Position Y:
+3
+
+Dandelion
+Age:
+7
+Strength:
+0
+Position X:
+19
+Position Y:
+20
+
+Guarana
+Age:
+7
+Strength:
+0
+Position X:
+0
+Position Y:
+2
+
+Belladonna
+Age:
+6
+Strength:
+99
+Position X:
+36
+Position Y:
+0
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+22
+Position Y:
+20
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+33
+Position Y:
+11
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+17
+Position Y:
+21
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+13
+Position Y:
+8
 
 Dandelion
 Age:
@@ -403,17 +8613,77 @@ Age:
 Strength:
 0
 Position X:
-6
+27
 Position Y:
-17
+6
 
-Guarana
+Dandelion
+Age:
+5
+Strength:
+0
+Position X:
+20
+Position Y:
+6
+
+Dandelion
+Age:
+5
+Strength:
+0
+Position X:
+30
+Position Y:
+3
+
+Belladonna
+Age:
+4
+Strength:
+99
+Position X:
+32
+Position Y:
+1
+
+Belladonna
+Age:
+4
+Strength:
+99
+Position X:
+37
+Position Y:
+0
+
+Dandelion
+Age:
+4
+Strength:
+0
+Position X:
+34
+Position Y:
+5
+
+Dandelion
 Age:
 4
 Strength:
 0
 Position X:
 37
+Position Y:
+8
+
+Dandelion
+Age:
+4
+Strength:
+0
+Position X:
+14
 Position Y:
 15
 
@@ -425,17 +8695,27 @@ Strength:
 Position X:
 6
 Position Y:
-3
+6
 
-Grass
+Dandelion
 Age:
-2
+3
 Strength:
 0
 Position X:
-12
+21
 Position Y:
-20
+21
+
+Dandelion
+Age:
+3
+Strength:
+0
+Position X:
+37
+Position Y:
+9
 
 Dandelion
 Age:
@@ -443,9 +8723,29 @@ Age:
 Strength:
 0
 Position X:
-5
+7
 Position Y:
-16
+4
+
+Dandelion
+Age:
+2
+Strength:
+0
+Position X:
+19
+Position Y:
+7
+
+Guarana
+Age:
+1
+Strength:
+0
+Position X:
+14
+Position Y:
+7
 
 Dandelion
 Age:
@@ -453,6 +8753,76 @@ Age:
 Strength:
 0
 Position X:
-6
+22
 Position Y:
+21
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+23
+Position Y:
+22
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+19
+Position Y:
+17
+
+Guarana
+Age:
+1
+Strength:
+0
+Position X:
 2
+Position Y:
+1
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+31
+Position Y:
+3
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+35
+Position Y:
+9
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+23
+Position Y:
+18
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+20
+Position Y:
+20

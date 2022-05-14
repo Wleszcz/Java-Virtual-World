@@ -9,10 +9,13 @@ import java.awt.*;
 import java.util.Random;
 
 public class Turtle extends Animal implements IDeflect {
+    private static final int BASE_STRENGTH = 2;
+    private static final int BASE_INITIATIVE = 1;
+
     public Turtle(Point position, World world) {
         super(position, world);
-        strength=2;
-        initiative=1;
+        strength=BASE_STRENGTH;
+        initiative=BASE_INITIATIVE;
     }
 
     public Turtle(World world) {

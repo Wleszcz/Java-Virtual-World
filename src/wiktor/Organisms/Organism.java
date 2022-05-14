@@ -4,6 +4,7 @@ import wiktor.World;
 
 import java.awt.*;
 import java.io.PrintWriter;
+import java.lang.annotation.Repeatable;
 import java.util.Random;
 
 public abstract class Organism {
@@ -25,7 +26,7 @@ public abstract class Organism {
         this.world=world;
     }
 
-    abstract public  void colision(Organism attacker);
+    abstract public  void collision(Organism attacker);
 
     public abstract void action();
 
@@ -63,6 +64,8 @@ public abstract class Organism {
                 return point;
             }
             i++;
+            i++;
+
         }
     }
 
@@ -88,6 +91,7 @@ public abstract class Organism {
 
 
 
+
         while (true){
 
             int xRand = random.nextInt(2*range+1);
@@ -101,6 +105,8 @@ public abstract class Organism {
             if (world.InBounds(point) ){
                 return point;
             }
+
+
         }
     }
 

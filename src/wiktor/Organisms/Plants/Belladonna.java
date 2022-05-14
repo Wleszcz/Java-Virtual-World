@@ -7,12 +7,15 @@ import wiktor.World;
 import java.awt.*;
 
 public class Belladonna extends Plant {
+    private static final int BASE_STRENGTH = 99;
+
+
     public Belladonna(World world) {
         super(world);
     }
 
     @Override
-    public void colision(Organism attacker) {
+    public void collision(Organism attacker) {
 
         attacker.die();
         System.out.println(attacker.getType()+ "   was poisoned by  "+ getType());
@@ -20,7 +23,7 @@ public class Belladonna extends Plant {
 
     public Belladonna(Point position, World world) {
         super(position, world);
-        strength=99;
+        strength=BASE_STRENGTH;
     }
 
     @Override

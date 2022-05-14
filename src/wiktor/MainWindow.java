@@ -19,7 +19,7 @@ public class MainWindow extends JFrame
 
     public static int BOTTOM_MARGIN=120;
 
-    public static Dimension WORLD_BORDERS = new Dimension((int) (Main.MAIN_WINDOW_DIMENSIONS.width-40),Main.MAIN_WINDOW_DIMENSIONS.height-BOTTOM_MARGIN);
+    public static Dimension WORLD_BORDERS = new Dimension((int) (Main.MAIN_WINDOW_DIMENSIONS.width-50),Main.MAIN_WINDOW_DIMENSIONS.height-BOTTOM_MARGIN);
     private World world;
 
     public MainWindow(Dimension dimension) {
@@ -57,6 +57,8 @@ public class MainWindow extends JFrame
             allOrganismsNames.add(allOrganisms.get(i).getType());
             box.addItem(allOrganismsNames.get(i));
         }
+
+        box.addItem("Delete");
         
 
         box.setBounds(200,WORLD_BORDERS.height+3*MIN_MARGIN,BOX_WIDTH,BOX_HEIGHT);
@@ -66,10 +68,15 @@ public class MainWindow extends JFrame
             @Override
             public void actionPerformed(ActionEvent e) {
                 JComboBox b = (JComboBox) (e.getSource());
-                Organism selected = allOrganisms.get(b.getSelectedIndex());
-                world.selectedOrganism(selected);
-                System.out.println(selected.getType());
-
+                if(b.getSelectedIndex()>allOrganisms.size()-1){
+                    world.setRemover(true);
+                }
+                else {
+                    Organism selected = allOrganisms.get(b.getSelectedIndex());
+                    world.selectedOrganism(selected);
+                    System.out.println(selected.getType());
+                    world.setRemover(false);
+                }
             }
         });
 
@@ -138,11 +145,28 @@ public class MainWindow extends JFrame
         add(loadButton);
 
 
+        JButton newGameButton = new JButton();
+        newGameButton.setFocusable(false);
+        newGameButton.setBounds(660, WORLD_BORDERS.height+3*MIN_MARGIN, BOX_WIDTH/2+20, BOX_HEIGHT);
+        newGameButton.setText("New Game");
+        newGameButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+                world.judgementDay();
+                world.setTurn(0);
+                world.newGame();
+                world.drawWorld();
+
+            }
+        });
+        add(newGameButton);
 
 
         setFocusable(true);
         setLayout(null);
         setVisible(true);
+        world.setDoubleBuffered(true);
         world.setVisible(true);
         button.setVisible(true);
     }

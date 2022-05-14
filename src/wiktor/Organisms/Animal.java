@@ -40,11 +40,11 @@ public abstract class Animal extends Organism{
                     if (attacked instanceof IDeflect) {
                         IDeflect d = (IDeflect) attacked;
                         if (!d.deflectedAttack(this)) {
-                            attacked.colision(this);
+                            attacked.collision(this);
                             position.setLocation(point);
                         }
                     }
-                    attacked.colision(this);
+                    attacked.collision(this);
                     if (this.alive) {
                         position.setLocation(point);
                         world.updateBoard();
@@ -58,7 +58,7 @@ public abstract class Animal extends Organism{
     }
 
     @Override
-    public void colision(Organism attacker) {
+    public void collision(Organism attacker) {
         if(attacker.getStrength() > strength){
             System.out.println(getType()+" was eaten by "+ attacker.getType());
             die();
@@ -90,7 +90,7 @@ public abstract class Animal extends Organism{
 
     }
 
-    private boolean isSurroundedbyAnimals() {
+    protected boolean isSurroundedbyAnimals() {
 
 
         for (int i = -range; i <= range; i++) {
@@ -121,6 +121,7 @@ public abstract class Animal extends Organism{
                 return point;
             }
             i++;
+
 
         }
 

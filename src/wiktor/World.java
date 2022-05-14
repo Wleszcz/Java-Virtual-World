@@ -2,7 +2,6 @@ package wiktor;
 
 import wiktor.Organisms.Animals.*;
 import wiktor.Organisms.Organism;
-import wiktor.Organisms.Plant;
 import wiktor.Organisms.Plants.*;
 
 import javax.swing.*;
@@ -22,37 +21,48 @@ public class World extends JPanel {
     private static final int SAVE = 83;
     private static final int SUPER = 155;
     private static final String SAVE_PATH = "save.txt";
+    private static final boolean GRID = false;
 
-    public static int SCALE = 20;
+    public static int SCALE = 30;
 
     private final Dimension tilesDimension;
 
     private int turn = 0;
     private Organism[][] board = null;
-    private ArrayList<Organism> organisms;
+    private final ArrayList<Organism> organisms;
+
+    public boolean ifReamover() {
+        return reamover;
+    }
+
     private Human human = null;
 
     private PrintWriter save = null;
     private BufferedReader load =null;
+
+    private boolean reamover=false;
 
     private Organism selected = getAllOrganisms().get(0);
 
 
     public World(Dimension worldBorders) {
         setSize(worldBorders);
-
+        Random random = new Random();
 
         tilesDimension = new Dimension(worldBorders.width / SCALE, worldBorders.height / SCALE);
         board = new Organism[tilesDimension.width][tilesDimension.height];
 
-
-        ArrayList<Organism> allOrganisms;
         organisms = new ArrayList<Organism>();
+
+        newGame();
+
+    }
+
+        public void newGame() {
+        ArrayList<Organism> allOrganisms;
         allOrganisms = getAllOrganisms();
 
-
         Random random = new Random();
-
 
         for (int i = 0; i < allOrganisms.size(); i++) {
 
@@ -60,7 +70,8 @@ public class World extends JPanel {
                 Point point = new Point(random.nextInt(tilesDimension.width), random.nextInt(tilesDimension.height));
 
                 if (!(allOrganisms.get(i) instanceof Human)) {
-                    organisms.add(allOrganisms.get(i).Constructor(point));
+                    addOrganism(allOrganisms.get(i).Constructor(point));
+
                 }
             }
 
@@ -68,18 +79,15 @@ public class World extends JPanel {
 
 
         Point point = new Point(random.nextInt(tilesDimension.width), random.nextInt(tilesDimension.height));
-        organisms.add(new Human(point, this));
+        addOrganism(new Human(point, this));
 
         updateBoard();
         sortOrganisms(organisms);
+        //drawWorld();
     }
 
     public boolean isEmpty(Point point) {
-        if (board[point.x][point.y] == null) {
-            return true;
-        } else {
-            return false;
-        }
+        return board[point.x][point.y] == null;
     }
 
     public Organism getOrganism(Point point) {
@@ -111,9 +119,8 @@ public class World extends JPanel {
         for (int i = 0; i < organisms.size(); i++) {
             if (organisms.get(i).isAlive()) {
 
-                if (organisms.get(i).getAge() != 0 || organisms.get(i) instanceof Plant) {
                     organisms.get(i).action();
-                }
+
 
                 organisms.get(i).getOlder();
                 organisms.get(i).setReady(true);
@@ -122,12 +129,13 @@ public class World extends JPanel {
 
         }
 
-        delateKilled();
+        deleteKilled();
         drawWorld();
+
         turn++;
     }
 
-    private void delateKilled() {
+    private void deleteKilled() {
         for (int i = organisms.size() - 1; i >= 0; i--) {
             if (!organisms.get(i).isAlive()) {
                 organisms.remove(i);
@@ -157,31 +165,54 @@ public class World extends JPanel {
         graphics.fillRect(0, 0, getWidth(), getHeight());
 
 
-        for (int i = 0; i < organisms.size(); i++) {
-            if (organisms.get(i).isAlive()) {
-                organisms.get(i).print(graphics);
+
+        for (Organism organism : organisms) {
+            if (organism.isAlive()) {
+                organism.print(graphics);
             }
         }
 
+        if(GRID) {
+            for (int i = 0; i < tilesDimension.width; i++) {
+                for (int j = 0; j < tilesDimension.height; j++) {
+                    graphics.setColor(Color.black);
+                    graphics.drawRect(i * World.SCALE, j * World.SCALE, World.SCALE, World.SCALE);
+
+                }
+            }
+
+        }
 
     }
 
     public void handleMousePress(MouseEvent event) {
         Point point = new Point(event.getPoint().x / SCALE, event.getPoint().y / SCALE);
 
-        if (isEmpty(point)) {
-            if (selected != null) {
-                addOrganism(selected.Constructor(point));
-                getOrganism(point).print(getGraphics());
-            }
-        } else {
-
-            Organism organism = getOrganism(point);
-
-            System.out.println(organism.toString());
+        if(point.x>tilesDimension.width-1 || point.y>tilesDimension.height -1|| point.x<0 ||point.y<0){
+            System.out.println("Nothing to see here :)");
+            return;
         }
+        if(reamover){
+            if(board[point.x][point.y]!=null)
+            board[point.x][point.y].die();
+            board[point.x][point.y].print(getGraphics());
+            deleteKilled();
+            drawWorld();
 
+        }
+        else {
+            if (isEmpty(point)) {
+                if (selected != null) {
+                    addOrganism(selected.Constructor(point));
+                    getOrganism(point).print(getGraphics());
+                }
+            } else {
 
+                Organism organism = getOrganism(point);
+
+                System.out.println(organism.toString());
+            }
+        }
     }
 
     public void handleKeyPress(KeyEvent event) {
@@ -210,8 +241,8 @@ public class World extends JPanel {
 
 
     public void addOrganism(Organism organism) {
-
         if (isEmpty(organism.getPosition())) {
+
             organisms.add(organism);
             sortOrganisms(organisms);
             updateBoard();
@@ -235,7 +266,7 @@ public class World extends JPanel {
     }
 
     public void saveGame() {
-        delateKilled();
+        deleteKilled();
         clearSave();
         openSave();
 
@@ -256,6 +287,10 @@ public class World extends JPanel {
         if(!SaveFile.delete()){
             System.out.println("File deleting problem !");
         };
+    }
+
+    public void setTurn(int turn) {
+        this.turn = turn;
     }
 
     public void loadGame() {
@@ -330,12 +365,12 @@ public class World extends JPanel {
 
     }
 
-    private void judgementDay() {
+    public void judgementDay() {
 
         for (Organism organism:organisms) {
             organism.die();
         }
-        delateKilled();
+        deleteKilled();
         updateBoard();
         drawWorld();
     }
@@ -369,5 +404,7 @@ public class World extends JPanel {
     }
 
 
-
+    public void setRemover(boolean b) {
+        reamover = b;
+    }
 }

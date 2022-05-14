@@ -37,7 +37,7 @@ public class Human extends Animal {
     public Human(Point position, World world) {
         super(position, world);
         strength= BASE_STRENGTH;
-        initiative=4;
+        initiative=BASE_INITIATIVE;
         world.setHuman(this);
     }
     public Human(Point position, World world, int strenght,boolean abilityActive,int cooldown){
@@ -97,6 +97,7 @@ public class Human extends Animal {
             } else if ( strength == BASE_STRENGTH) {
                 abilityCooldown = COOL_DOWN;
                 abilityActive = false;
+                System.out.println("Ability is no longer active");
             }
         }
         else {

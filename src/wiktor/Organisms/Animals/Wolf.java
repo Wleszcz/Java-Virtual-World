@@ -7,10 +7,13 @@ import wiktor.World;
 import java.awt.*;
 
 public class Wolf extends Animal {
+    private static final int BASE_STRENGTH = 9;
+    private static final int BASE_INITIATIVE = 5;
+
     public Wolf(Point position, World world) {
         super(position, world);
-        strength=9;
-        initiative=5;
+        strength=BASE_STRENGTH;
+        initiative=BASE_INITIATIVE;
     }
 
     public Wolf(World world) {

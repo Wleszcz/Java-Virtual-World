@@ -21,7 +21,7 @@ public class Guarana extends Plant {
     }
 
     @Override
-    public void colision(Organism attacker) {
+    public void collision(Organism attacker) {
         attacker.bonusStrength();
         die();
         getClass().getSimpleName();
