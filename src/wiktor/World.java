@@ -21,9 +21,9 @@ public class World extends JPanel {
     private static final int SAVE = 83;
     private static final int SUPER = 155;
     private static final String SAVE_PATH = "save.txt";
-    private static final boolean GRID = false;
+    private static final boolean GRID = true;
 
-    public static int SCALE = 30;
+    public static int SCALE = 25;
 
     private final Dimension tilesDimension;
 
@@ -31,8 +31,8 @@ public class World extends JPanel {
     private Organism[][] board = null;
     private final ArrayList<Organism> organisms;
 
-    public boolean ifReamover() {
-        return reamover;
+    public boolean ifRemover() {
+        return remover;
     }
 
     private Human human = null;
@@ -40,7 +40,7 @@ public class World extends JPanel {
     private PrintWriter save = null;
     private BufferedReader load =null;
 
-    private boolean reamover=false;
+    private boolean remover =false;
 
     private Organism selected = getAllOrganisms().get(0);
 
@@ -192,7 +192,7 @@ public class World extends JPanel {
             System.out.println("Nothing to see here :)");
             return;
         }
-        if(reamover){
+        if(remover){
             if(board[point.x][point.y]!=null)
             board[point.x][point.y].die();
             board[point.x][point.y].print(getGraphics());
@@ -209,7 +209,6 @@ public class World extends JPanel {
             } else {
 
                 Organism organism = getOrganism(point);
-
                 System.out.println(organism.toString());
             }
         }
@@ -357,6 +356,7 @@ public class World extends JPanel {
 
         turn=newTurn;
         for (Organism organism:newOrganisms) {
+            if(InBounds(organism.getPosition()))
             addOrganism(organism);
             organism.print(getGraphics());
         }
@@ -405,6 +405,6 @@ public class World extends JPanel {
 
 
     public void setRemover(boolean b) {
-        reamover = b;
+        remover = b;
     }
 }

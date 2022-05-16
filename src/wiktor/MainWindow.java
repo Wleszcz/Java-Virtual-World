@@ -173,5 +173,6 @@ public class MainWindow extends JFrame
 
     public void initialPrint() {
         world.drawWorld();
+
     }
 }

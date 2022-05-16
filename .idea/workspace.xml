@@ -5,18 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/save.txt" beforeDir="false" afterPath="$PROJECT_DIR$/save.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/MainWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Antilope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Fox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Sheep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Turtle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Animals/Wolf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Organism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Belladonna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Belladonna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Guarana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/Guarana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/SosnowskysHogweed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/Organisms/Plants/SosnowskysHogweed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/wiktor/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wiktor/World.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +81,8 @@
       <workItem from="1652465871999" duration="12000" />
       <workItem from="1652467193599" duration="78000" />
       <workItem from="1652551543484" duration="605000" />
-      <workItem from="1652565365484" duration="4577000" />
+      <workItem from="1652565365484" duration="4986000" />
+      <workItem from="1652613387369" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="Jeszcze Działa">
       <created>1652377810584</created>
@@ -108,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652446006214</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Jeszcze Działa">
+      <created>1652569995500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652569995500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -81,7 +81,7 @@ public abstract class Organism {
         organism+="\n Position: ";
         organism+=position.x;
         organism+="   ";
-        organism+=position.x;
+        organism+=position.y;
         return organism;
     }
 

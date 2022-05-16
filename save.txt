@@ -1,2891 +1,751 @@
 Turn:
-73
+86
 Amount of organisms:
-882
+515
 
-Fox
-Age:
-73
-Strength:
-6
-Position X:
-22
-Position Y:
-19
-
-Fox
-Age:
-73
-Strength:
-33
-Position X:
-12
-Position Y:
-13
-
-Wolf
-Age:
-73
-Strength:
-30
-Position X:
-3
-Position Y:
-17
-
-Wolf
-Age:
-73
-Strength:
-30
-Position X:
-1
-Position Y:
-16
-
-Wolf
-Age:
-73
-Strength:
-21
-Position X:
-0
-Position Y:
-22
-
-Wolf
-Age:
-41
-Strength:
-12
-Position X:
-4
-Position Y:
-18
-
-Wolf
-Age:
-35
-Strength:
-9
-Position X:
-5
-Position Y:
-19
-
-Wolf
-Age:
-34
-Strength:
-12
-Position X:
-14
-Position Y:
-18
-
-Wolf
-Age:
-28
-Strength:
-9
-Position X:
-3
-Position Y:
-9
-
-Wolf
-Age:
-27
-Strength:
-9
-Position X:
-4
-Position Y:
-13
-
-Wolf
-Age:
-26
-Strength:
-9
-Position X:
-4
-Position Y:
-15
-
-Wolf
-Age:
-24
-Strength:
-9
-Position X:
-6
-Position Y:
-14
-
-Wolf
-Age:
-23
-Strength:
-9
-Position X:
-5
-Position Y:
-11
-
-Wolf
-Age:
-22
-Strength:
-9
-Position X:
-0
-Position Y:
-10
-
-Wolf
-Age:
-21
-Strength:
-9
-Position X:
-1
-Position Y:
-17
-
-Wolf
-Age:
-21
-Strength:
-9
-Position X:
-4
-Position Y:
-16
-
-Wolf
-Age:
-21
-Strength:
-9
-Position X:
-2
-Position Y:
-10
-
-Wolf
-Age:
-20
-Strength:
-12
-Position X:
-6
-Position Y:
-17
-
-Wolf
-Age:
-20
-Strength:
-18
-Position X:
-0
-Position Y:
-19
-
-Wolf
-Age:
-20
-Strength:
-9
-Position X:
-2
-Position Y:
-15
-
-Wolf
-Age:
-20
-Strength:
-12
-Position X:
-1
-Position Y:
-15
-
-Wolf
-Age:
-19
-Strength:
-9
-Position X:
-2
-Position Y:
-17
-
-Wolf
-Age:
-19
-Strength:
-9
-Position X:
-3
-Position Y:
-14
-
-Wolf
-Age:
-19
-Strength:
-9
-Position X:
-6
-Position Y:
-15
-
-Wolf
-Age:
-19
-Strength:
-9
-Position X:
-0
-Position Y:
-17
-
-Wolf
-Age:
-19
-Strength:
-9
-Position X:
-2
-Position Y:
-14
-
-Wolf
-Age:
-18
-Strength:
-9
-Position X:
-3
-Position Y:
-15
-
-Wolf
-Age:
-18
-Strength:
-9
-Position X:
-1
-Position Y:
-18
-
-Wolf
-Age:
-18
-Strength:
-9
-Position X:
-2
-Position Y:
-16
-
-Wolf
-Age:
-18
-Strength:
-9
-Position X:
-1
-Position Y:
-14
-
-Wolf
-Age:
-18
-Strength:
-9
-Position X:
-2
-Position Y:
-11
-
-Wolf
-Age:
-18
-Strength:
-9
-Position X:
-0
-Position Y:
-16
-
-Wolf
-Age:
-18
-Strength:
-9
-Position X:
-0
-Position Y:
-13
-
-Wolf
-Age:
-17
-Strength:
-18
-Position X:
-2
-Position Y:
-20
-
-Wolf
-Age:
-17
-Strength:
-9
-Position X:
-3
-Position Y:
-19
-
-Wolf
-Age:
-17
-Strength:
-9
-Position X:
-3
-Position Y:
-16
-
-Wolf
-Age:
-17
-Strength:
-9
-Position X:
-7
-Position Y:
-16
-
-Wolf
-Age:
-17
-Strength:
-12
-Position X:
-0
-Position Y:
-15
-
-Wolf
-Age:
-17
-Strength:
-9
-Position X:
-4
-Position Y:
-14
-
-Wolf
-Age:
-17
-Strength:
-15
-Position X:
-2
-Position Y:
-18
-
-Wolf
-Age:
-17
-Strength:
-9
-Position X:
-3
-Position Y:
-13
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-4
-Position Y:
-19
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-8
-Position Y:
-17
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-4
-Position Y:
-12
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-6
-Position Y:
-16
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-1
-Position Y:
-11
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-5
-Position Y:
-18
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-1
-Position Y:
-10
-
-Wolf
-Age:
-16
-Strength:
-15
-Position X:
-3
-Position Y:
-21
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-2
-Position Y:
-13
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-1
-Position Y:
-13
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-6
-Position Y:
-12
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-0
-Position Y:
-20
-
-Wolf
-Age:
-16
-Strength:
-9
-Position X:
-3
-Position Y:
-12
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-5
-Position Y:
-17
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-5
-Position Y:
-12
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-5
-Position Y:
-14
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-7
-Position Y:
-15
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-5
-Position Y:
-16
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-4
-Position Y:
-11
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-0
-Position Y:
-14
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-6
-Position Y:
-5
-
-Wolf
-Age:
-15
-Strength:
-9
-Position X:
-1
-Position Y:
-8
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-3
-Position Y:
-18
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-4
-Position Y:
-17
-
-Wolf
-Age:
-14
-Strength:
-15
-Position X:
-7
-Position Y:
-21
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-5
-Position Y:
-13
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-5
-Position Y:
-15
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-7
-Position Y:
-14
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-0
-Position Y:
-18
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-3
-Position Y:
-20
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-8
-Position Y:
-15
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-1
-Position Y:
-20
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-7
-Position Y:
-17
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-6
-Position Y:
-19
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-5
-Position Y:
-21
-
-Wolf
-Age:
-14
-Strength:
-18
-Position X:
-2
-Position Y:
-23
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-6
-Position Y:
-18
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-6
-Position Y:
-11
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-7
-Position Y:
-12
-
-Wolf
-Age:
-14
-Strength:
-9
-Position X:
-8
-Position Y:
-16
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-7
-Position Y:
-18
-
-Wolf
-Age:
-13
-Strength:
-12
-Position X:
-0
-Position Y:
-23
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-2
-Position Y:
-12
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-10
-Position Y:
-16
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-1
-Position Y:
-19
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-8
-Position Y:
-14
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-2
-Position Y:
-19
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-12
-Position Y:
-12
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-8
-Position Y:
-13
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-9
-Position Y:
-16
-
-Wolf
-Age:
-13
-Strength:
-15
-Position X:
-3
-Position Y:
-23
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-8
-Position Y:
-18
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-7
-Position Y:
-19
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-5
-Position Y:
-8
-
-Wolf
-Age:
-13
-Strength:
-9
-Position X:
-9
-Position Y:
-15
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-4
-Position Y:
-20
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-6
-Position Y:
-13
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-1
-Position Y:
-12
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-9
-Position Y:
-17
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-3
-Position Y:
-11
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-0
-Position Y:
-12
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-0
-Position Y:
-21
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-9
-Position Y:
-14
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-7
-Position Y:
-20
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-9
-Position Y:
-6
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-8
-Position Y:
-19
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-9
-Position Y:
-13
-
-Wolf
-Age:
-12
-Strength:
-12
-Position X:
-14
-Position Y:
-10
-
-Wolf
-Age:
-12
-Strength:
-12
-Position X:
-14
-Position Y:
-14
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-11
-Position Y:
-18
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-9
-Position Y:
-19
-
-Wolf
-Age:
-12
-Strength:
-9
-Position X:
-5
-Position Y:
-10
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-6
-Position Y:
-20
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-4
-Position Y:
-10
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-0
-Position Y:
-8
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-3
-Position Y:
-10
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-10
-Position Y:
-19
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-2
-Position Y:
-7
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-0
-Position Y:
-5
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-3
-Position Y:
-22
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-10
-Position Y:
-15
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-10
-Position Y:
-17
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-1
-Position Y:
-21
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-9
-Position Y:
-20
-
-Wolf
-Age:
-11
-Strength:
-9
-Position X:
-10
-Position Y:
-12
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-5
-Position Y:
-20
-
-Wolf
-Age:
-10
-Strength:
-12
-Position X:
-7
-Position Y:
-23
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-8
-Position Y:
-7
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-10
-Position Y:
-5
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-8
-Position Y:
-20
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-8
-Position Y:
-21
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-10
-Position Y:
-20
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-6
-Position Y:
-21
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-11
-Position Y:
-16
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-11
-Position Y:
-17
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-2
-Position Y:
-21
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-12
-Position Y:
-14
-
-Wolf
-Age:
-10
-Strength:
-9
-Position X:
-9
-Position Y:
-21
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-6
-Position Y:
-10
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-3
-Position Y:
-8
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-9
-Position Y:
-18
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-4
-Position Y:
-22
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-7
-Position Y:
-10
-
-Wolf
-Age:
-9
-Strength:
-12
-Position X:
-6
-Position Y:
-22
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-8
-Position Y:
-12
-
-Wolf
-Age:
-9
-Strength:
-12
-Position X:
-1
-Position Y:
-23
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-10
-Position Y:
-14
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-10
-Position Y:
-18
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-13
-Position Y:
-18
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-5
-Position Y:
-9
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-15
-Position Y:
-19
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-10
-Position Y:
-21
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-8
-Position Y:
-23
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-13
-Position Y:
-16
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-11
-Position Y:
-19
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-14
-Position Y:
-18
-
-Wolf
-Age:
-9
-Strength:
-9
-Position X:
-13
-Position Y:
-22
-
-Wolf
-Age:
-8
-Strength:
-9
-Position X:
-2
-Position Y:
-9
-
-Wolf
-Age:
-8
-Strength:
-9
-Position X:
-8
-Position Y:
-22
-
-Wolf
-Age:
-8
-Strength:
-9
-Position X:
-6
-Position Y:
-8
-
-Wolf
-Age:
-8
-Strength:
-9
-Position X:
-4
-Position Y:
-21
-
-Wolf
-Age:
-8
-Strength:
-9
-Position X:
-13
-Position Y:
-21
-
-Wolf
-Age:
-8
-Strength:
-9
-Position X:
-4
-Position Y:
-23
-
-Wolf
-Age:
-8
-Strength:
-9
-Position X:
-7
-Position Y:
-10
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-1
-Position Y:
-9
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-0
-Position Y:
-11
-
-Wolf
-Age:
-7
-Strength:
-12
-Position X:
-2
-Position Y:
-23
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-0
-Position Y:
-9
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-7
-Position Y:
-22
-
-Wolf
-Age:
-7
-Strength:
-12
-Position X:
-12
-Position Y:
-9
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-8
-Position Y:
-2
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-0
-Position Y:
-4
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-11
-Position Y:
-15
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-9
-Position Y:
-22
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-15
-Position Y:
-15
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-11
-Position Y:
-14
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-11
-Position Y:
-23
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-7
-Position Y:
-11
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-11
-Position Y:
-20
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-9
-Position Y:
-23
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-2
-Position Y:
-6
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-5
-Position Y:
-6
-
-Wolf
-Age:
-7
-Strength:
-9
-Position X:
-9
-Position Y:
-9
-
-Wolf
-Age:
-7
-Strength:
-12
-Position X:
-5
-Position Y:
-23
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-0
-Position Y:
-7
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-8
-Position Y:
-11
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-1
-Position Y:
-22
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-12
-Position Y:
-15
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-11
-Position Y:
-8
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-10
-Position Y:
-23
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-11
-Position Y:
-21
-
-Wolf
-Age:
-6
-Strength:
-9
-Position X:
-10
-Position Y:
-22
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-2
-Position Y:
-8
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-2
-Position Y:
-22
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-1
-Position Y:
-7
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-5
-Position Y:
-22
-
-Wolf
-Age:
-5
-Strength:
-12
-Position X:
-14
-Position Y:
-6
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-4
-Position Y:
-4
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-10
-Position Y:
-11
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-8
-Position Y:
-10
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-13
-Position Y:
-17
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-11
-Position Y:
-22
-
-Wolf
-Age:
-5
-Strength:
-12
-Position X:
-16
-Position Y:
-11
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-12
-Position Y:
-19
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-12
-Position Y:
-20
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-4
-Position Y:
-8
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-1
-Position Y:
-6
-
-Wolf
-Age:
-5
-Strength:
-9
-Position X:
-9
-Position Y:
-10
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-4
-Position Y:
-9
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-11
-Position Y:
-10
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-12
-Position Y:
-17
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-9
-Position Y:
-11
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-7
-Position Y:
-9
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-13
-Position Y:
-22
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-10
-Position Y:
-6
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-0
-Position Y:
-6
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-10
-Position Y:
-10
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-15
-Position Y:
-17
-
-Wolf
-Age:
-4
-Strength:
-9
-Position X:
-14
-Position Y:
-20
-
-Wolf
-Age:
-4
-Strength:
-12
-Position X:
-1
-Position Y:
-3
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-7
-Position Y:
-13
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-6
-Position Y:
-9
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-2
-Position Y:
-4
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-6
-Position Y:
-23
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-4
-Position Y:
-6
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-8
-Position Y:
-9
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-12
-Position Y:
-18
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-12
-Position Y:
-11
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-12
-Position Y:
-21
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-4
-Position Y:
-3
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-7
-Position Y:
-7
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-7
-Position Y:
-6
-
-Wolf
-Age:
-3
-Strength:
-12
-Position X:
-14
-Position Y:
-9
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-13
-Position Y:
-15
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-14
-Position Y:
-21
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-10
-Position Y:
-9
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-13
-Position Y:
-9
-
-Wolf
-Age:
-3
-Strength:
-9
-Position X:
-8
-Position Y:
-8
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-13
-Position Y:
-12
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-9
-Position Y:
-12
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-10
-Position Y:
-8
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-13
-Position Y:
-14
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-12
-Position Y:
-8
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-12
-Position Y:
-23
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-12
-Position Y:
-6
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-13
-Position Y:
-19
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-12
-Position Y:
-16
-
-Wolf
-Age:
-2
-Strength:
-9
-Position X:
-13
-Position Y:
-10
-
 Wolf
 Age:
-2
+86
 Strength:
 9
 Position X:
 14
 Position Y:
 16
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-13
-Position Y:
-13
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-6
-Position Y:
-7
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-10
-Position Y:
-13
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-3
-Position Y:
-7
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-1
-Position Y:
-5
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-14
-Position Y:
-17
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-15
-Position Y:
-18
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-7
-Position Y:
-8
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-11
-Position Y:
-9
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-2
-Position Y:
-5
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-9
-Position Y:
-8
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-10
-Position Y:
-7
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-5
-Position Y:
-7
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-15
-Position Y:
-16
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-14
-Position Y:
-12
-
-Wolf
-Age:
-1
-Strength:
-9
-Position X:
-11
-Position Y:
-7
-
-Antilope
-Age:
-73
-Strength:
-28
-Position X:
-11
-Position Y:
-11
 
 Human
 Age:
-73
+86
 Strength:
-41
+5
 Position X:
-14
+16
 Position Y:
-3
+10
 Ability active:
 false
 Ability cooldown:
 0
 
-Turtle
-Age:
-73
-Strength:
-2
-Position X:
-22
-Position Y:
-16
-
-Turtle
-Age:
-73
-Strength:
-8
-Position X:
-20
-Position Y:
-8
-
 Grass
 Age:
-73
+86
 Strength:
 0
 Position X:
-30
-Position Y:
-20
-
-Grass
-Age:
-73
-Strength:
-0
-Position X:
-23
-Position Y:
-10
-
-Belladonna
-Age:
-73
-Strength:
-99
-Position X:
-35
+14
 Position Y:
 12
 
-Belladonna
+Grass
 Age:
-73
-Strength:
-99
-Position X:
-37
-Position Y:
-4
-
-Dandelion
-Age:
-73
+86
 Strength:
 0
 Position X:
-15
-Position Y:
-2
-
-Dandelion
-Age:
-73
-Strength:
-0
-Position X:
-35
-Position Y:
-21
-
-Dandelion
-Age:
-73
-Strength:
-0
-Position X:
-32
-Position Y:
-23
-
-Guarana
-Age:
-73
-Strength:
-0
-Position X:
-17
-Position Y:
 5
-
-Guarana
-Age:
-73
-Strength:
-0
-Position X:
-4
 Position Y:
 1
 
-SosnowskysHogweed
+Grass
 Age:
-73
+86
 Strength:
-10
+0
 Position X:
-4
+19
 Position Y:
+0
+
+Grass
+Age:
+86
+Strength:
+0
+Position X:
+1
+Position Y:
+8
+
+Belladonna
+Age:
+86
+Strength:
+99
+Position X:
+19
+Position Y:
+8
+
+Belladonna
+Age:
+86
+Strength:
+99
+Position X:
+28
+Position Y:
+7
+
+Belladonna
+Age:
+86
+Strength:
+99
+Position X:
+8
+Position Y:
+5
+
+Dandelion
+Age:
+86
+Strength:
+0
+Position X:
+1
+Position Y:
+6
+
+Dandelion
+Age:
+86
+Strength:
+0
+Position X:
+0
+Position Y:
+15
+
+Guarana
+Age:
+86
+Strength:
+0
+Position X:
 2
+Position Y:
+17
+
+Guarana
+Age:
+86
+Strength:
+0
+Position X:
+27
+Position Y:
+7
+
+Guarana
+Age:
+86
+Strength:
+0
+Position X:
+24
+Position Y:
+7
 
 SosnowskysHogweed
 Age:
-73
+86
 Strength:
 10
 Position X:
-35
+24
 Position Y:
-22
+13
 
 SosnowskysHogweed
 Age:
-73
+86
+Strength:
+10
+Position X:
+9
+Position Y:
+16
+
+SosnowskysHogweed
+Age:
+86
 Strength:
 10
 Position X:
 27
 Position Y:
-11
+5
 
 SosnowskysHogweed
 Age:
-73
+86
 Strength:
 10
 Position X:
-13
+20
 Position Y:
-2
+7
 
 SosnowskysHogweed
 Age:
-73
+86
 Strength:
 10
 Position X:
-29
+18
 Position Y:
-12
+7
 
-SosnowskysHogweed
+Belladonna
 Age:
-73
+86
 Strength:
-10
+99
 Position X:
-28
+18
 Position Y:
-1
+8
 
 Dandelion
 Age:
-73
+85
+Strength:
+0
+Position X:
+0
+Position Y:
+14
+
+Belladonna
+Age:
+84
+Strength:
+99
+Position X:
+28
+Position Y:
+8
+
+Dandelion
+Age:
+84
+Strength:
+0
+Position X:
+0
+Position Y:
+16
+
+Dandelion
+Age:
+84
+Strength:
+0
+Position X:
+1
+Position Y:
+4
+
+Grass
+Age:
+83
+Strength:
+0
+Position X:
+20
+Position Y:
+1
+
+Belladonna
+Age:
+83
+Strength:
+99
+Position X:
+27
+Position Y:
+8
+
+Grass
+Age:
+82
 Strength:
 0
 Position X:
 15
 Position Y:
-1
+12
+
+Belladonna
+Age:
+82
+Strength:
+99
+Position X:
+29
+Position Y:
+7
 
 Dandelion
 Age:
-73
+82
 Strength:
 0
 Position X:
-16
+0
 Position Y:
-1
+5
+
+Belladonna
+Age:
+82
+Strength:
+99
+Position X:
+26
+Position Y:
+7
+
+Grass
+Age:
+82
+Strength:
+0
+Position X:
+14
+Position Y:
+11
+
+Belladonna
+Age:
+82
+Strength:
+99
+Position X:
+26
+Position Y:
+6
 
 Dandelion
 Age:
-73
+81
 Strength:
 0
+Position X:
+6
+Position Y:
+13
+
+Grass
+Age:
+81
+Strength:
+0
+Position X:
+15
+Position Y:
+13
+
+Grass
+Age:
+80
+Strength:
+0
+Position X:
+13
+Position Y:
+10
+
+Grass
+Age:
+79
+Strength:
+0
+Position X:
+13
+Position Y:
+11
+
+Grass
+Age:
+79
+Strength:
+0
+Position X:
+6
+Position Y:
+1
+
+Grass
+Age:
+79
+Strength:
+0
+Position X:
+18
+Position Y:
+0
+
+Belladonna
+Age:
+79
+Strength:
+99
+Position X:
+7
+Position Y:
+4
+
+Dandelion
+Age:
+79
+Strength:
+0
+Position X:
+1
+Position Y:
+16
+
+Guarana
+Age:
+79
+Strength:
+0
+Position X:
+1
+Position Y:
+18
+
+Belladonna
+Age:
+79
+Strength:
+99
 Position X:
 17
 Position Y:
+7
+
+Belladonna
+Age:
+79
+Strength:
+99
+Position X:
+17
+Position Y:
+8
+
+Grass
+Age:
+78
+Strength:
 0
+Position X:
+4
+Position Y:
+0
+
+Dandelion
+Age:
+78
+Strength:
+0
+Position X:
+0
+Position Y:
+7
+
+Dandelion
+Age:
+78
+Strength:
+0
+Position X:
+0
+Position Y:
+6
+
+Belladonna
+Age:
+78
+Strength:
+99
+Position X:
+16
+Position Y:
+7
+
+Dandelion
+Age:
+77
+Strength:
+0
+Position X:
+1
+Position Y:
+5
+
+Guarana
+Age:
+77
+Strength:
+0
+Position X:
+27
+Position Y:
+6
+
+Grass
+Age:
+76
+Strength:
+0
+Position X:
+1
+Position Y:
+7
+
+Dandelion
+Age:
+76
+Strength:
+0
+Position X:
+1
+Position Y:
+14
+
+Dandelion
+Age:
+76
+Strength:
+0
+Position X:
+8
+Position Y:
+10
+
+Dandelion
+Age:
+76
+Strength:
+0
+Position X:
+8
+Position Y:
+9
+
+Guarana
+Age:
+75
+Strength:
+0
+Position X:
+24
+Position Y:
+6
+
+Dandelion
+Age:
+75
+Strength:
+0
+Position X:
+2
+Position Y:
+4
+
+Grass
+Age:
+75
+Strength:
+0
+Position X:
+14
+Position Y:
+10
+
+Belladonna
+Age:
+75
+Strength:
+99
+Position X:
+6
+Position Y:
+3
+
+Belladonna
+Age:
+75
+Strength:
+99
+Position X:
+18
+Position Y:
+9
+
+Grass
+Age:
+75
+Strength:
+0
+Position X:
+5
+Position Y:
+0
+
+Guarana
+Age:
+75
+Strength:
+0
+Position X:
+28
+Position Y:
+5
+
+Dandelion
+Age:
+75
+Strength:
+0
+Position X:
+9
+Position Y:
+9
+
+Dandelion
+Age:
+75
+Strength:
+0
+Position X:
+7
+Position Y:
+10
+
+Guarana
+Age:
+75
+Strength:
+0
+Position X:
+23
+Position Y:
+6
+
+Dandelion
+Age:
+75
+Strength:
+0
+Position X:
+3
+Position Y:
+4
+
+Grass
+Age:
+74
+Strength:
+0
+Position X:
+14
+Position Y:
+13
+
+Dandelion
+Age:
+74
+Strength:
+0
+Position X:
+1
+Position Y:
+13
+
+Dandelion
+Age:
+74
+Strength:
+0
+Position X:
+2
+Position Y:
+6
+
+Dandelion
+Age:
+74
+Strength:
+0
+Position X:
+0
+Position Y:
+4
+
+Belladonna
+Age:
+73
+Strength:
+99
+Position X:
+19
+Position Y:
+9
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+7
+Position Y:
+9
+
+Dandelion
+Age:
+73
+Strength:
+0
+Position X:
+1
+Position Y:
+3
+
+Belladonna
+Age:
+72
+Strength:
+99
+Position X:
+8
+Position Y:
+4
+
+Belladonna
+Age:
+72
+Strength:
+99
+Position X:
+17
+Position Y:
+9
+
+Grass
+Age:
+72
+Strength:
+0
+Position X:
+7
+Position Y:
+2
 
 Dandelion
 Age:
@@ -2893,9 +753,49 @@ Age:
 Strength:
 0
 Position X:
-16
+5
+Position Y:
+11
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+0
+Position Y:
+3
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+1
 Position Y:
 2
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+0
+Position Y:
+2
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+0
+Position Y:
+1
 
 Dandelion
 Age:
@@ -2905,27 +805,107 @@ Strength:
 Position X:
 14
 Position Y:
+17
+
+Dandelion
+Age:
+72
+Strength:
+0
+Position X:
+15
+Position Y:
+16
+
+Grass
+Age:
+71
+Strength:
+0
+Position X:
+2
+Position Y:
+9
+
+Belladonna
+Age:
+71
+Strength:
+99
+Position X:
+26
+Position Y:
+8
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+3
+Position Y:
+17
+
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+8
+Position Y:
+11
+
+Belladonna
+Age:
+71
+Strength:
+99
+Position X:
+6
+Position Y:
+2
+
+Grass
+Age:
+71
+Strength:
+0
+Position X:
+4
+Position Y:
 1
 
 Dandelion
 Age:
-72
+71
 Strength:
 0
 Position X:
-16
+9
 Position Y:
-0
+8
 
 Dandelion
 Age:
-72
+71
 Strength:
 0
 Position X:
-17
-Position Y:
 2
+Position Y:
+12
+
+Belladonna
+Age:
+71
+Strength:
+99
+Position X:
+7
+Position Y:
+5
 
 Dandelion
 Age:
@@ -2933,9 +913,9 @@ Age:
 Strength:
 0
 Position X:
-34
+13
 Position Y:
-22
+16
 
 Dandelion
 Age:
@@ -2943,9 +923,9 @@ Age:
 Strength:
 0
 Position X:
-32
+2
 Position Y:
-22
+1
 
 Dandelion
 Age:
@@ -2953,11 +933,21 @@ Age:
 Strength:
 0
 Position X:
-33
+1
 Position Y:
-23
+1
 
-Guarana
+Dandelion
+Age:
+71
+Strength:
+0
+Position X:
+1
+Position Y:
+0
+
+Dandelion
 Age:
 71
 Strength:
@@ -2965,47 +955,37 @@ Strength:
 Position X:
 15
 Position Y:
+18
+
+Belladonna
+Age:
+70
+Strength:
+99
+Position X:
 9
+Position Y:
+4
 
-Dandelion
+Guarana
 Age:
-71
+70
 Strength:
 0
 Position X:
-17
+25
 Position Y:
-1
+6
 
-Dandelion
+Belladonna
 Age:
-71
+70
 Strength:
-0
+99
 Position X:
-18
+29
 Position Y:
-3
-
-Dandelion
-Age:
-71
-Strength:
-0
-Position X:
-35
-Position Y:
-23
-
-Dandelion
-Age:
-71
-Strength:
-0
-Position X:
-18
-Position Y:
-0
+8
 
 Dandelion
 Age:
@@ -3013,9 +993,9 @@ Age:
 Strength:
 0
 Position X:
-14
+0
 Position Y:
-2
+13
 
 Dandelion
 Age:
@@ -3023,9 +1003,109 @@ Age:
 Strength:
 0
 Position X:
-15
+2
 Position Y:
+14
+
+Dandelion
+Age:
+70
+Strength:
 0
+Position X:
+6
+Position Y:
+8
+
+Dandelion
+Age:
+70
+Strength:
+0
+Position X:
+16
+Position Y:
+15
+
+Belladonna
+Age:
+70
+Strength:
+99
+Position X:
+25
+Position Y:
+7
+
+Dandelion
+Age:
+70
+Strength:
+0
+Position X:
+3
+Position Y:
+12
+
+Dandelion
+Age:
+70
+Strength:
+0
+Position X:
+7
+Position Y:
+7
+
+Grass
+Age:
+69
+Strength:
+0
+Position X:
+13
+Position Y:
+12
+
+Grass
+Age:
+69
+Strength:
+0
+Position X:
+16
+Position Y:
+14
+
+Grass
+Age:
+69
+Strength:
+0
+Position X:
+19
+Position Y:
+1
+
+Belladonna
+Age:
+69
+Strength:
+99
+Position X:
+17
+Position Y:
+6
+
+Belladonna
+Age:
+69
+Strength:
+99
+Position X:
+9
+Position Y:
+5
 
 Dandelion
 Age:
@@ -3033,29 +1113,19 @@ Age:
 Strength:
 0
 Position X:
-23
+2
 Position Y:
-7
+18
 
-Dandelion
+Belladonna
 Age:
 69
 Strength:
-0
-Position X:
-31
-Position Y:
-23
-
-Belladonna
-Age:
-68
-Strength:
 99
 Position X:
-36
+9
 Position Y:
-3
+6
 
 Guarana
 Age:
@@ -3063,9 +1133,9 @@ Age:
 Strength:
 0
 Position X:
-16
+23
 Position Y:
-6
+7
 
 Dandelion
 Age:
@@ -3073,9 +1143,149 @@ Age:
 Strength:
 0
 Position X:
-36
+3
 Position Y:
-22
+5
+
+Dandelion
+Age:
+68
+Strength:
+0
+Position X:
+2
+Position Y:
+3
+
+Dandelion
+Age:
+68
+Strength:
+0
+Position X:
+10
+Position Y:
+17
+
+Belladonna
+Age:
+68
+Strength:
+99
+Position X:
+18
+Position Y:
+10
+
+Dandelion
+Age:
+68
+Strength:
+0
+Position X:
+0
+Position Y:
+0
+
+Dandelion
+Age:
+68
+Strength:
+0
+Position X:
+14
+Position Y:
+18
+
+Dandelion
+Age:
+68
+Strength:
+0
+Position X:
+9
+Position Y:
+12
+
+Belladonna
+Age:
+68
+Strength:
+99
+Position X:
+16
+Position Y:
+6
+
+Belladonna
+Age:
+67
+Strength:
+99
+Position X:
+26
+Position Y:
+5
+
+Grass
+Age:
+67
+Strength:
+0
+Position X:
+7
+Position Y:
+1
+
+Grass
+Age:
+67
+Strength:
+0
+Position X:
+3
+Position Y:
+1
+
+Dandelion
+Age:
+67
+Strength:
+0
+Position X:
+16
+Position Y:
+18
+
+Belladonna
+Age:
+67
+Strength:
+99
+Position X:
+9
+Position Y:
+3
+
+Dandelion
+Age:
+67
+Strength:
+0
+Position X:
+17
+Position Y:
+15
+
+Dandelion
+Age:
+67
+Strength:
+0
+Position X:
+8
+Position Y:
+8
 
 Guarana
 Age:
@@ -3083,9 +1293,9 @@ Age:
 Strength:
 0
 Position X:
-15
+22
 Position Y:
-8
+7
 
 Dandelion
 Age:
@@ -3093,9 +1303,29 @@ Age:
 Strength:
 0
 Position X:
-24
+3
 Position Y:
-8
+10
+
+Belladonna
+Age:
+66
+Strength:
+99
+Position X:
+6
+Position Y:
+4
+
+Guarana
+Age:
+66
+Strength:
+0
+Position X:
+22
+Position Y:
+6
 
 Dandelion
 Age:
@@ -3103,9 +1333,9 @@ Age:
 Strength:
 0
 Position X:
-33
+15
 Position Y:
-22
+17
 
 Dandelion
 Age:
@@ -3113,19 +1343,89 @@ Age:
 Strength:
 0
 Position X:
-19
+5
 Position Y:
+9
+
+Dandelion
+Age:
+66
+Strength:
+0
+Position X:
+8
+Position Y:
+7
+
+Belladonna
+Age:
+66
+Strength:
+99
+Position X:
+9
+Position Y:
+7
+
+Dandelion
+Age:
+66
+Strength:
+0
+Position X:
+1
+Position Y:
+12
+
+Dandelion
+Age:
+66
+Strength:
+0
+Position X:
+1
+Position Y:
+10
+
+Dandelion
+Age:
+66
+Strength:
+0
+Position X:
+4
+Position Y:
+9
+
+Grass
+Age:
+65
+Strength:
+0
+Position X:
 3
+Position Y:
+0
 
-Grass
+Dandelion
 Age:
 65
 Strength:
 0
 Position X:
-31
+7
 Position Y:
+8
+
+Belladonna
+Age:
+65
+Strength:
+99
+Position X:
 19
+Position Y:
+10
 
 Dandelion
 Age:
@@ -3133,69 +1433,9 @@ Age:
 Strength:
 0
 Position X:
-32
+1
 Position Y:
-21
-
-Dandelion
-Age:
-65
-Strength:
-0
-Position X:
-14
-Position Y:
-0
-
-Dandelion
-Age:
-65
-Strength:
-0
-Position X:
-30
-Position Y:
-22
-
-Dandelion
-Age:
-65
-Strength:
-0
-Position X:
-13
-Position Y:
-3
-
-Dandelion
-Age:
-65
-Strength:
-0
-Position X:
-37
-Position Y:
-22
-
-Grass
-Age:
-65
-Strength:
-0
-Position X:
-30
-Position Y:
-19
-
-Grass
-Age:
-65
-Strength:
-0
-Position X:
-29
-Position Y:
-19
+17
 
 Dandelion
 Age:
@@ -3203,39 +1443,29 @@ Age:
 Strength:
 0
 Position X:
-36
+9
 Position Y:
-21
+11
 
-Guarana
+Belladonna
 Age:
 64
 Strength:
-0
+99
 Position X:
-5
+17
 Position Y:
-0
+10
 
-Dandelion
+Belladonna
 Age:
 64
 Strength:
-0
+99
 Position X:
-36
+20
 Position Y:
-23
-
-Dandelion
-Age:
-64
-Strength:
-0
-Position X:
-22
-Position Y:
-7
+10
 
 Dandelion
 Age:
@@ -3243,19 +1473,99 @@ Age:
 Strength:
 0
 Position X:
-13
+6
 Position Y:
-0
+9
 
-Grass
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+6
+Position Y:
+7
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+2
+Position Y:
+5
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+16
+Position Y:
+17
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+17
+Position Y:
+17
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+8
+Position Y:
+6
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+2
+Position Y:
+10
+
+Dandelion
+Age:
+64
+Strength:
+0
+Position X:
+17
+Position Y:
+16
+
+Dandelion
 Age:
 63
 Strength:
 0
 Position X:
-22
+4
 Position Y:
-10
+4
+
+Belladonna
+Age:
+63
+Strength:
+99
+Position X:
+5
+Position Y:
+3
 
 Dandelion
 Age:
@@ -3263,9 +1573,9 @@ Age:
 Strength:
 0
 Position X:
-31
+7
 Position Y:
-22
+6
 
 Dandelion
 Age:
@@ -3273,9 +1583,9 @@ Age:
 Strength:
 0
 Position X:
-24
-Position Y:
 10
+Position Y:
+8
 
 Dandelion
 Age:
@@ -3283,19 +1593,9 @@ Age:
 Strength:
 0
 Position X:
-37
+1
 Position Y:
-21
-
-Grass
-Age:
-63
-Strength:
-0
-Position X:
-31
-Position Y:
-18
+11
 
 Dandelion
 Age:
@@ -3303,9 +1603,59 @@ Age:
 Strength:
 0
 Position X:
-37
+0
 Position Y:
-23
+12
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+16
+Position Y:
+16
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+18
+Position Y:
+15
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+4
+Position Y:
+5
+
+Dandelion
+Age:
+63
+Strength:
+0
+Position X:
+8
+Position Y:
+17
+
+Grass
+Age:
+62
+Strength:
+0
+Position X:
+6
+Position Y:
+0
 
 Dandelion
 Age:
@@ -3313,9 +1663,9 @@ Age:
 Strength:
 0
 Position X:
-34
+10
 Position Y:
-20
+15
 
 Dandelion
 Age:
@@ -3323,9 +1673,19 @@ Age:
 Strength:
 0
 Position X:
-24
+5
 Position Y:
-6
+7
+
+Belladonna
+Age:
+62
+Strength:
+99
+Position X:
+19
+Position Y:
+11
 
 Dandelion
 Age:
@@ -3333,9 +1693,9 @@ Age:
 Strength:
 0
 Position X:
-30
+10
 Position Y:
-23
+11
 
 Dandelion
 Age:
@@ -3343,9 +1703,9 @@ Age:
 Strength:
 0
 Position X:
-32
+11
 Position Y:
-20
+10
 
 Dandelion
 Age:
@@ -3353,9 +1713,9 @@ Age:
 Strength:
 0
 Position X:
-33
+18
 Position Y:
-21
+14
 
 Dandelion
 Age:
@@ -3363,167 +1723,167 @@ Age:
 Strength:
 0
 Position X:
-25
+12
 Position Y:
-5
+11
 
-Dandelion
-Age:
-62
-Strength:
-0
-Position X:
-33
-Position Y:
-20
-
-Dandelion
+Belladonna
 Age:
 61
 Strength:
-0
+99
 Position X:
-34
+29
 Position Y:
-23
+6
 
 Guarana
 Age:
 61
+Strength:
+0
+Position X:
+28
+Position Y:
+6
+
+Belladonna
+Age:
+61
+Strength:
+99
+Position X:
+8
+Position Y:
+3
+
+Grass
+Age:
+61
+Strength:
+0
+Position X:
+3
+Position Y:
+8
+
+Grass
+Age:
+61
+Strength:
+0
+Position X:
+4
+Position Y:
+2
+
+Grass
+Age:
+61
+Strength:
+0
+Position X:
+17
+Position Y:
+13
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+11
+Position Y:
+11
+
+Guarana
+Age:
+61
+Strength:
+0
+Position X:
+21
+Position Y:
+6
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+8
+Position Y:
+18
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+10
+Position Y:
+18
+
+Dandelion
+Age:
+61
+Strength:
+0
+Position X:
+17
+Position Y:
+14
+
+Guarana
+Age:
+60
+Strength:
+0
+Position X:
+24
+Position Y:
+5
+
+Grass
+Age:
+60
 Strength:
 0
 Position X:
 15
 Position Y:
-7
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-29
-Position Y:
-21
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-12
-Position Y:
-3
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-12
-Position Y:
-0
-
-Grass
-Age:
-61
-Strength:
-0
-Position X:
-23
-Position Y:
 11
 
 Dandelion
 Age:
-61
-Strength:
-0
-Position X:
-31
-Position Y:
-21
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-29
-Position Y:
-23
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-24
-Position Y:
-4
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-29
-Position Y:
-20
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-13
-Position Y:
-1
-
-Grass
-Age:
-61
-Strength:
-0
-Position X:
-22
-Position Y:
-12
-
-Dandelion
-Age:
-61
-Strength:
-0
-Position X:
-24
-Position Y:
-5
-
-Guarana
-Age:
 60
 Strength:
 0
 Position X:
-5
+2
 Position Y:
 2
 
-Guarana
+Dandelion
 Age:
 60
 Strength:
 0
 Position X:
-16
+3
+Position Y:
+6
+
+Dandelion
+Age:
+60
+Strength:
+0
+Position X:
+3
 Position Y:
 9
 
@@ -3533,9 +1893,9 @@ Age:
 Strength:
 0
 Position X:
-15
+4
 Position Y:
-3
+8
 
 Dandelion
 Age:
@@ -3543,39 +1903,9 @@ Age:
 Strength:
 0
 Position X:
-20
-Position Y:
-3
-
-Dandelion
-Age:
-60
-Strength:
-0
-Position X:
-30
-Position Y:
-21
-
-Dandelion
-Age:
-60
-Strength:
-0
-Position X:
-25
+5
 Position Y:
 10
-
-Dandelion
-Age:
-60
-Strength:
-0
-Position X:
-12
-Position Y:
-1
 
 Grass
 Age:
@@ -3583,79 +1913,29 @@ Age:
 Strength:
 0
 Position X:
-24
+3
 Position Y:
-11
+2
 
-Dandelion
+Grass
 Age:
-60
+59
 Strength:
 0
 Position X:
-28
-Position Y:
-23
-
-Dandelion
-Age:
-60
-Strength:
 0
-Position X:
-23
-Position Y:
-6
-
-Guarana
-Age:
-60
-Strength:
-0
-Position X:
-17
 Position Y:
 8
 
-Dandelion
+Belladonna
 Age:
 59
 Strength:
-0
+99
 Position X:
-36
-Position Y:
-20
-
-Dandelion
-Age:
-59
-Strength:
-0
-Position X:
-25
-Position Y:
-11
-
-Dandelion
-Age:
-59
-Strength:
-0
-Position X:
-32
-Position Y:
-19
-
-Dandelion
-Age:
-59
-Strength:
-0
-Position X:
-21
-Position Y:
 6
+Position Y:
+5
 
 Dandelion
 Age:
@@ -3663,9 +1943,19 @@ Age:
 Strength:
 0
 Position X:
-29
+5
 Position Y:
-22
+8
+
+Belladonna
+Age:
+59
+Strength:
+99
+Position X:
+5
+Position Y:
+4
 
 Dandelion
 Age:
@@ -3673,9 +1963,9 @@ Age:
 Strength:
 0
 Position X:
-28
+7
 Position Y:
-19
+18
 
 Dandelion
 Age:
@@ -3683,19 +1973,39 @@ Age:
 Strength:
 0
 Position X:
-28
+0
 Position Y:
-22
+10
 
-Dandelion
+Belladonna
+Age:
+59
+Strength:
+99
+Position X:
+8
+Position Y:
+2
+
+Grass
 Age:
 59
 Strength:
 0
 Position X:
-27
+15
 Position Y:
-21
+10
+
+Guarana
+Age:
+59
+Strength:
+0
+Position X:
+23
+Position Y:
+4
 
 Belladonna
 Age:
@@ -3703,19 +2013,19 @@ Age:
 Strength:
 99
 Position X:
-36
+7
 Position Y:
+3
+
+Dandelion
+Age:
+58
+Strength:
+0
+Position X:
 4
-
-Dandelion
-Age:
-58
-Strength:
-0
-Position X:
-37
 Position Y:
-20
+10
 
 Dandelion
 Age:
@@ -3723,57 +2033,7 @@ Age:
 Strength:
 0
 Position X:
-15
-Position Y:
-4
-
-Dandelion
-Age:
-58
-Strength:
 0
-Position X:
-25
-Position Y:
-8
-
-Dandelion
-Age:
-58
-Strength:
-0
-Position X:
-11
-Position Y:
-4
-
-Dandelion
-Age:
-58
-Strength:
-0
-Position X:
-11
-Position Y:
-1
-
-Dandelion
-Age:
-58
-Strength:
-0
-Position X:
-21
-Position Y:
-2
-
-Dandelion
-Age:
-58
-Strength:
-0
-Position X:
-26
 Position Y:
 9
 
@@ -3783,87 +2043,37 @@ Age:
 Strength:
 0
 Position X:
-24
+11
 Position Y:
-12
+7
 
-Dandelion
+Belladonna
+Age:
+58
+Strength:
+99
+Position X:
+18
+Position Y:
+11
+
+Guarana
 Age:
 58
 Strength:
 0
 Position X:
-11
-Position Y:
-0
-
-Dandelion
-Age:
-57
-Strength:
-0
-Position X:
-34
-Position Y:
-21
-
-Guarana
-Age:
-57
-Strength:
-0
-Position X:
-18
+23
 Position Y:
 5
 
-Dandelion
+Belladonna
 Age:
 57
 Strength:
-0
+99
 Position X:
-23
-Position Y:
-4
-
-Dandelion
-Age:
-57
-Strength:
-0
-Position X:
-28
-Position Y:
-18
-
-Dandelion
-Age:
-57
-Strength:
-0
-Position X:
-27
-Position Y:
-20
-
-Dandelion
-Age:
-57
-Strength:
-0
-Position X:
-11
-Position Y:
-3
-
-Dandelion
-Age:
-57
-Strength:
-0
-Position X:
-26
+25
 Position Y:
 8
 
@@ -3873,9 +2083,9 @@ Age:
 Strength:
 0
 Position X:
-24
+13
 Position Y:
-3
+13
 
 Dandelion
 Age:
@@ -3883,9 +2093,169 @@ Age:
 Strength:
 0
 Position X:
-26
+4
 Position Y:
+6
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+18
+Position Y:
+16
+
+Guarana
+Age:
+57
+Strength:
+0
+Position X:
+22
+Position Y:
+8
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+18
+Position Y:
+17
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+11
+Position Y:
+8
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+2
+Position Y:
+11
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+5
+Position Y:
+6
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+9
+Position Y:
+18
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+11
+Position Y:
+9
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+12
+Position Y:
+10
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+16
+Position Y:
+13
+
+Guarana
+Age:
+57
+Strength:
+0
+Position X:
+25
+Position Y:
+5
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+3
+Position Y:
+11
+
+Guarana
+Age:
+57
+Strength:
+0
+Position X:
+22
+Position Y:
+9
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+4
+Position Y:
+7
+
+Dandelion
+Age:
+57
+Strength:
+0
+Position X:
+12
+Position Y:
+9
+
+Belladonna
+Age:
+56
+Strength:
+99
+Position X:
 19
+Position Y:
+7
 
 Grass
 Age:
@@ -3893,9 +2263,19 @@ Age:
 Strength:
 0
 Position X:
-32
+1
 Position Y:
-18
+9
+
+Guarana
+Age:
+56
+Strength:
+0
+Position X:
+21
+Position Y:
+5
 
 Dandelion
 Age:
@@ -3903,9 +2283,9 @@ Age:
 Strength:
 0
 Position X:
-15
+9
 Position Y:
-5
+10
 
 Dandelion
 Age:
@@ -3913,9 +2293,19 @@ Age:
 Strength:
 0
 Position X:
-34
+7
 Position Y:
-19
+17
+
+Dandelion
+Age:
+56
+Strength:
+0
+Position X:
+3
+Position Y:
+7
 
 Dandelion
 Age:
@@ -3925,7 +2315,7 @@ Strength:
 Position X:
 12
 Position Y:
-4
+8
 
 Dandelion
 Age:
@@ -3933,507 +2323,227 @@ Age:
 Strength:
 0
 Position X:
-27
-Position Y:
-23
-
-Dandelion
-Age:
-56
-Strength:
-0
-Position X:
-28
-Position Y:
-20
-
-Dandelion
-Age:
-56
-Strength:
-0
-Position X:
-11
-Position Y:
-2
-
-Guarana
-Age:
-55
-Strength:
-0
-Position X:
-5
-Position Y:
-1
-
-Guarana
-Age:
-55
-Strength:
-0
-Position X:
-15
-Position Y:
-10
-
-Dandelion
-Age:
-55
-Strength:
-0
-Position X:
-25
-Position Y:
-7
-
-Dandelion
-Age:
-55
-Strength:
-0
-Position X:
-33
-Position Y:
-18
-
-Dandelion
-Age:
-55
-Strength:
-0
-Position X:
-10
-Position Y:
-1
-
-Dandelion
-Age:
-55
-Strength:
-0
-Position X:
-22
-Position Y:
-3
-
-Dandelion
-Age:
-55
-Strength:
-0
-Position X:
-10
-Position Y:
-3
-
-Guarana
-Age:
-55
-Strength:
-0
-Position X:
-15
-Position Y:
-6
-
-Dandelion
-Age:
-55
-Strength:
-0
-Position X:
-33
-Position Y:
-19
-
-Dandelion
-Age:
-55
-Strength:
-0
-Position X:
-9
-Position Y:
-2
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-12
-Position Y:
-2
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-25
-Position Y:
-6
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-25
-Position Y:
-12
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-28
-Position Y:
-21
-
-Belladonna
-Age:
-54
-Strength:
-99
-Position X:
-35
-Position Y:
-3
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-10
-Position Y:
-2
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-20
-Position Y:
-1
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-23
-Position Y:
-5
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-22
-Position Y:
-11
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-34
-Position Y:
-18
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-22
-Position Y:
-4
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
-25
-Position Y:
 13
-
-Dandelion
-Age:
-54
-Strength:
-0
-Position X:
+Position Y:
 9
-Position Y:
-3
 
 Dandelion
 Age:
-54
+55
 Strength:
 0
 Position X:
-23
+7
 Position Y:
-12
+16
 
 Dandelion
 Age:
-54
+55
 Strength:
 0
 Position X:
 10
 Position Y:
-4
-
-Belladonna
-Age:
-53
-Strength:
-99
-Position X:
-34
-Position Y:
-11
+9
 
 Dandelion
 Age:
-53
+55
 Strength:
 0
 Position X:
-26
+10
 Position Y:
-4
+10
 
 Dandelion
 Age:
-53
-Strength:
-0
-Position X:
-20
-Position Y:
-5
-
-Dandelion
-Age:
-53
-Strength:
-0
-Position X:
-28
-Position Y:
-17
-
-Dandelion
-Age:
-53
-Strength:
-0
-Position X:
-25
-Position Y:
-2
-
-Dandelion
-Age:
-53
-Strength:
-0
-Position X:
-35
-Position Y:
-18
-
-Guarana
-Age:
-53
+55
 Strength:
 0
 Position X:
 16
 Position Y:
-10
+12
 
-Dandelion
+Guarana
 Age:
-53
+55
 Strength:
 0
 Position X:
-35
+23
 Position Y:
+8
+
+Dandelion
+Age:
+55
+Strength:
+0
+Position X:
+2
+Position Y:
+8
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
 19
-
-Dandelion
-Age:
-53
-Strength:
-0
-Position X:
-9
 Position Y:
-4
-
-Dandelion
-Age:
-53
-Strength:
-0
-Position X:
-36
-Position Y:
-19
+16
 
 Grass
+Age:
+54
+Strength:
+0
+Position X:
+3
+Position Y:
+3
+
+Dandelion
+Age:
+54
+Strength:
+0
+Position X:
+10
+Position Y:
+6
+
+Belladonna
+Age:
+53
+Strength:
+99
+Position X:
+15
+Position Y:
+7
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+1
+Position Y:
+15
+
+Belladonna
+Age:
+53
+Strength:
+99
+Position X:
+21
+Position Y:
+9
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+4
+Position Y:
+3
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+6
+Position Y:
+6
+
+Grass
+Age:
+53
+Strength:
+0
+Position X:
+18
+Position Y:
+13
+
+Dandelion
+Age:
+53
+Strength:
+0
+Position X:
+6
+Position Y:
+18
+
+Guarana
 Age:
 52
 Strength:
 0
+Position X:
+22
+Position Y:
+5
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+10
+Position Y:
+7
+
+Belladonna
+Age:
+52
+Strength:
+99
 Position X:
 24
 Position Y:
-9
+8
+
+Dandelion
+Age:
+52
+Strength:
+0
+Position X:
+16
+Position Y:
+11
+
+Dandelion
+Age:
+51
+Strength:
+0
+Position X:
+3
+Position Y:
+18
 
 Belladonna
 Age:
-52
+51
 Strength:
 99
 Position X:
-37
-Position Y:
-3
-
-Dandelion
-Age:
-52
-Strength:
-0
-Position X:
-22
-Position Y:
-5
-
-Dandelion
-Age:
-52
-Strength:
-0
-Position X:
-26
-Position Y:
-20
-
-Grass
-Age:
-52
-Strength:
-0
-Position X:
-33
-Position Y:
-17
-
-Dandelion
-Age:
-52
-Strength:
-0
-Position X:
-26
-Position Y:
-7
-
-Dandelion
-Age:
-52
-Strength:
-0
-Position X:
-21
-Position Y:
-1
-
-Dandelion
-Age:
-52
-Strength:
-0
-Position X:
-29
-Position Y:
-18
-
-Dandelion
-Age:
-52
-Strength:
-0
-Position X:
-28
-Position Y:
-16
-
-Dandelion
-Age:
-52
-Strength:
-0
-Position X:
-36
-Position Y:
-18
-
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-18
-Position Y:
-2
-
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-25
-Position Y:
-3
-
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-9
+8
 Position Y:
 1
 
@@ -4443,7 +2553,7 @@ Age:
 Strength:
 0
 Position X:
-26
+11
 Position Y:
 12
 
@@ -4453,71 +2563,11 @@ Age:
 Strength:
 0
 Position X:
-29
-Position Y:
-16
-
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-8
+5
 Position Y:
 5
 
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-26
-Position Y:
-6
-
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-20
-Position Y:
-2
-
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-19
-Position Y:
-2
-
-Dandelion
-Age:
-51
-Strength:
-0
-Position X:
-27
-Position Y:
-13
-
-Belladonna
-Age:
-50
-Strength:
-99
-Position X:
-37
-Position Y:
-5
-
-Dandelion
+Guarana
 Age:
 50
 Strength:
@@ -4525,7 +2575,7 @@ Strength:
 Position X:
 21
 Position Y:
-9
+7
 
 Dandelion
 Age:
@@ -4533,19 +2583,9 @@ Age:
 Strength:
 0
 Position X:
-37
+12
 Position Y:
-19
-
-Belladonna
-Age:
-50
-Strength:
-99
-Position X:
-35
-Position Y:
-11
+7
 
 Dandelion
 Age:
@@ -4553,9 +2593,19 @@ Age:
 Strength:
 0
 Position X:
-27
+13
 Position Y:
-16
+8
+
+Belladonna
+Age:
+50
+Strength:
+99
+Position X:
+15
+Position Y:
+8
 
 Dandelion
 Age:
@@ -4563,9 +2613,9 @@ Age:
 Strength:
 0
 Position X:
-28
+17
 Position Y:
-15
+12
 
 Dandelion
 Age:
@@ -4573,29 +2623,9 @@ Age:
 Strength:
 0
 Position X:
-21
+13
 Position Y:
-12
-
-Belladonna
-Age:
-49
-Strength:
-99
-Position X:
-37
-Position Y:
-2
-
-Dandelion
-Age:
-49
-Strength:
-0
-Position X:
-19
-Position Y:
-4
+7
 
 Grass
 Age:
@@ -4603,47 +2633,37 @@ Age:
 Strength:
 0
 Position X:
-30
+15
 Position Y:
-18
+9
 
-Dandelion
+Grass
 Age:
 49
 Strength:
 0
 Position X:
-13
-Position Y:
-5
-
-Dandelion
-Age:
-49
-Strength:
-0
-Position X:
-31
-Position Y:
-20
-
-Guarana
-Age:
-49
-Strength:
-0
-Position X:
-16
-Position Y:
 8
+Position Y:
+0
 
-Dandelion
+Grass
 Age:
 49
 Strength:
 0
 Position X:
-25
+18
+Position Y:
+2
+
+Belladonna
+Age:
+49
+Strength:
+99
+Position X:
+20
 Position Y:
 9
 
@@ -4653,51 +2673,11 @@ Age:
 Strength:
 0
 Position X:
-34
+19
 Position Y:
-17
+13
 
-Belladonna
-Age:
-49
-Strength:
-99
-Position X:
-33
-Position Y:
-10
-
-Dandelion
-Age:
-49
-Strength:
-0
-Position X:
-26
-Position Y:
-5
-
-Dandelion
-Age:
-49
-Strength:
-0
-Position X:
-26
-Position Y:
-2
-
-Dandelion
-Age:
-49
-Strength:
-0
-Position X:
-35
-Position Y:
-17
-
-Dandelion
+Guarana
 Age:
 49
 Strength:
@@ -4713,139 +2693,89 @@ Age:
 Strength:
 0
 Position X:
-8
+2
 Position Y:
-4
+7
 
 Dandelion
 Age:
-48
-Strength:
-0
-Position X:
-23
-Position Y:
-3
-
-Dandelion
-Age:
-48
-Strength:
-0
-Position X:
-16
-Position Y:
-5
-
-Dandelion
-Age:
-48
-Strength:
-0
-Position X:
-21
-Position Y:
-3
-
-Belladonna
-Age:
-48
-Strength:
-99
-Position X:
-36
-Position Y:
-1
-
-Dandelion
-Age:
-48
-Strength:
-0
-Position X:
-34
-Position Y:
-16
-
-Dandelion
-Age:
-48
-Strength:
-0
-Position X:
-36
-Position Y:
-16
-
-Dandelion
-Age:
-48
+49
 Strength:
 0
 Position X:
 20
 Position Y:
-11
+17
 
 Dandelion
 Age:
-48
+49
 Strength:
 0
 Position X:
-22
+14
 Position Y:
-2
-
-Dandelion
-Age:
-48
-Strength:
-0
-Position X:
-37
-Position Y:
-16
+8
 
 Belladonna
 Age:
-47
+49
 Strength:
 99
 Position X:
-35
+21
 Position Y:
-13
+10
 
 Dandelion
 Age:
-47
+49
 Strength:
 0
 Position X:
-17
+20
 Position Y:
-3
+16
 
 Dandelion
 Age:
-47
+48
 Strength:
 0
 Position X:
-27
+5
 Position Y:
-18
+12
 
 Dandelion
 Age:
-47
+48
 Strength:
 0
 Position X:
-26
+6
 Position Y:
-13
+10
+
+Belladonna
+Age:
+48
+Strength:
+99
+Position X:
+15
+Position Y:
+6
+
+Dandelion
+Age:
+48
+Strength:
+0
+Position X:
+0
+Position Y:
+11
 
 Grass
 Age:
@@ -4853,2609 +2783,1199 @@ Age:
 Strength:
 0
 Position X:
-33
+7
 Position Y:
-16
+0
 
 Dandelion
 Age:
 47
+Strength:
+0
+Position X:
+14
+Position Y:
+9
+
+Dandelion
+Age:
+46
 Strength:
 0
 Position X:
 8
 Position Y:
-1
+12
 
 Dandelion
 Age:
-47
+46
 Strength:
 0
 Position X:
-22
+6
 Position Y:
-13
+12
 
 Dandelion
 Age:
-47
+46
+Strength:
+0
+Position X:
+7
+Position Y:
+12
+
+Belladonna
+Age:
+46
+Strength:
+99
+Position X:
+18
+Position Y:
+5
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+19
+Position Y:
+15
+
+Grass
+Age:
+46
+Strength:
+0
+Position X:
+20
+Position Y:
+2
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+19
+Position Y:
+14
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+19
+Position Y:
+17
+
+Belladonna
+Age:
+46
+Strength:
+99
+Position X:
+14
+Position Y:
+5
+
+Dandelion
+Age:
+46
+Strength:
+0
+Position X:
+7
+Position Y:
+11
+
+Guarana
+Age:
+45
 Strength:
 0
 Position X:
 29
 Position Y:
+4
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+11
+Position Y:
+5
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+5
+Position Y:
+18
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+17
+Position Y:
+11
+
+Dandelion
+Age:
+45
+Strength:
+0
+Position X:
+4
+Position Y:
+18
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+2
+Position Y:
+16
+
+Guarana
+Age:
+44
+Strength:
+0
+Position X:
+20
+Position Y:
+5
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+10
+Position Y:
+12
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+13
+Position Y:
+6
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+14
+Position Y:
+7
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+21
+Position Y:
 17
 
 Dandelion
 Age:
-47
+44
 Strength:
 0
 Position X:
-7
+11
+Position Y:
+6
+
+Dandelion
+Age:
+44
+Strength:
+0
+Position X:
+12
+Position Y:
+6
+
+Belladonna
+Age:
+43
+Strength:
+99
+Position X:
+10
+Position Y:
+2
+
+Belladonna
+Age:
+43
+Strength:
+99
+Position X:
+29
+Position Y:
+5
+
+Guarana
+Age:
+43
+Strength:
+0
+Position X:
+24
 Position Y:
 3
 
 Dandelion
 Age:
-47
-Strength:
-0
-Position X:
-9
-Position Y:
-5
-
-Dandelion
-Age:
-47
+43
 Strength:
 0
 Position X:
 7
 Position Y:
+13
+
+Dandelion
+Age:
+43
+Strength:
+0
+Position X:
+10
+Position Y:
 5
 
 Dandelion
 Age:
-47
+43
 Strength:
 0
 Position X:
-35
+4
+Position Y:
+11
+
+Guarana
+Age:
+42
+Strength:
+0
+Position X:
+22
+Position Y:
+10
+
+Belladonna
+Age:
+42
+Strength:
+99
+Position X:
+21
+Position Y:
+11
+
+Grass
+Age:
+42
+Strength:
+0
+Position X:
+16
+Position Y:
+0
+
+Belladonna
+Age:
+41
+Strength:
+99
+Position X:
+5
+Position Y:
+2
+
+Guarana
+Age:
+41
+Strength:
+0
+Position X:
+26
+Position Y:
+3
+
+Dandelion
+Age:
+41
+Strength:
+0
+Position X:
+21
+Position Y:
+18
+
+Grass
+Age:
+41
+Strength:
+0
+Position X:
+18
+Position Y:
+3
+
+Guarana
+Age:
+40
+Strength:
+0
+Position X:
+0
+Position Y:
+17
+
+Belladonna
+Age:
+40
+Strength:
+99
+Position X:
+20
+Position Y:
+11
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+9
+Position Y:
+13
+
+Belladonna
+Age:
+40
+Strength:
+99
+Position X:
+14
+Position Y:
+4
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+10
+Position Y:
+4
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+14
+Position Y:
+6
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+2
 Position Y:
 15
 
 Dandelion
 Age:
-47
+40
 Strength:
 0
 Position X:
-22
+20
+Position Y:
+18
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+11
+Position Y:
+3
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+10
+Position Y:
+3
+
+Dandelion
+Age:
+40
+Strength:
+0
+Position X:
+9
+Position Y:
+2
+
+Guarana
+Age:
+39
+Strength:
+0
+Position X:
+27
+Position Y:
+4
+
+Belladonna
+Age:
+39
+Strength:
+99
+Position X:
+26
+Position Y:
+4
+
+Guarana
+Age:
+39
+Strength:
+0
+Position X:
+29
+Position Y:
+3
+
+Guarana
+Age:
+39
+Strength:
+0
+Position X:
+23
+Position Y:
+10
+
+Grass
+Age:
+39
+Strength:
+0
+Position X:
+19
+Position Y:
+4
+
+Dandelion
+Age:
+39
+Strength:
+0
+Position X:
+12
+Position Y:
+4
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+5
+Position Y:
+13
+
+Belladonna
+Age:
+38
+Strength:
+99
+Position X:
+16
+Position Y:
+9
+
+Belladonna
+Age:
+38
+Strength:
+99
+Position X:
+18
+Position Y:
+6
+
+Guarana
+Age:
+38
+Strength:
+0
+Position X:
+28
+Position Y:
+4
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+13
+Position Y:
+5
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+21
+Position Y:
+15
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+13
+Position Y:
+3
+
+Belladonna
+Age:
+38
+Strength:
+99
+Position X:
+19
+Position Y:
+5
+
+Dandelion
+Age:
+38
+Strength:
+0
+Position X:
+13
+Position Y:
+4
+
+Belladonna
+Age:
+38
+Strength:
+99
+Position X:
+20
+Position Y:
+6
+
+Guarana
+Age:
+37
+Strength:
+0
+Position X:
+28
+Position Y:
+3
+
+Dandelion
+Age:
+37
+Strength:
+0
+Position X:
+20
+Position Y:
+15
+
+Grass
+Age:
+36
+Strength:
+0
+Position X:
+17
+Position Y:
+3
+
+Guarana
+Age:
+36
+Strength:
+0
+Position X:
+23
+Position Y:
+9
+
+Dandelion
+Age:
+36
+Strength:
+0
+Position X:
+10
 Position Y:
 1
 
 Grass
 Age:
-47
+35
 Strength:
 0
 Position X:
-33
+17
 Position Y:
-15
-
-Dandelion
-Age:
-47
-Strength:
 0
-Position X:
-7
-Position Y:
-2
 
 Dandelion
 Age:
-46
+35
 Strength:
 0
 Position X:
 10
 Position Y:
-0
+14
 
-Dandelion
+Grass
 Age:
-46
+35
 Strength:
 0
 Position X:
-26
-Position Y:
-18
-
-Dandelion
-Age:
-46
-Strength:
-0
-Position X:
-19
-Position Y:
-11
-
-Dandelion
-Age:
-46
-Strength:
-0
-Position X:
-8
-Position Y:
-0
-
-Dandelion
-Age:
-46
-Strength:
-0
-Position X:
-26
-Position Y:
-16
-
-Dandelion
-Age:
-46
-Strength:
-0
-Position X:
-27
-Position Y:
-1
-
-Dandelion
-Age:
-46
-Strength:
-0
-Position X:
-37
-Position Y:
 17
-
-Dandelion
-Age:
-46
-Strength:
-0
-Position X:
-9
-Position Y:
-0
-
-Dandelion
-Age:
-46
-Strength:
-0
-Position X:
-36
-Position Y:
-15
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-22
-Position Y:
-9
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-27
-Position Y:
-19
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-16
-Position Y:
-4
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-27
-Position Y:
-22
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-26
-Position Y:
-23
-
-Guarana
-Age:
-45
-Strength:
-0
-Position X:
-6
 Position Y:
 2
 
 Dandelion
 Age:
-45
+35
 Strength:
 0
 Position X:
-25
+11
 Position Y:
-19
+4
 
-Dandelion
+Guarana
 Age:
-45
+35
 Strength:
 0
 Position X:
 24
 Position Y:
-15
+10
 
-Dandelion
+Grass
 Age:
-45
+35
 Strength:
 0
 Position X:
-30
-Position Y:
-17
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-37
-Position Y:
-18
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-24
+16
 Position Y:
 2
 
 Grass
 Age:
-45
-Strength:
-0
-Position X:
 34
-Position Y:
-15
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-28
-Position Y:
-2
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-36
-Position Y:
-17
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-31
-Position Y:
-16
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-19
-Position Y:
-16
-
-Dandelion
-Age:
-45
 Strength:
 0
 Position X:
 20
 Position Y:
-15
-
-Dandelion
-Age:
-45
-Strength:
-0
-Position X:
-31
-Position Y:
-17
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-35
-Position Y:
-20
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-16
-Position Y:
 3
 
 Dandelion
 Age:
-44
+34
 Strength:
 0
 Position X:
-27
-Position Y:
-3
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-26
-Position Y:
-1
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-27
-Position Y:
-14
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-6
-Position Y:
-4
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-35
-Position Y:
-16
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-7
-Position Y:
-0
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-30
-Position Y:
-16
-
-Dandelion
-Age:
-44
-Strength:
-0
-Position X:
-27
-Position Y:
-0
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-21
-Position Y:
-4
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-29
-Position Y:
-15
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-28
+12
 Position Y:
 12
 
 Dandelion
 Age:
-43
-Strength:
-0
-Position X:
-26
-Position Y:
-3
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-26
-Position Y:
-17
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-21
-Position Y:
-14
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-20
-Position Y:
-7
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-37
-Position Y:
-15
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-26
-Position Y:
-22
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-25
-Position Y:
-20
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-20
-Position Y:
-13
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-29
-Position Y:
-1
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-18
-Position Y:
-15
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-28
-Position Y:
-3
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-6
-Position Y:
-0
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-20
-Position Y:
-4
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-27
-Position Y:
-12
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-24
-Position Y:
-21
-
-Dandelion
-Age:
-43
-Strength:
-0
-Position X:
-24
-Position Y:
-20
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-22
-Position Y:
-6
-
-Guarana
-Age:
-42
-Strength:
-0
-Position X:
-6
-Position Y:
-1
-
-Belladonna
-Age:
-42
-Strength:
-99
-Position X:
 34
-Position Y:
-2
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-18
-Position Y:
-1
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-28
-Position Y:
-14
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-27
-Position Y:
-2
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-36
-Position Y:
-14
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-22
-Position Y:
-8
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-26
-Position Y:
-0
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-25
-Position Y:
-1
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-17
-Position Y:
-10
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-19
-Position Y:
-14
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-23
-Position Y:
-21
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-25
-Position Y:
-0
-
-Dandelion
-Age:
-42
-Strength:
-0
-Position X:
-18
-Position Y:
-10
-
-Belladonna
-Age:
-41
-Strength:
-99
-Position X:
-34
-Position Y:
-3
-
-Belladonna
-Age:
-41
-Strength:
-99
-Position X:
-34
-Position Y:
-10
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-20
-Position Y:
-0
-
-Belladonna
-Age:
-41
-Strength:
-99
-Position X:
-37
-Position Y:
-6
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-25
-Position Y:
-17
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-27
-Position Y:
-17
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-25
-Position Y:
-23
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-23
-Position Y:
-1
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-30
-Position Y:
-15
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-24
-Position Y:
-19
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-24
-Position Y:
-17
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-24
-Position Y:
-0
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-19
-Position Y:
-15
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-24
-Position Y:
-1
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-19
-Position Y:
-0
-
-Dandelion
-Age:
-41
-Strength:
-0
-Position X:
-23
-Position Y:
-0
-
-Dandelion
-Age:
-40
-Strength:
-0
-Position X:
-23
-Position Y:
-2
-
-Dandelion
-Age:
-40
-Strength:
-0
-Position X:
-31
-Position Y:
-15
-
-Dandelion
-Age:
-40
 Strength:
 0
 Position X:
 5
 Position Y:
-3
+14
 
 Dandelion
 Age:
-40
+34
 Strength:
 0
 Position X:
-18
+11
+Position Y:
+15
+
+Belladonna
+Age:
+33
+Strength:
+99
+Position X:
+21
 Position Y:
 8
 
 Dandelion
 Age:
-40
+33
 Strength:
 0
 Position X:
-30
+22
 Position Y:
-1
-
-Dandelion
-Age:
-40
-Strength:
-0
-Position X:
-29
-Position Y:
-14
-
-Dandelion
-Age:
-40
-Strength:
-0
-Position X:
 18
-Position Y:
-14
 
 Dandelion
 Age:
-40
+33
 Strength:
 0
 Position X:
-17
-Position Y:
-14
-
-Dandelion
-Age:
-40
-Strength:
-0
-Position X:
-16
-Position Y:
-15
-
-Dandelion
-Age:
-40
-Strength:
-0
-Position X:
-17
+21
 Position Y:
 16
 
-Guarana
+Belladonna
 Age:
-39
+32
 Strength:
-0
+99
 Position X:
-3
-Position Y:
-2
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-27
+16
 Position Y:
 8
 
 Dandelion
 Age:
-39
+32
 Strength:
 0
 Position X:
-26
+6
 Position Y:
-15
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-27
-Position Y:
-15
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-13
-Position Y:
-4
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-25
-Position Y:
-18
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-20
-Position Y:
-10
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-21
-Position Y:
-15
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-29
-Position Y:
-13
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-26
-Position Y:
-21
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-25
-Position Y:
-21
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-20
-Position Y:
-14
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-19
-Position Y:
-5
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-24
-Position Y:
-22
-
-Guarana
-Age:
-39
-Strength:
-0
-Position X:
-2
-Position Y:
-3
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-22
-Position Y:
-14
-
-Dandelion
-Age:
-39
-Strength:
-0
-Position X:
-18
-Position Y:
-4
-
-Guarana
-Age:
-38
-Strength:
-0
-Position X:
-17
-Position Y:
-4
+11
 
 Grass
 Age:
-38
+32
 Strength:
 0
 Position X:
-21
+15
 Position Y:
-13
+0
 
 Dandelion
 Age:
-38
+32
 Strength:
 0
 Position X:
-26
+22
 Position Y:
-10
+17
 
 Dandelion
 Age:
-38
+32
 Strength:
 0
 Position X:
-27
+22
 Position Y:
-10
+15
 
 Dandelion
 Age:
-38
+32
 Strength:
 0
 Position X:
-23
+12
 Position Y:
-13
-
-Dandelion
-Age:
-38
-Strength:
-0
-Position X:
-29
-Position Y:
-2
-
-Dandelion
-Age:
-38
-Strength:
-0
-Position X:
-29
-Position Y:
-11
+14
 
 Belladonna
 Age:
-38
+31
 Strength:
 99
 Position X:
-33
-Position Y:
-2
-
-Dandelion
-Age:
-38
-Strength:
-0
-Position X:
-23
-Position Y:
-8
-
-Dandelion
-Age:
-38
-Strength:
-0
-Position X:
-17
-Position Y:
-7
-
-Dandelion
-Age:
-38
-Strength:
-0
-Position X:
-18
-Position Y:
-13
-
-Dandelion
-Age:
-38
-Strength:
-0
-Position X:
-18
-Position Y:
-16
-
-Dandelion
-Age:
-38
-Strength:
-0
-Position X:
-27
-Position Y:
-9
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-21
-Position Y:
-0
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-27
-Position Y:
-7
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-29
+25
 Position Y:
 3
 
 Dandelion
 Age:
-37
+31
 Strength:
 0
 Position X:
-19
-Position Y:
-13
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-29
-Position Y:
-0
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-23
-Position Y:
-20
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-25
-Position Y:
-22
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-23
-Position Y:
-23
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-32
-Position Y:
-14
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-28
-Position Y:
-10
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-17
-Position Y:
-6
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-18
-Position Y:
-17
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-28
-Position Y:
-0
-
-Dandelion
-Age:
-37
-Strength:
-0
-Position X:
-32
-Position Y:
-15
-
-Dandelion
-Age:
-36
-Strength:
-0
-Position X:
-32
-Position Y:
-17
-
-Belladonna
-Age:
-36
-Strength:
-99
-Position X:
-34
-Position Y:
 12
+Position Y:
+5
 
 Dandelion
 Age:
-36
+31
 Strength:
 0
 Position X:
-6
+12
+Position Y:
+2
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+14
 Position Y:
 3
 
 Dandelion
 Age:
-36
-Strength:
-0
-Position X:
-19
-Position Y:
-10
-
-Dandelion
-Age:
-36
-Strength:
-0
-Position X:
-30
-Position Y:
-14
-
-Dandelion
-Age:
-36
-Strength:
-0
-Position X:
-30
-Position Y:
-13
-
-Dandelion
-Age:
-36
-Strength:
-0
-Position X:
 31
-Position Y:
-13
-
-Dandelion
-Age:
-35
 Strength:
 0
 Position X:
-25
-Position Y:
-14
-
-Belladonna
-Age:
-35
-Strength:
-99
-Position X:
-35
-Position Y:
-10
-
-Dandelion
-Age:
-35
-Strength:
-0
-Position X:
-31
-Position Y:
-0
-
-Dandelion
-Age:
-35
-Strength:
-0
-Position X:
-17
-Position Y:
-13
-
-Dandelion
-Age:
-35
-Strength:
-0
-Position X:
-33
-Position Y:
-14
-
-Dandelion
-Age:
-35
-Strength:
-0
-Position X:
-30
-Position Y:
-0
-
-Guarana
-Age:
-34
-Strength:
-0
-Position X:
-13
-Position Y:
-7
-
-Belladonna
-Age:
-34
-Strength:
-99
-Position X:
-33
-Position Y:
-9
-
-Guarana
-Age:
-34
-Strength:
-0
-Position X:
-7
+11
 Position Y:
 1
 
 Dandelion
 Age:
-34
+31
 Strength:
 0
 Position X:
-16
+13
+Position Y:
+2
+
+Dandelion
+Age:
+31
+Strength:
+0
+Position X:
+12
+Position Y:
+0
+
+Dandelion
+Age:
+30
+Strength:
+0
+Position X:
+18
 Position Y:
 12
 
-Dandelion
-Age:
-34
-Strength:
-0
-Position X:
-20
-Position Y:
-18
-
-Dandelion
-Age:
-34
-Strength:
-0
-Position X:
-19
-Position Y:
-19
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-24
-Position Y:
-7
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-26
-Position Y:
-14
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-37
-Position Y:
-13
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-16
-Position Y:
-13
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-20
-Position Y:
-9
-
 Guarana
 Age:
-33
-Strength:
-0
-Position X:
-2
-Position Y:
-2
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-28
-Position Y:
-7
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-22
-Position Y:
-23
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-16
-Position Y:
-16
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-29
-Position Y:
-10
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-31
-Position Y:
-14
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-21
-Position Y:
-23
-
-Dandelion
-Age:
-33
-Strength:
-0
-Position X:
-29
-Position Y:
-9
-
-Belladonna
-Age:
-32
-Strength:
-99
-Position X:
-36
-Position Y:
-2
-
-Dandelion
-Age:
-32
-Strength:
-0
-Position X:
-18
-Position Y:
-11
-
-Dandelion
-Age:
-32
-Strength:
-0
-Position X:
-35
-Position Y:
-14
-
-Dandelion
-Age:
-32
+30
 Strength:
 0
 Position X:
 25
 Position Y:
-16
-
-Dandelion
-Age:
-32
-Strength:
-0
-Position X:
-32
-Position Y:
-16
-
-Dandelion
-Age:
-32
-Strength:
-0
-Position X:
-19
-Position Y:
-9
-
-Dandelion
-Age:
-32
-Strength:
-0
-Position X:
-28
-Position Y:
-9
-
-Dandelion
-Age:
-32
-Strength:
-0
-Position X:
-20
-Position Y:
-21
-
-Belladonna
-Age:
-31
-Strength:
-99
-Position X:
-34
-Position Y:
-1
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-23
-Position Y:
-19
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-16
-Position Y:
-17
-
-Belladonna
-Age:
-31
-Strength:
-99
-Position X:
-32
-Position Y:
 2
 
 Dandelion
 Age:
-31
+30
 Strength:
 0
 Position X:
-28
+11
 Position Y:
+0
+
+Dandelion
+Age:
+29
+Strength:
+0
+Position X:
 6
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-28
 Position Y:
-11
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-31
-Position Y:
-12
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-34
-Position Y:
-13
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-18
-Position Y:
-19
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-36
-Position Y:
-13
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-29
-Position Y:
-8
-
-Belladonna
-Age:
-31
-Strength:
-99
-Position X:
-33
-Position Y:
-0
-
-Dandelion
-Age:
-31
-Strength:
-0
-Position X:
-32
-Position Y:
-13
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-34
-Position Y:
-14
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-28
-Position Y:
-8
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-24
-Position Y:
-14
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-17
-Position Y:
-17
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-20
-Position Y:
-22
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-29
-Position Y:
-6
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-30
-Position Y:
-12
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-33
-Position Y:
-12
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-30
-Position Y:
-8
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-20
-Position Y:
-23
-
-Dandelion
-Age:
-30
-Strength:
-0
-Position X:
-31
-Position Y:
-7
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
-22
-Position Y:
-0
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
-20
-Position Y:
-12
-
-Belladonna
-Age:
-29
-Strength:
-99
-Position X:
-37
-Position Y:
-1
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
-25
-Position Y:
-15
-
-Belladonna
-Age:
-29
-Strength:
-99
-Position X:
-33
-Position Y:
-8
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
-21
-Position Y:
-22
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
-17
-Position Y:
-18
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
-28
-Position Y:
-5
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
-30
-Position Y:
-11
-
-Dandelion
-Age:
-29
-Strength:
-0
-Position X:
 16
-Position Y:
-19
 
-Belladonna
+Dandelion
 Age:
-28
+29
 Strength:
-99
+0
 Position X:
-36
-Position Y:
 5
+Position Y:
+17
 
 Guarana
 Age:
-28
+29
 Strength:
 0
 Position X:
+27
+Position Y:
 3
-Position Y:
-1
 
-Dandelion
+Guarana
 Age:
-28
-Strength:
-0
-Position X:
-24
-Position Y:
-13
-
-Dandelion
-Age:
-28
-Strength:
-0
-Position X:
-24
-Position Y:
-18
-
-Dandelion
-Age:
-28
-Strength:
-0
-Position X:
-18
-Position Y:
-18
-
-Dandelion
-Age:
-28
-Strength:
-0
-Position X:
-17
-Position Y:
-12
-
-Dandelion
-Age:
-28
-Strength:
-0
-Position X:
-32
-Position Y:
-12
-
-Dandelion
-Age:
-28
-Strength:
-0
-Position X:
-19
-Position Y:
-23
-
-Dandelion
-Age:
-28
-Strength:
-0
-Position X:
-31
-Position Y:
-9
-
-Dandelion
-Age:
-28
-Strength:
-0
-Position X:
-19
-Position Y:
-12
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-13
-Position Y:
-6
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-12
-Position Y:
-5
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-28
-Position Y:
-13
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-24
-Position Y:
-23
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-23
-Position Y:
-9
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-20
-Position Y:
-17
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-30
-Position Y:
-9
-
-Belladonna
-Age:
-27
-Strength:
-99
-Position X:
-31
-Position Y:
-1
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
 29
-Position Y:
-5
-
-Dandelion
-Age:
-27
 Strength:
 0
 Position X:
-32
-Position Y:
-7
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-31
-Position Y:
-8
-
-Dandelion
-Age:
-27
-Strength:
-0
-Position X:
-30
+25
 Position Y:
 10
 
 Dandelion
 Age:
-26
+29
 Strength:
 0
 Position X:
-21
+22
 Position Y:
-5
+16
 
 Dandelion
 Age:
-26
+29
 Strength:
 0
 Position X:
-21
+12
 Position Y:
-8
-
-Belladonna
-Age:
-26
-Strength:
-99
-Position X:
-34
-Position Y:
-9
+3
 
 Dandelion
 Age:
-26
-Strength:
-0
-Position X:
-37
-Position Y:
-14
-
-Dandelion
-Age:
-26
+29
 Strength:
 0
 Position X:
 15
 Position Y:
-14
+3
 
-Dandelion
+Grass
 Age:
-26
+28
 Strength:
 0
 Position X:
-18
+17
 Position Y:
-20
+4
 
 Dandelion
 Age:
-26
+28
 Strength:
 0
 Position X:
-37
-Position Y:
 12
-
-Dandelion
-Age:
-26
-Strength:
-0
-Position X:
-30
 Position Y:
-6
+1
 
 Dandelion
 Age:
-26
+28
 Strength:
 0
 Position X:
-32
+16
 Position Y:
-9
+4
 
 Dandelion
 Age:
-26
+28
 Strength:
 0
 Position X:
-36
+15
 Position Y:
-11
+2
 
-Dandelion
+Grass
 Age:
-26
+28
 Strength:
 0
 Position X:
-30
+17
 Position Y:
 5
 
 Dandelion
 Age:
-26
+28
 Strength:
 0
 Position X:
-37
+15
 Position Y:
-11
+4
 
 Guarana
 Age:
+27
+Strength:
+0
+Position X:
+22
+Position Y:
+4
+
+Dandelion
+Age:
+27
+Strength:
+0
+Position X:
+11
+Position Y:
+2
+
+Guarana
+Age:
+27
+Strength:
+0
+Position X:
+26
+Position Y:
+2
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+13
+Position Y:
+18
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+6
+Position Y:
+17
+
+Dandelion
+Age:
+26
+Strength:
+0
+Position X:
+23
+Position Y:
+16
+
+Grass
+Age:
+26
+Strength:
+0
+Position X:
+19
+Position Y:
+3
+
+Grass
+Age:
 25
 Strength:
 0
 Position X:
-4
+21
 Position Y:
-0
+1
 
 Dandelion
 Age:
@@ -7463,7 +3983,7 @@ Age:
 Strength:
 0
 Position X:
-23
+21
 Position Y:
 14
 
@@ -7473,69 +3993,9 @@ Age:
 Strength:
 0
 Position X:
-8
-Position Y:
 6
-
-Dandelion
-Age:
-25
-Strength:
-0
-Position X:
-23
 Position Y:
-15
-
-Dandelion
-Age:
-25
-Strength:
-0
-Position X:
-33
-Position Y:
-13
-
-Dandelion
-Age:
-25
-Strength:
-0
-Position X:
-9
-Position Y:
-7
-
-Dandelion
-Age:
-25
-Strength:
-0
-Position X:
-30
-Position Y:
-7
-
-Belladonna
-Age:
-25
-Strength:
-99
-Position X:
-34
-Position Y:
-8
-
-Dandelion
-Age:
-25
-Strength:
-0
-Position X:
-27
-Position Y:
-4
+14
 
 Dandelion
 Age:
@@ -7545,37 +4005,27 @@ Strength:
 Position X:
 16
 Position Y:
-18
+3
 
-Dandelion
+Grass
 Age:
-25
-Strength:
-0
-Position X:
-5
-Position Y:
-4
-
-Dandelion
-Age:
-25
+24
 Strength:
 0
 Position X:
 19
 Position Y:
-21
+2
 
-Dandelion
+Guarana
 Age:
-25
+24
 Strength:
 0
 Position X:
-29
+23
 Position Y:
-7
+3
 
 Dandelion
 Age:
@@ -7583,211 +4033,121 @@ Age:
 Strength:
 0
 Position X:
-18
+9
 Position Y:
-12
+1
 
-Dandelion
+Guarana
 Age:
 24
 Strength:
 0
 Position X:
-21
+23
 Position Y:
-7
+11
 
-Belladonna
+Dandelion
 Age:
-24
+23
 Strength:
-99
+0
 Position X:
-33
+2
+Position Y:
+0
+
+Guarana
+Age:
+23
+Strength:
+0
+Position X:
+25
 Position Y:
 1
 
 Dandelion
 Age:
-24
+23
 Strength:
 0
 Position X:
-18
+11
 Position Y:
-21
+17
 
-Belladonna
+Grass
 Age:
 23
 Strength:
-99
+0
 Position X:
-35
+20
+Position Y:
+0
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+9
+Position Y:
+0
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+23
+Position Y:
+15
+
+Dandelion
+Age:
+22
+Strength:
+0
+Position X:
+24
+Position Y:
+17
+
+Grass
+Age:
+22
+Strength:
+0
+Position X:
+22
 Position Y:
 2
 
 Dandelion
 Age:
-23
-Strength:
-0
-Position X:
-18
-Position Y:
-22
-
-Dandelion
-Age:
-23
-Strength:
-0
-Position X:
-16
-Position Y:
-14
-
-Dandelion
-Age:
-23
-Strength:
-0
-Position X:
-17
-Position Y:
-19
-
-Dandelion
-Age:
-22
-Strength:
-0
-Position X:
-17
-Position Y:
-15
-
-Belladonna
-Age:
-22
-Strength:
-99
-Position X:
-34
-Position Y:
-0
-
-Dandelion
-Age:
-22
-Strength:
-0
-Position X:
-18
-Position Y:
-23
-
-Dandelion
-Age:
-22
-Strength:
-0
-Position X:
 21
+Strength:
+0
+Position X:
+10
 Position Y:
 16
 
 Dandelion
 Age:
-22
+21
 Strength:
 0
 Position X:
-29
-Position Y:
 4
-
-Dandelion
-Age:
-22
-Strength:
-0
-Position X:
-17
-Position Y:
-22
-
-Dandelion
-Age:
-21
-Strength:
-0
-Position X:
-21
-Position Y:
-11
-
-Dandelion
-Age:
-21
-Strength:
-0
-Position X:
-22
-Position Y:
-18
-
-Dandelion
-Age:
-21
-Strength:
-0
-Position X:
-21
 Position Y:
 17
 
-Belladonna
-Age:
-21
-Strength:
-99
-Position X:
-31
-Position Y:
-2
-
-Dandelion
-Age:
-21
-Strength:
-0
-Position X:
-32
-Position Y:
-11
-
-Dandelion
-Age:
-21
-Strength:
-0
-Position X:
-19
-Position Y:
-22
-
-Dandelion
-Age:
-21
-Strength:
-0
-Position X:
-17
-Position Y:
-23
-
-Dandelion
+Grass
 Age:
 21
 Strength:
@@ -7795,17 +4155,77 @@ Strength:
 Position X:
 16
 Position Y:
-21
+1
 
 Dandelion
 Age:
 21
+Strength:
+0
+Position X:
+23
+Position Y:
+17
+
+Dandelion
+Age:
+21
+Strength:
+0
+Position X:
+13
+Position Y:
+0
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+13
+Position Y:
+17
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+4
+Position Y:
+12
+
+Guarana
+Age:
+20
+Strength:
+0
+Position X:
+23
+Position Y:
+2
+
+Grass
+Age:
+20
 Strength:
 0
 Position X:
 15
 Position Y:
-22
+1
+
+Dandelion
+Age:
+20
+Strength:
+0
+Position X:
+19
+Position Y:
+18
 
 Belladonna
 Age:
@@ -7813,39 +4233,29 @@ Age:
 Strength:
 99
 Position X:
-35
+19
 Position Y:
-0
+6
 
-Dandelion
+Belladonna
 Age:
 20
 Strength:
-0
+99
 Position X:
-24
-Position Y:
-16
-
-Dandelion
-Age:
 20
-Strength:
-0
-Position X:
-32
 Position Y:
 8
 
-Dandelion
+Guarana
 Age:
 20
 Strength:
 0
 Position X:
-33
+22
 Position Y:
-7
+3
 
 Dandelion
 Age:
@@ -7853,37 +4263,7 @@ Age:
 Strength:
 0
 Position X:
-31
-Position Y:
-6
-
-Belladonna
-Age:
-20
-Strength:
-99
-Position X:
-35
-Position Y:
-1
-
-Dandelion
-Age:
-20
-Strength:
-0
-Position X:
-21
-Position Y:
-10
-
-Dandelion
-Age:
-20
-Strength:
-0
-Position X:
-20
+11
 Position Y:
 16
 
@@ -7893,19 +4273,9 @@ Age:
 Strength:
 0
 Position X:
-31
+22
 Position Y:
-10
-
-Dandelion
-Age:
-20
-Strength:
-0
-Position X:
-34
-Position Y:
-6
+14
 
 Dandelion
 Age:
@@ -7913,7 +4283,7 @@ Age:
 Strength:
 0
 Position X:
-21
+11
 Position Y:
 18
 
@@ -7923,39 +4293,9 @@ Age:
 Strength:
 0
 Position X:
-15
-Position Y:
-13
-
-Dandelion
-Age:
-19
-Strength:
-0
-Position X:
-32
-Position Y:
-6
-
-Dandelion
-Age:
-19
-Strength:
-0
-Position X:
-19
-Position Y:
-18
-
-Dandelion
-Age:
-19
-Strength:
-0
-Position X:
-36
-Position Y:
 12
+Position Y:
+15
 
 Dandelion
 Age:
@@ -7963,853 +4303,523 @@ Age:
 Strength:
 0
 Position X:
-15
-Position Y:
 20
+Position Y:
+14
 
 Guarana
 Age:
 19
-Strength:
-0
-Position X:
-1
-Position Y:
-2
-
-Dandelion
-Age:
-19
-Strength:
-0
-Position X:
-14
-Position Y:
-22
-
-Dandelion
-Age:
-19
-Strength:
-0
-Position X:
-32
-Position Y:
-5
-
-Dandelion
-Age:
-18
-Strength:
-0
-Position X:
-30
-Position Y:
-4
-
-Dandelion
-Age:
-18
-Strength:
-0
-Position X:
-31
-Position Y:
-11
-
-Dandelion
-Age:
-18
-Strength:
-0
-Position X:
-16
-Position Y:
-22
-
-Dandelion
-Age:
-18
-Strength:
-0
-Position X:
-14
-Position Y:
-23
-
-Dandelion
-Age:
-18
-Strength:
-0
-Position X:
-3
-Position Y:
-3
-
-Guarana
-Age:
-17
-Strength:
-0
-Position X:
-3
-Position Y:
-0
-
-Guarana
-Age:
-17
-Strength:
-0
-Position X:
-17
-Position Y:
-11
-
-Belladonna
-Age:
-17
-Strength:
-99
-Position X:
-35
-Position Y:
-4
-
-Dandelion
-Age:
-17
-Strength:
-0
-Position X:
-18
-Position Y:
-7
-
-Dandelion
-Age:
-17
-Strength:
-0
-Position X:
-16
-Position Y:
-23
-
-Dandelion
-Age:
-17
-Strength:
-0
-Position X:
-35
-Position Y:
-5
-
-Guarana
-Age:
-17
-Strength:
-0
-Position X:
-1
-Position Y:
-1
-
-Dandelion
-Age:
-17
-Strength:
-0
-Position X:
-15
-Position Y:
-23
-
-Guarana
-Age:
-16
-Strength:
-0
-Position X:
-17
-Position Y:
-9
-
-Dandelion
-Age:
-16
-Strength:
-0
-Position X:
-19
-Position Y:
-1
-
-Dandelion
-Age:
-16
-Strength:
-0
-Position X:
-27
-Position Y:
-5
-
-Dandelion
-Age:
-16
-Strength:
-0
-Position X:
-16
-Position Y:
-20
-
-Dandelion
-Age:
-16
-Strength:
-0
-Position X:
-15
-Position Y:
-21
-
-Dandelion
-Age:
-16
-Strength:
-0
-Position X:
-22
-Position Y:
-15
-
-Dandelion
-Age:
-15
-Strength:
-0
-Position X:
-4
-Position Y:
-7
-
-Dandelion
-Age:
-15
-Strength:
-0
-Position X:
-33
-Position Y:
-6
-
-Belladonna
-Age:
-14
-Strength:
-99
-Position X:
-37
-Position Y:
-7
-
-Dandelion
-Age:
-14
-Strength:
-0
-Position X:
-21
-Position Y:
-19
-
-Dandelion
-Age:
-14
 Strength:
 0
 Position X:
 28
 Position Y:
-4
-
-Dandelion
-Age:
-14
-Strength:
-0
-Position X:
-37
-Position Y:
-10
-
-Dandelion
-Age:
-14
-Strength:
-0
-Position X:
-20
-Position Y:
-19
-
-Belladonna
-Age:
-14
-Strength:
-99
-Position X:
-30
-Position Y:
 2
 
-Dandelion
+Grass
 Age:
-14
+19
 Strength:
 0
 Position X:
-32
+17
 Position Y:
-10
+1
 
 Dandelion
 Age:
-14
+19
 Strength:
 0
 Position X:
-32
-Position Y:
-4
-
-Dandelion
-Age:
-14
-Strength:
-0
-Position X:
-33
-Position Y:
-5
-
-Belladonna
-Age:
-13
-Strength:
-99
-Position X:
-34
-Position Y:
-4
-
-Belladonna
-Age:
-13
-Strength:
-99
-Position X:
-33
-Position Y:
-3
-
-Dandelion
-Age:
-13
-Strength:
-0
-Position X:
-11
-Position Y:
-5
-
-Dandelion
-Age:
-13
-Strength:
-0
-Position X:
-31
-Position Y:
-5
-
-Dandelion
-Age:
 12
+Position Y:
+17
+
+Dandelion
+Age:
+18
 Strength:
 0
 Position X:
-31
-Position Y:
 4
-
-Dandelion
-Age:
-12
-Strength:
-0
-Position X:
-36
 Position Y:
-10
-
-Dandelion
-Age:
-12
-Strength:
-0
-Position X:
-36
-Position Y:
-9
-
-Guarana
-Age:
-11
-Strength:
-0
-Position X:
 16
-Position Y:
-7
 
-Dandelion
+Belladonna
 Age:
-11
+18
 Strength:
-0
+99
 Position X:
 18
 Position Y:
-9
-
-Dandelion
-Age:
-11
-Strength:
-0
-Position X:
-17
-Position Y:
-20
-
-Dandelion
-Age:
-11
-Strength:
-0
-Position X:
-23
-Position Y:
-17
-
-Dandelion
-Age:
-11
-Strength:
-0
-Position X:
-35
-Position Y:
-6
-
-Guarana
-Age:
-11
-Strength:
-0
-Position X:
-0
-Position Y:
-0
-
-Dandelion
-Age:
-11
-Strength:
-0
-Position X:
-34
-Position Y:
-7
-
-Belladonna
-Age:
-11
-Strength:
-99
-Position X:
-36
-Position Y:
-7
-
-Dandelion
-Age:
-11
-Strength:
-0
-Position X:
-36
-Position Y:
-6
-
-Guarana
-Age:
-10
-Strength:
-0
-Position X:
-0
-Position Y:
-3
-
-Dandelion
-Age:
-10
-Strength:
-0
-Position X:
-33
-Position Y:
-4
-
-Belladonna
-Age:
-10
-Strength:
-99
-Position X:
-36
-Position Y:
-8
-
-Dandelion
-Age:
-10
-Strength:
-0
-Position X:
-1
-Position Y:
 4
 
 Dandelion
 Age:
-10
+18
 Strength:
 0
 Position X:
-23
+12
 Position Y:
 16
 
 Dandelion
 Age:
-10
-Strength:
-0
-Position X:
-35
-Position Y:
-7
-
-Guarana
-Age:
-9
-Strength:
-0
-Position X:
-1
-Position Y:
-0
-
-Dandelion
-Age:
-8
-Strength:
-0
-Position X:
-32
-Position Y:
-3
-
-Dandelion
-Age:
-7
-Strength:
-0
-Position X:
-19
-Position Y:
-20
-
-Guarana
-Age:
-7
-Strength:
-0
-Position X:
-0
-Position Y:
-2
-
-Belladonna
-Age:
-6
-Strength:
-99
-Position X:
-36
-Position Y:
-0
-
-Dandelion
-Age:
-6
-Strength:
-0
-Position X:
-22
-Position Y:
-20
-
-Dandelion
-Age:
-6
-Strength:
-0
-Position X:
-33
-Position Y:
-11
-
-Dandelion
-Age:
-6
-Strength:
-0
-Position X:
-17
-Position Y:
-21
-
-Dandelion
-Age:
-6
+18
 Strength:
 0
 Position X:
 13
 Position Y:
-8
-
-Dandelion
-Age:
-5
-Strength:
-0
-Position X:
-27
-Position Y:
-6
-
-Dandelion
-Age:
-5
-Strength:
-0
-Position X:
-20
-Position Y:
-6
-
-Dandelion
-Age:
-5
-Strength:
-0
-Position X:
-30
-Position Y:
-3
-
-Belladonna
-Age:
-4
-Strength:
-99
-Position X:
-32
-Position Y:
 1
 
-Belladonna
-Age:
-4
-Strength:
-99
-Position X:
-37
-Position Y:
-0
-
 Dandelion
 Age:
-4
-Strength:
-0
-Position X:
-34
-Position Y:
-5
-
-Dandelion
-Age:
-4
-Strength:
-0
-Position X:
-37
-Position Y:
-8
-
-Dandelion
-Age:
-4
+18
 Strength:
 0
 Position X:
 14
+Position Y:
+2
+
+Guarana
+Age:
+18
+Strength:
+0
+Position X:
+24
+Position Y:
+11
+
+Dandelion
+Age:
+18
+Strength:
+0
+Position X:
+21
+Position Y:
+13
+
+Dandelion
+Age:
+18
+Strength:
+0
+Position X:
+14
+Position Y:
+1
+
+Dandelion
+Age:
+17
+Strength:
+0
+Position X:
+9
+Position Y:
+17
+
+Dandelion
+Age:
+17
+Strength:
+0
+Position X:
+3
 Position Y:
 15
 
 Dandelion
 Age:
-3
+16
 Strength:
 0
 Position X:
-6
+3
 Position Y:
-6
+16
 
 Dandelion
 Age:
-3
+16
 Strength:
 0
 Position X:
-21
-Position Y:
-21
-
-Dandelion
-Age:
-3
-Strength:
-0
-Position X:
-37
-Position Y:
-9
-
-Dandelion
-Age:
-2
-Strength:
-0
-Position X:
-7
-Position Y:
 4
+Position Y:
+13
 
 Dandelion
 Age:
-2
+16
 Strength:
 0
 Position X:
-19
+4
 Position Y:
-7
+14
 
 Guarana
 Age:
-1
+16
 Strength:
 0
 Position X:
-14
+24
 Position Y:
-7
+0
 
 Dandelion
 Age:
-1
+16
 Strength:
 0
 Position X:
-22
+24
 Position Y:
-21
+16
+
+Guarana
+Age:
+16
+Strength:
+0
+Position X:
+25
+Position Y:
+12
 
 Dandelion
 Age:
-1
+15
+Strength:
+0
+Position X:
+6
+Position Y:
+15
+
+Dandelion
+Age:
+15
+Strength:
+0
+Position X:
+11
+Position Y:
+13
+
+Dandelion
+Age:
+15
+Strength:
+0
+Position X:
+12
+Position Y:
+18
+
+Dandelion
+Age:
+15
 Strength:
 0
 Position X:
 23
 Position Y:
-22
+14
 
 Dandelion
 Age:
-1
+15
 Strength:
 0
 Position X:
-19
+5
 Position Y:
-17
+15
 
 Guarana
 Age:
-1
+15
 Strength:
 0
 Position X:
-2
+25
 Position Y:
-1
+11
 
 Dandelion
 Age:
-1
+14
 Strength:
 0
 Position X:
-31
-Position Y:
 3
+Position Y:
+13
 
 Dandelion
 Age:
-1
+14
 Strength:
 0
 Position X:
-35
+5
+Position Y:
+16
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+21
+Position Y:
+12
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+25
+Position Y:
+17
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+22
+Position Y:
+13
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+25
+Position Y:
+16
+
+Dandelion
+Age:
+14
+Strength:
+0
+Position X:
+23
+Position Y:
+13
+
+Dandelion
+Age:
+13
+Strength:
+0
+Position X:
+10
+Position Y:
+0
+
+Grass
+Age:
+13
+Strength:
+0
+Position X:
+22
+Position Y:
+1
+
+Guarana
+Age:
+13
+Strength:
+0
+Position X:
+21
+Position Y:
+2
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+8
+Position Y:
+14
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+11
+Position Y:
+14
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+14
+Position Y:
+0
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+4
+Position Y:
+15
+
+Dandelion
+Age:
+12
+Strength:
+0
+Position X:
+3
+Position Y:
+14
+
+Guarana
+Age:
+11
+Strength:
+0
+Position X:
+24
+Position Y:
+1
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+24
+Position Y:
+14
+
+Dandelion
+Age:
+11
+Strength:
+0
+Position X:
+22
+Position Y:
+11
+
+Guarana
+Age:
+10
+Strength:
+0
+Position X:
+24
+Position Y:
+4
+
+Dandelion
+Age:
+10
+Strength:
+0
+Position X:
+10
+Position Y:
+13
+
+Guarana
+Age:
+10
+Strength:
+0
+Position X:
+24
 Position Y:
 9
 
 Dandelion
 Age:
+10
+Strength:
+0
+Position X:
+2
+Position Y:
+13
+
+Grass
+Age:
+9
+Strength:
+0
+Position X:
+20
+Position Y:
+4
+
+Dandelion
+Age:
+9
+Strength:
+0
+Position X:
+20
+Position Y:
+13
+
+Grass
+Age:
+8
+Strength:
+0
+Position X:
+18
+Position Y:
 1
+
+Dandelion
+Age:
+8
+Strength:
+0
+Position X:
+8
+Position Y:
+15
+
+Dandelion
+Age:
+8
 Strength:
 0
 Position X:
@@ -8819,10 +4829,330 @@ Position Y:
 
 Dandelion
 Age:
-1
+8
+Strength:
+0
+Position X:
+8
+Position Y:
+16
+
+Dandelion
+Age:
+8
 Strength:
 0
 Position X:
 20
 Position Y:
-20
+12
+
+Dandelion
+Age:
+8
+Strength:
+0
+Position X:
+23
+Position Y:
+12
+
+Dandelion
+Age:
+8
+Strength:
+0
+Position X:
+25
+Position Y:
+14
+
+Dandelion
+Age:
+7
+Strength:
+0
+Position X:
+9
+Position Y:
+14
+
+Dandelion
+Age:
+7
+Strength:
+0
+Position X:
+18
+Position Y:
+18
+
+Dandelion
+Age:
+7
+Strength:
+0
+Position X:
+13
+Position Y:
+14
+
+Dandelion
+Age:
+7
+Strength:
+0
+Position X:
+26
+Position Y:
+16
+
+Dandelion
+Age:
+7
+Strength:
+0
+Position X:
+24
+Position Y:
+15
+
+Guarana
+Age:
+7
+Strength:
+0
+Position X:
+21
+Position Y:
+3
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+26
+Position Y:
+17
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+27
+Position Y:
+17
+
+Dandelion
+Age:
+6
+Strength:
+0
+Position X:
+28
+Position Y:
+17
+
+Dandelion
+Age:
+5
+Strength:
+0
+Position X:
+15
+Position Y:
+14
+
+Guarana
+Age:
+5
+Strength:
+0
+Position X:
+29
+Position Y:
+2
+
+Dandelion
+Age:
+5
+Strength:
+0
+Position X:
+25
+Position Y:
+15
+
+Dandelion
+Age:
+5
+Strength:
+0
+Position X:
+24
+Position Y:
+12
+
+Guarana
+Age:
+4
+Strength:
+0
+Position X:
+27
+Position Y:
+2
+
+Dandelion
+Age:
+4
+Strength:
+0
+Position X:
+27
+Position Y:
+16
+
+Dandelion
+Age:
+4
+Strength:
+0
+Position X:
+29
+Position Y:
+17
+
+Dandelion
+Age:
+3
+Strength:
+0
+Position X:
+7
+Position Y:
+15
+
+Belladonna
+Age:
+3
+Strength:
+99
+Position X:
+24
+Position Y:
+2
+
+Guarana
+Age:
+3
+Strength:
+0
+Position X:
+23
+Position Y:
+0
+
+Dandelion
+Age:
+3
+Strength:
+0
+Position X:
+27
+Position Y:
+18
+
+Dandelion
+Age:
+3
+Strength:
+0
+Position X:
+28
+Position Y:
+18
+
+Dandelion
+Age:
+2
+Strength:
+0
+Position X:
+8
+Position Y:
+13
+
+Dandelion
+Age:
+2
+Strength:
+0
+Position X:
+9
+Position Y:
+15
+
+Dandelion
+Age:
+2
+Strength:
+0
+Position X:
+26
+Position Y:
+18
+
+Dandelion
+Age:
+2
+Strength:
+0
+Position X:
+29
+Position Y:
+16
+
+Grass
+Age:
+1
+Strength:
+0
+Position X:
+14
+Position Y:
+14
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+22
+Position Y:
+12
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+29
+Position Y:
+18
+
+Dandelion
+Age:
+1
+Strength:
+0
+Position X:
+28
+Position Y:
+16
